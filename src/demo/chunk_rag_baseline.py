@@ -39,6 +39,9 @@ DOCUMENT_PARTS = {
         EXTRACTED_JSON_DIR / "charles_colvard_cree_esa_2014_part1.docling_raw.json",
         EXTRACTED_JSON_DIR / "charles_colvard_cree_esa_2014_part2.docling_raw.json",
     ],
+    "charles-colvard-cree-esa-amendment1-2018": [
+        EXTRACTED_JSON_DIR / "charles_colvard_cree_esa_1st_amendment_2018.docling_raw.json",
+    ],
     "charles-colvard-cree-esa-amendment2-2020": [
         EXTRACTED_JSON_DIR / "charles_colvard_cree_esa_2nd_amendment_2020.docling_raw.json",
     ],

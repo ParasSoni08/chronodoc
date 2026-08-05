@@ -1,0 +1,204 @@
+{
+  "doc_id": "charles-colvard-cree-esa-amendment1-2018",
+  "source_file": "charles_colvard_cree_esa_1st_amendment_2018.pdf",
+  "doc_type": "contract",
+  "ingestion_date": "2026-08-06",
+  "effective_date": "June 22, 2018",
+  "vendor": {
+    "name": "CREE, INC.",
+    "normalized_name": "cree_inc"
+  },
+  "sections": [
+    {
+      "section_id": "s1",
+      "heading": "FIRST AMENDMENT TO EXCLUSIVE SUPPLY AGREEMENT",
+      "page_range": [
+        1,
+        1
+      ]
+    }
+  ],
+  "clauses": [
+    {
+      "clause_id": "c1",
+      "clause_type": "effective_date",
+      "text_summary": "June 22, 2018",
+      "page_ref": 1,
+      "bbox": [
+        33.74999859375,
+        683.869442982332,
+        575.073816536151,
+        618.8568078710339
+      ],
+      "confidence": 1.0
+    },
+    {
+      "clause_id": "c2",
+      "clause_type": "term",
+      "text_summary": "begin on the Effective Date and expire on June 25, 2023",
+      "page_ref": 1,
+      "bbox": [
+        51.749997843749995,
+        335.86945748233194,
+        458.6854119371944,
+        330.85681987103385
+      ],
+      "confidence": 1.0
+    },
+    {
+      "clause_id": "c3",
+      "clause_type": "renewal_option",
+      "text_summary": "one (1) option to extend the Term of this Agreement for an additional two (2)-year period",
+      "page_ref": 1,
+      "bbox": [
+        69.74999709375,
+        155.86946498233192,
+        576.1753329402547,
+        102.85682937103388
+      ],
+      "confidence": 1.0
+    },
+    {
+      "clause_id": "c4",
+      "clause_type": "collateral",
+      "text_summary": "Cree's rights with respect to Collateral are subject to that certain intercreditor agreement among Cree, C&C, and Wells Fargo Bank, National Association during the term of such agreement",
+      "page_ref": 3,
+      "bbox": [
+        69.74999709375,
+        659.8694439823319,
+        568.9310403421002,
+        618.8568078710334
+      ],
+      "confidence": 1.0
+    },
+    {
+      "clause_id": "c5",
+      "clause_type": "buyer_exclusivity_commitment",
+      "text_summary": "C&C shall purchase all its requirements for SiC materials from Cree, except as otherwise provided in Paragraph 7 of the Agreement",
+      "page_ref": 3,
+      "bbox": [
+        51.749997843749995,
+        479.86945148233167,
+        446.07139244494095,
+        474.85681387103364
+      ],
+      "confidence": 1.0
+    },
+    {
+      "clause_id": "c6",
+      "clause_type": "alternative_sic_material",
+      "text_summary": "Cree will provide to C&C sample(s) of SiC material that it believes meet C&C's Alternative SiC Material requirements for C&C's evaluation",
+      "page_ref": 4,
+      "bbox": [
+        69.74999709375,
+        719.8694414823317,
+        577.5519345057479,
+        366.85681837103357
+      ],
+      "confidence": 1.0
+    },
+    {
+      "clause_id": "c7",
+      "clause_type": "buyer_purchase_commitments",
+      "text_summary": "Each Fiscal Quarter, C&C agrees to purchase Products from Cree in quantities at or above the Minimum Purchase Commitment amount for such Fiscal Quarter",
+      "page_ref": 4,
+      "bbox": [
+        51.749997843749995,
+        323.8694579823318,
+        368.78452188306505,
+        318.8568203710338
+      ],
+      "confidence": 1.0
+    }
+  ],
+  "entities": [
+    {
+      "entity_id": "e1",
+      "entity_type": "party_name",
+      "value": "CHARLES & COLVARD, LTD.",
+      "unit": null,
+      "page_ref": 1,
+      "bbox": [
+        33.74999859375,
+        683.869442982332,
+        575.073816536151,
+        618.8568078710339
+      ],
+      "confidence": 1.0,
+      "linked_clause": null
+    },
+    {
+      "entity_id": "e2",
+      "entity_type": "party_name",
+      "value": "CREE, INC.",
+      "unit": null,
+      "page_ref": 1,
+      "bbox": [
+        33.74999859375,
+        683.869442982332,
+        575.073816536151,
+        618.8568078710339
+      ],
+      "confidence": 1.0,
+      "linked_clause": null
+    },
+    {
+      "entity_type": "date",
+      "value": "June 22, 2018",
+      "unit": null,
+      "page_ref": 1,
+      "bbox": [
+        33.74999859375,
+        683.869442982332,
+        575.073816536151,
+        618.8568078710339
+      ],
+      "confidence": 1.0,
+      "linked_clause": "c1",
+      "entity_id": "e3"
+    },
+    {
+      "entity_type": "date",
+      "value": "June 25, 2023",
+      "unit": null,
+      "page_ref": 1,
+      "bbox": [
+        51.749997843749995,
+        335.86945748233194,
+        458.6854119371944,
+        330.85681987103385
+      ],
+      "confidence": 0.95,
+      "linked_clause": "c2",
+      "entity_id": "e4"
+    },
+    {
+      "entity_type": "quantity",
+      "value": "one (1)",
+      "unit": null,
+      "page_ref": 1,
+      "bbox": [
+        69.74999709375,
+        155.86946498233192,
+        576.1753329402547,
+        102.85682937103388
+      ],
+      "confidence": 0.95,
+      "linked_clause": "c3",
+      "entity_id": "e5"
+    }
+  ],
+  "visual_elements": [],
+  "cross_references": [
+    {
+      "from_clause": "c4",
+      "to": "Exhibit A",
+      "text": "as specified in Exhibit B"
+    },
+    {
+      "from_clause": "c6",
+      "to": "Paragraph 2(b)",
+      "text": "Paragraph 4(b), 'Section 6(c),' and 'Section 14(a)'"
+    }
+  ]
+}

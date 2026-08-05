@@ -1,0 +1,4414 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.10.0",
+  "name": "charles_colvard_cree_esa_1st_amendment_2018",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 12179636326948218409,
+    "filename": "charles_colvard_cree_esa_1st_amendment_2018.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/texts/17"
+      },
+      {
+        "$ref": "#/texts/18"
+      },
+      {
+        "$ref": "#/groups/2"
+      },
+      {
+        "$ref": "#/texts/20"
+      },
+      {
+        "$ref": "#/groups/3"
+      },
+      {
+        "$ref": "#/texts/23"
+      },
+      {
+        "$ref": "#/groups/4"
+      },
+      {
+        "$ref": "#/texts/26"
+      },
+      {
+        "$ref": "#/texts/27"
+      },
+      {
+        "$ref": "#/groups/5"
+      },
+      {
+        "$ref": "#/texts/29"
+      },
+      {
+        "$ref": "#/groups/6"
+      },
+      {
+        "$ref": "#/texts/31"
+      },
+      {
+        "$ref": "#/texts/32"
+      },
+      {
+        "$ref": "#/texts/33"
+      },
+      {
+        "$ref": "#/texts/34"
+      },
+      {
+        "$ref": "#/texts/35"
+      },
+      {
+        "$ref": "#/texts/36"
+      },
+      {
+        "$ref": "#/texts/37"
+      },
+      {
+        "$ref": "#/texts/38"
+      },
+      {
+        "$ref": "#/texts/39"
+      },
+      {
+        "$ref": "#/groups/7"
+      },
+      {
+        "$ref": "#/texts/42"
+      },
+      {
+        "$ref": "#/texts/43"
+      },
+      {
+        "$ref": "#/texts/44"
+      },
+      {
+        "$ref": "#/tables/0"
+      },
+      {
+        "$ref": "#/texts/45"
+      },
+      {
+        "$ref": "#/groups/8"
+      },
+      {
+        "$ref": "#/texts/49"
+      },
+      {
+        "$ref": "#/texts/50"
+      },
+      {
+        "$ref": "#/texts/51"
+      },
+      {
+        "$ref": "#/texts/52"
+      },
+      {
+        "$ref": "#/groups/9"
+      },
+      {
+        "$ref": "#/texts/56"
+      },
+      {
+        "$ref": "#/texts/57"
+      },
+      {
+        "$ref": "#/texts/58"
+      },
+      {
+        "$ref": "#/texts/59"
+      },
+      {
+        "$ref": "#/texts/60"
+      },
+      {
+        "$ref": "#/texts/61"
+      },
+      {
+        "$ref": "#/texts/62"
+      },
+      {
+        "$ref": "#/texts/63"
+      },
+      {
+        "$ref": "#/texts/64"
+      },
+      {
+        "$ref": "#/texts/65"
+      },
+      {
+        "$ref": "#/texts/66"
+      },
+      {
+        "$ref": "#/texts/67"
+      },
+      {
+        "$ref": "#/texts/68"
+      },
+      {
+        "$ref": "#/texts/69"
+      },
+      {
+        "$ref": "#/texts/70"
+      },
+      {
+        "$ref": "#/texts/71"
+      },
+      {
+        "$ref": "#/texts/72"
+      },
+      {
+        "$ref": "#/texts/73"
+      },
+      {
+        "$ref": "#/texts/74"
+      },
+      {
+        "$ref": "#/texts/75"
+      },
+      {
+        "$ref": "#/texts/76"
+      },
+      {
+        "$ref": "#/texts/77"
+      },
+      {
+        "$ref": "#/texts/78"
+      },
+      {
+        "$ref": "#/groups/10"
+      },
+      {
+        "$ref": "#/texts/84"
+      },
+      {
+        "$ref": "#/texts/85"
+      },
+      {
+        "$ref": "#/texts/86"
+      },
+      {
+        "$ref": "#/texts/87"
+      },
+      {
+        "$ref": "#/texts/88"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/12"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/14"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/19"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/21"
+        },
+        {
+          "$ref": "#/texts/22"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/24"
+        },
+        {
+          "$ref": "#/texts/25"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/28"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/30"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/40"
+        },
+        {
+          "$ref": "#/texts/41"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/46"
+        },
+        {
+          "$ref": "#/texts/47"
+        },
+        {
+          "$ref": "#/texts/48"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/53"
+        },
+        {
+          "$ref": "#/texts/54"
+        },
+        {
+          "$ref": "#/texts/55"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/79"
+        },
+        {
+          "$ref": "#/texts/80"
+        },
+        {
+          "$ref": "#/texts/81"
+        },
+        {
+          "$ref": "#/texts/82"
+        },
+        {
+          "$ref": "#/texts/83"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 33.74999859375,
+            "t": 755.8694399823319,
+            "r": 228.7906258045569,
+            "b": 750.8568023710338,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            42
+          ]
+        }
+      ],
+      "orig": "EX-10.1 2 tv497377_ex10-1.htm EXHIBIT 10.1",
+      "text": "EX-10.1 2 tv497377_ex10-1.htm EXHIBIT 10.1"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 526.5820130590819,
+            "t": 743.8694404823319,
+            "r": 578.2486914188036,
+            "b": 738.8568028710338,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "Exhibit 10.1",
+      "text": "Exhibit 10.1"
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 223.03124070703126,
+            "t": 719.8694414823319,
+            "r": 388.95149866318735,
+            "b": 702.8568043710338,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            45
+          ]
+        }
+      ],
+      "orig": "FIRST AMENDMENT TO EXCLUSIVE SUPPLY AGREEMENT",
+      "text": "FIRST AMENDMENT TO EXCLUSIVE SUPPLY AGREEMENT",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 33.74999859375,
+            "t": 683.869442982332,
+            "r": 575.073816536151,
+            "b": 618.8568078710339,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            675
+          ]
+        }
+      ],
+      "orig": "This FIRST AMENDMENT TO EXCLUSIVE SUPPLY AGREEMENT ('First Amendment') is entered into as of June 22, 2018 (the 'First Amendment Effective Date'), by and between CHARLES & COLVARD, LTD., a North Carolina corporation, with its principal place of business at 170 Southport Drive, Morrisville, North Carolina 27560 ('C&C'), and CREE, INC., a North Carolina corporation, with its principal place of business located at 4600 Silicon Dr., Durham, North Carolina 27703 ('Cree'). C&C and Cree may be referred to hereinafter individually as 'Party' and collectively as 'Parties.' Capitalized terms used but not defined herein shall have the meanings ascribed to them in the Agreement.",
+      "text": "This FIRST AMENDMENT TO EXCLUSIVE SUPPLY AGREEMENT ('First Amendment') is entered into as of June 22, 2018 (the 'First Amendment Effective Date'), by and between CHARLES & COLVARD, LTD., a North Carolina corporation, with its principal place of business at 170 Southport Drive, Morrisville, North Carolina 27560 ('C&C'), and CREE, INC., a North Carolina corporation, with its principal place of business located at 4600 Silicon Dr., Durham, North Carolina 27703 ('Cree'). C&C and Cree may be referred to hereinafter individually as 'Party' and collectively as 'Parties.' Capitalized terms used but not defined herein shall have the meanings ascribed to them in the Agreement."
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 33.74999859375,
+            "t": 599.8694464823319,
+            "r": 575.7365358813894,
+            "b": 582.8568093710338,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            161
+          ]
+        }
+      ],
+      "orig": "WHEREAS, Cree is in the business of developing, manufacturing and selling silicon carbide (SiC) substrates and materials for various electronic applications; and",
+      "text": "WHEREAS, Cree is in the business of developing, manufacturing and selling silicon carbide (SiC) substrates and materials for various electronic applications; and"
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 33.74999859375,
+            "t": 563.8694479823318,
+            "r": 545.9882284629892,
+            "b": 546.8568108710339,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            142
+          ]
+        }
+      ],
+      "orig": "WHEREAS, C&C develops, manufactures and markets gemstones fabricated from SiC material and desires to purchase certain material from Cree; and",
+      "text": "WHEREAS, C&C develops, manufactures and markets gemstones fabricated from SiC material and desires to purchase certain material from Cree; and"
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 33.74999859375,
+            "t": 527.8694494823319,
+            "r": 577.088874142129,
+            "b": 522.8568118710339,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            122
+          ]
+        }
+      ],
+      "orig": "WHEREAS, C&C and Cree previously entered into an Exclusive Supply Agreement dated December 12, 2014 (the 'Agreement'); and",
+      "text": "WHEREAS, C&C and Cree previously entered into an Exclusive Supply Agreement dated December 12, 2014 (the 'Agreement'); and"
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 33.74999859375,
+            "t": 503.8694504823319,
+            "r": 574.6463754054874,
+            "b": 486.85681337103387,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            146
+          ]
+        }
+      ],
+      "orig": "WHEREAS , the Parties desire to enter into this First Amendment to modify certain terms of the Agreement as of the First Amendment Effective Date.",
+      "text": "WHEREAS , the Parties desire to enter into this First Amendment to modify certain terms of the Agreement as of the First Amendment Effective Date."
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 33.74999859375,
+            "t": 467.8694519823319,
+            "r": 562.9590065996233,
+            "b": 450.85681487103386,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            151
+          ]
+        }
+      ],
+      "orig": "NOW, THEREFORE, the Parties, in consideration of the foregoing premises and the covenants and undertakings herein contained, mutually agree as follows:",
+      "text": "NOW, THEREFORE, the Parties, in consideration of the foregoing premises and the covenants and undertakings herein contained, mutually agree as follows:"
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 33.74999859375,
+            "t": 431.8694534823319,
+            "r": 85.8899964025,
+            "b": 426.85681587103386,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        }
+      ],
+      "orig": "1. General.",
+      "text": "1. General.",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 51.749997843749995,
+            "t": 407.8694544823319,
+            "r": 571.2176470617632,
+            "b": 378.85681787103385,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            311
+          ]
+        }
+      ],
+      "orig": "All references to '[***]' in the Agreement, including Exhibit A, are hereby replaced with references to '[***].' The references to 'Section 4(b),' 'Section 6(c),' and 'Section 14(a)' in the Agreement are hereby replaced with references to 'Paragraph 4(b),' 'Paragraph 6(c),' and 'Paragraph 14(a),' respectively.",
+      "text": "All references to '[***]' in the Agreement, including Exhibit A, are hereby replaced with references to '[***].' The references to 'Section 4(b),' 'Section 6(c),' and 'Section 14(a)' in the Agreement are hereby replaced with references to 'Paragraph 4(b),' 'Paragraph 6(c),' and 'Paragraph 14(a),' respectively."
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 33.74999859375,
+            "t": 359.86945648233194,
+            "r": 75.2024968478125,
+            "b": 354.85681887103385,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "2. Term.",
+      "text": "2. Term.",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 51.749997843749995,
+            "t": 335.86945748233194,
+            "r": 458.6854119371944,
+            "b": 330.85681987103385,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            101
+          ]
+        }
+      ],
+      "orig": "a. Paragraph 2(a) of the Agreement is hereby deleted in its entirety and replaced with the following:",
+      "text": "Paragraph 2(a) of the Agreement is hereby deleted in its entirety and replaced with the following:",
+      "enumerated": true,
+      "marker": "a."
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 69.74999709375,
+            "t": 311.86945848233194,
+            "r": 576.8636869094247,
+            "b": 210.85682487103384,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            997
+          ]
+        }
+      ],
+      "orig": "'(a) The term of this Agreement shall begin on the Effective Date and expire on June 25, 2023 (the 'Initial Term'), unless earlier terminated as provided herein or extended by mutual written agreement of the Parties or extended as provided in Paragraph 2(b). The period from the Effective Date until the expiration or termination of this Agreement in accordance with its terms shall be referred to as the 'Term.' At least [***] months prior to the expiration date of the Initial Term, C&C will notify Cree in writing of its desire to continue the business relationship through the extension of the Term. Promptly following such notification, the Parties will meet in person or by telephone to discuss a possible extension to the Term, including but not limited to discussing production volumes, purchase commitments, pricing, and third-party sourcing percentages for the extension period. However, Cree shall only be obligated to extend the Term at C&C's request pursuant to Paragraph 2(b) below.'",
+      "text": "'(a) The term of this Agreement shall begin on the Effective Date and expire on June 25, 2023 (the 'Initial Term'), unless earlier terminated as provided herein or extended by mutual written agreement of the Parties or extended as provided in Paragraph 2(b). The period from the Effective Date until the expiration or termination of this Agreement in accordance with its terms shall be referred to as the 'Term.' At least [***] months prior to the expiration date of the Initial Term, C&C will notify Cree in writing of its desire to continue the business relationship through the extension of the Term. Promptly following such notification, the Parties will meet in person or by telephone to discuss a possible extension to the Term, including but not limited to discussing production volumes, purchase commitments, pricing, and third-party sourcing percentages for the extension period. However, Cree shall only be obligated to extend the Term at C&C's request pursuant to Paragraph 2(b) below.'"
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 51.749997843749995,
+            "t": 191.86946348233198,
+            "r": 558.3331434102057,
+            "b": 186.85682587103383,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            126
+          ]
+        }
+      ],
+      "orig": "b. The portion of Paragraph 2(b) preceding clauses (1), (2) and (3) thereof is hereby deleted and replaced with the following:",
+      "text": "The portion of Paragraph 2(b) preceding clauses (1), (2) and (3) thereof is hereby deleted and replaced with the following:",
+      "enumerated": true,
+      "marker": "b."
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 69.74999709375,
+            "t": 155.86946498233192,
+            "r": 576.1753329402547,
+            "b": 102.85682937103388,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            580
+          ]
+        }
+      ],
+      "orig": "'Subject to the conditions set forth in this Paragraph 2(b), C&C shall have one (1) option (the 'Renewal Option') to extend the Term of this Agreement for an additional two (2)-year period (the 'Renewal Term') on the same terms and conditions then in effect (with such changes for the Renewal Term as may be mutually agreed upon in writing by the Parties). The Renewal Option shall be exercisable upon written notice (the 'Option Notice') given by C&C to Cree not later than [***]. The right of C&C to exercise its Renewal Option is subject to the following conditions precedent:'",
+      "text": "'Subject to the conditions set forth in this Paragraph 2(b), C&C shall have one (1) option (the 'Renewal Option') to extend the Term of this Agreement for an additional two (2)-year period (the 'Renewal Term') on the same terms and conditions then in effect (with such changes for the Renewal Term as may be mutually agreed upon in writing by the Parties). The Renewal Option shall be exercisable upon written notice (the 'Option Notice') given by C&C to Cree not later than [***]. The right of C&C to exercise its Renewal Option is subject to the following conditions precedent:'"
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 33.74999859375,
+            "t": 71.86946848233197,
+            "r": 535.674556877787,
+            "b": 54.85683137103388,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            203
+          ]
+        }
+      ],
+      "orig": "[***] Confidential treatment requested pursuant to a request for confidential treatment filed with the Securities and Exchange Commission. Omitted portions have been separately filed with the Commission.",
+      "text": "[***] Confidential treatment requested pursuant to a request for confidential treatment filed with the Securities and Exchange Commission. Omitted portions have been separately filed with the Commission."
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 283.35936319335934,
+            "t": 761.8694397323319,
+            "r": 328.62623481973964,
+            "b": 756.8568021210339,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        }
+      ],
+      "orig": "Page 1 of 6",
+      "text": "Page 1 of 6"
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 33.74999859375,
+            "t": 719.8694414823317,
+            "r": 148.09311881070312,
+            "b": 714.8568038710337,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            28
+          ]
+        }
+      ],
+      "orig": "3. Cree Priority Collateral.",
+      "text": "3. Cree Priority Collateral.",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 51.749997843749995,
+            "t": 695.8694424823318,
+            "r": 561.6672739846961,
+            "b": 678.8568053710335,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            159
+          ]
+        }
+      ],
+      "orig": "a. Clause (z) in the last sentence in the first paragraph of Paragraph 6(c) of the Agreement is hereby deleted in its entirety and replaced with the following:",
+      "text": "Clause (z) in the last sentence in the first paragraph of Paragraph 6(c) of the Agreement is hereby deleted in its entirety and replaced with the following:",
+      "enumerated": true,
+      "marker": "a."
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 69.74999709375,
+            "t": 659.8694439823319,
+            "r": 568.9310403421002,
+            "b": 618.8568078710334,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            391
+          ]
+        }
+      ],
+      "orig": "'(z) Cree's rights with respect to Collateral are subject to that certain intercreditor agreement among Cree, C&C, and Wells Fargo Bank, National Association during the term of such agreement, and thereafter to any written intercreditor agreement between Cree, C&C, and C&C's lender that has a priority interest in all Collateral other than the Cree Priority Collateral (the 'IC Agreement').",
+      "text": "'(z) Cree's rights with respect to Collateral are subject to that certain intercreditor agreement among Cree, C&C, and Wells Fargo Bank, National Association during the term of such agreement, and thereafter to any written intercreditor agreement between Cree, C&C, and C&C's lender that has a priority interest in all Collateral other than the Cree Priority Collateral (the 'IC Agreement')."
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 51.749997843749995,
+            "t": 599.8694464823318,
+            "r": 563.9518809145037,
+            "b": 582.8568093710335,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            147
+          ]
+        }
+      ],
+      "orig": "b. In Paragraph 6(c)(I), the reference to 'as in the State of Georgia' is hereby changed to read 'of the state whose laws govern the IC Agreement.'",
+      "text": "In Paragraph 6(c)(I), the reference to 'as in the State of Georgia' is hereby changed to read 'of the state whose laws govern the IC Agreement.'",
+      "enumerated": true,
+      "marker": "b."
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 51.749997843749995,
+            "t": 563.8694479823318,
+            "r": 574.3350591318713,
+            "b": 522.8568118710336,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            462
+          ]
+        }
+      ],
+      "orig": "c. Paragraph (6)(c)(III) of the Agreement is hereby deleted in its entirety and replaced with the following: ''Collateral' means any and all of the assets now owned or hereafter acquired by any Obligor, together with all proceeds, products, accessions and additions with respect to each of the foregoing from time to time, including, without limitation, any insurance proceeds, but expressly excluding assets that constitute precious metals, regardless of form.'",
+      "text": "Paragraph (6)(c)(III) of the Agreement is hereby deleted in its entirety and replaced with the following: ''Collateral' means any and all of the assets now owned or hereafter acquired by any Obligor, together with all proceeds, products, accessions and additions with respect to each of the foregoing from time to time, including, without limitation, any insurance proceeds, but expressly excluding assets that constitute precious metals, regardless of form.'",
+      "enumerated": true,
+      "marker": "c."
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 33.74999859375,
+            "t": 503.8694504823318,
+            "r": 189.02671460513653,
+            "b": 498.8568128710335,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            34
+          ]
+        }
+      ],
+      "orig": "4. Buyer's Exclusivity Commitment.",
+      "text": "4. Buyer's Exclusivity Commitment.",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 51.749997843749995,
+            "t": 479.86945148233167,
+            "r": 446.07139244494095,
+            "b": 474.85681387103364,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            98
+          ]
+        }
+      ],
+      "orig": "a. The last two sentences of Paragraph 7(c) of the Agreement are hereby deleted in their entirety.",
+      "text": "The last two sentences of Paragraph 7(c) of the Agreement are hereby deleted in their entirety.",
+      "enumerated": true,
+      "marker": "a."
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 51.749997843749995,
+            "t": 455.8694524823318,
+            "r": 533.6567985633864,
+            "b": 450.8568148710335,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            117
+          ]
+        }
+      ],
+      "orig": "b. Paragraph 7(d) of the Agreement is hereby modified by adding the following new sentence at the end of the section:",
+      "text": "Paragraph 7(d) of the Agreement is hereby modified by adding the following new sentence at the end of the section:",
+      "enumerated": true,
+      "marker": "b."
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 69.74999709375,
+            "t": 431.86945348233166,
+            "r": 545.9388299970482,
+            "b": 414.8568163710336,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            176
+          ]
+        }
+      ],
+      "orig": "'It is understood and agreed that nothing herein is intended to prohibit C&C from [***] gemstones made using the SiC materials acquired in accordance with this Paragraph 7(d).'",
+      "text": "'It is understood and agreed that nothing herein is intended to prohibit C&C from [***] gemstones made using the SiC materials acquired in accordance with this Paragraph 7(d).'"
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 69.74999709375,
+            "t": 395.8694549823317,
+            "r": 577.9863800734831,
+            "b": 342.85681937103345,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            592
+          ]
+        }
+      ],
+      "orig": "For avoidance of doubt, this modification also applies to gemstones manufactured prior to the First Amendment Effective Date. Except as modified above, Paragraph 7(d) remains in full force and effect, and the rights conveyed therein are independent of C&C's rights under Paragraphs 7(b) and 7(c) to purchase SiC materials from suppliers other than Cree. Further, any fulfillment by Cree of C&C's requirements for Alternative SIC Materials, as provided in Section 4(d) of this First Amendment, shall have no impact on the quantities of SiC materials that C&C may purchase under Paragraph 7(d).",
+      "text": "For avoidance of doubt, this modification also applies to gemstones manufactured prior to the First Amendment Effective Date. Except as modified above, Paragraph 7(d) remains in full force and effect, and the rights conveyed therein are independent of C&C's rights under Paragraphs 7(b) and 7(c) to purchase SiC materials from suppliers other than Cree. Further, any fulfillment by Cree of C&C's requirements for Alternative SIC Materials, as provided in Section 4(d) of this First Amendment, shall have no impact on the quantities of SiC materials that C&C may purchase under Paragraph 7(d)."
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 51.749997843749995,
+            "t": 323.8694579823318,
+            "r": 385.67638965423714,
+            "b": 318.85682037103356,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            84
+          ]
+        }
+      ],
+      "orig": "c. Paragraph 7(f) is hereby deleted in its entirety and replaced with the following:",
+      "text": "Paragraph 7(f) is hereby deleted in its entirety and replaced with the following:",
+      "enumerated": true,
+      "marker": "c."
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 69.74999709375,
+            "t": 299.8694589823317,
+            "r": 552.0749744843747,
+            "b": 282.8568218710336,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            171
+          ]
+        }
+      ],
+      "orig": "'(f) Cree's sole and exclusive remedy for breach of this Paragraph 7 by C&C will be to terminate the Parties' exclusivity obligations as provided in Paragraph 8(c) below.'",
+      "text": "'(f) Cree's sole and exclusive remedy for breach of this Paragraph 7 by C&C will be to terminate the Parties' exclusivity obligations as provided in Paragraph 8(c) below.'"
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 51.749997843749995,
+            "t": 263.86946048233176,
+            "r": 577.2249118980484,
+            "b": 186.85682587103338,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            776
+          ]
+        }
+      ],
+      "orig": "d. C&C has expressed an interest in purchasing a different [***] of SiC materials than currently contemplated in Exhibit A of the Agreement (i.e., SiC materials [***] set forth in Exhibit A as of the First Amendment Effective Date) for the production of gemstones (the 'Alternative SiC Material'). Since C&C is required to purchase 100% of its requirements for gemstones from Cree, except as otherwise provided in Paragraph 7 of the Agreement, and Cree does not currently offer the Alternative SiC Material for sale, it is necessary to establish the process for determining whether Cree is able to manufacture and sell a product that meets C&C's Alternative SiC Material requirements. Accordingly, the following language is hereby added as a new Section 7(g) of the Agreement:",
+      "text": "C&C has expressed an interest in purchasing a different [***] of SiC materials than currently contemplated in Exhibit A of the Agreement (i.e., SiC materials [***] set forth in Exhibit A as of the First Amendment Effective Date) for the production of gemstones (the 'Alternative SiC Material'). Since C&C is required to purchase 100% of its requirements for gemstones from Cree, except as otherwise provided in Paragraph 7 of the Agreement, and Cree does not currently offer the Alternative SiC Material for sale, it is necessary to establish the process for determining whether Cree is able to manufacture and sell a product that meets C&C's Alternative SiC Material requirements. Accordingly, the following language is hereby added as a new Section 7(g) of the Agreement:",
+      "enumerated": true,
+      "marker": "d."
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 33.74999859375,
+            "t": 155.86946498233192,
+            "r": 535.674556877787,
+            "b": 138.8568278710336,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            203
+          ]
+        }
+      ],
+      "orig": "[***] Confidential treatment requested pursuant to a request for confidential treatment filed with the Securities and Exchange Commission. Omitted portions have been separately filed with the Commission.",
+      "text": "[***] Confidential treatment requested pursuant to a request for confidential treatment filed with the Securities and Exchange Commission. Omitted portions have been separately filed with the Commission."
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 283.35936319335934,
+            "t": 119.86946648233197,
+            "r": 328.62623481973964,
+            "b": 114.85682887103349,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        }
+      ],
+      "orig": "Page 2 of 6",
+      "text": "Page 2 of 6"
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 69.74999709375,
+            "t": 719.8694414823317,
+            "r": 577.5519345057479,
+            "b": 366.85681837103357,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3624
+          ]
+        }
+      ],
+      "orig": "'By [***], Cree will provide to C&C sample(s) of SiC material that it believes meet C&C's Alternative SiC Material requirements for C&C's evaluation.  By [***], C&C will provide to Cree [***] specifications by which C&C has [***] Alternate SiC Material ([***] specifications shall [***] be referred to as the 'Alternate Material Standard') for Cree's verification.  Within [***] weeks of receipt, C&C will objectively evaluate the samples of alternate SiC material provided by Cree to determine compliance with the Alternate Material Standard established by C&C.  If Cree's samples meet the Alternate Material Standard, then C&C shall extend to Cree a right of first refusal to match the price offered by an undisclosed thirdparty supplier for the Alternative SiC Material [***]. If Cree agrees to match the price for all or some of C&C's Alternative SiC Material requirements, Exhibit A of this Agreement will be deemed modified to include the Alternative SiC Material as a new Product under this Agreement, including the agreed price and specifications for the new Product, and C&C will purchase from Cree its requirements for the Alternative SiC Materials, subject to any quantity limitations provided by Cree. If Cree does not agree to match the price within [***] days after receipt of C&C's notice, or if Cree agrees to match the price but is unable to supply all of C&C requirements for the Alternative SiC Material, then C&C will be free at any time within the next [***] months after expiration of the [***]-day period to purchase the Alternative SiC Material that Cree is unable or unwilling to supply from the third-party supplier, provided that (i) the [***] of such transaction are not, taken as a whole, materially more favorable to the third party supplier than those described in C&C's notice to Cree and (ii) the maximum quantity of Alternative SiC Material purchased by C&C from all third-party suppliers does not exceed [***] for Fiscal Year [***], [***] for Fiscal Year [***], [***] for Fiscal Year [***], [***] for Fiscal Year [***], and [***] for Fiscal Year [***] of the Minimum Purchase Commitment applicable to that Fiscal Year; provided that the foregoing [***] will be [***] in each Fiscal Year by the amount of Alternative SiC Material purchased by C&C from Cree and the amount of any SiC material purchased by C&C under Paragraph 7(d) during such Fiscal Year.  For the avoidance of doubt, C&C may elect not to purchase any Alternate SiC Material, and C&C shall not be obligated to offer Cree a right of first refusal for SiC materials purchased under Paragraph 7(d). Either Party may request a new evaluation of Alternative SiC Material in the manner set forth above by providing the other Party a written request for reconsideration, but not more frequently than once every [***] months during the Term. For example, if a third party is fulfilling C&C's Alternative SiC Material requirements, then [***] months after completion of the last right of first refusal process, Cree may submit new SiC material sample(s) for evaluation by C&C against the Alternative Material Standard, or if Cree is fulfilling C&C's Alternative SiC Material requirements and C&C has identified a new supplier offering a lower price for the Alternative SiC Material, then [***] months after completion of the last right of first refusal process, C&C may provide Cree [***] for verification and give Cree a right of first refusal to match the price offered by an undisclosed third-party supplier. For avoidance of doubt, this Paragraph 7(g) takes precedence over Paragraph 7(c) with respect to Alternate SiC Material.'",
+      "text": "'By [***], Cree will provide to C&C sample(s) of SiC material that it believes meet C&C's Alternative SiC Material requirements for C&C's evaluation.  By [***], C&C will provide to Cree [***] specifications by which C&C has [***] Alternate SiC Material ([***] specifications shall [***] be referred to as the 'Alternate Material Standard') for Cree's verification.  Within [***] weeks of receipt, C&C will objectively evaluate the samples of alternate SiC material provided by Cree to determine compliance with the Alternate Material Standard established by C&C.  If Cree's samples meet the Alternate Material Standard, then C&C shall extend to Cree a right of first refusal to match the price offered by an undisclosed thirdparty supplier for the Alternative SiC Material [***]. If Cree agrees to match the price for all or some of C&C's Alternative SiC Material requirements, Exhibit A of this Agreement will be deemed modified to include the Alternative SiC Material as a new Product under this Agreement, including the agreed price and specifications for the new Product, and C&C will purchase from Cree its requirements for the Alternative SiC Materials, subject to any quantity limitations provided by Cree. If Cree does not agree to match the price within [***] days after receipt of C&C's notice, or if Cree agrees to match the price but is unable to supply all of C&C requirements for the Alternative SiC Material, then C&C will be free at any time within the next [***] months after expiration of the [***]-day period to purchase the Alternative SiC Material that Cree is unable or unwilling to supply from the third-party supplier, provided that (i) the [***] of such transaction are not, taken as a whole, materially more favorable to the third party supplier than those described in C&C's notice to Cree and (ii) the maximum quantity of Alternative SiC Material purchased by C&C from all third-party suppliers does not exceed [***] for Fiscal Year [***], [***] for Fiscal Year [***], [***] for Fiscal Year [***], [***] for Fiscal Year [***], and [***] for Fiscal Year [***] of the Minimum Purchase Commitment applicable to that Fiscal Year; provided that the foregoing [***] will be [***] in each Fiscal Year by the amount of Alternative SiC Material purchased by C&C from Cree and the amount of any SiC material purchased by C&C under Paragraph 7(d) during such Fiscal Year.  For the avoidance of doubt, C&C may elect not to purchase any Alternate SiC Material, and C&C shall not be obligated to offer Cree a right of first refusal for SiC materials purchased under Paragraph 7(d). Either Party may request a new evaluation of Alternative SiC Material in the manner set forth above by providing the other Party a written request for reconsideration, but not more frequently than once every [***] months during the Term. For example, if a third party is fulfilling C&C's Alternative SiC Material requirements, then [***] months after completion of the last right of first refusal process, Cree may submit new SiC material sample(s) for evaluation by C&C against the Alternative Material Standard, or if Cree is fulfilling C&C's Alternative SiC Material requirements and C&C has identified a new supplier offering a lower price for the Alternative SiC Material, then [***] months after completion of the last right of first refusal process, C&C may provide Cree [***] for verification and give Cree a right of first refusal to match the price offered by an undisclosed third-party supplier. For avoidance of doubt, this Paragraph 7(g) takes precedence over Paragraph 7(c) with respect to Alternate SiC Material.'"
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 33.74999859375,
+            "t": 347.86945698233194,
+            "r": 183.47202733658185,
+            "b": 342.85681937103345,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            32
+          ]
+        }
+      ],
+      "orig": "5. Buyer's Purchase Commitments.",
+      "text": "5. Buyer's Purchase Commitments.",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/35",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 51.749997843749995,
+            "t": 323.8694579823318,
+            "r": 368.78452188306505,
+            "b": 318.8568203710338,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            81
+          ]
+        }
+      ],
+      "orig": "Paragraph 9(a) is hereby deleted in its entirety and replaced with the following:",
+      "text": "Paragraph 9(a) is hereby deleted in its entirety and replaced with the following:"
+    },
+    {
+      "self_ref": "#/texts/36",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 51.749997843749995,
+            "t": 299.8694589823317,
+            "r": 577.0769136255403,
+            "b": 174.85682637103355,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1377
+          ]
+        }
+      ],
+      "orig": "'(a) Each Fiscal Quarter, C&C agrees to purchase Products from Cree in quantities at or above the Minimum Purchase Commitment amount for such Fiscal Quarter. Failure to do so will, except as contemplated below, be considered a breach of the Agreement. The 'Minimum Purchase Commitment' for each Fiscal Quarter will be [***] (i) at least [***]% of C&C's requirements for SiC materials for the production of gemstones in colors available from Cree, excluding from such calculation any SiC materials purchased from third parties as expressly permitted in Paragraph 7(a) (but including any SiC materials purchased from third parties as expressly permitted in Paragraph 7(b), 7(c), 7(d) or 7(g)), or (ii) (A) [***] kilograms in the [***] Quarter of [***]; (B) [***] kilograms in the [***] Quarter of [***]; (C) [***] kilograms in [***] Quarter of [***]; (D) [***] kilograms in [***] Quarter of [***]; (E) [***] kilograms in [***] Quarter of [***]; (F) [***] kilograms in [***] Quarter of [***]; (G) [***] kilograms in [***] Quarter of [***]; (H) [***] kilograms in [***] Quarter of [***]; (I) [***] kilograms in [***] Quarter of [***]; and (J) [***] kilograms in [***] Quarter of [***]. If C&C exercises its Renewal Option, unless otherwise agreed in writing by the Parties, the Minimum Purchase Commitment amount for each Fiscal Quarter of the Renewal Term will be [***] kilograms.",
+      "text": "'(a) Each Fiscal Quarter, C&C agrees to purchase Products from Cree in quantities at or above the Minimum Purchase Commitment amount for such Fiscal Quarter. Failure to do so will, except as contemplated below, be considered a breach of the Agreement. The 'Minimum Purchase Commitment' for each Fiscal Quarter will be [***] (i) at least [***]% of C&C's requirements for SiC materials for the production of gemstones in colors available from Cree, excluding from such calculation any SiC materials purchased from third parties as expressly permitted in Paragraph 7(a) (but including any SiC materials purchased from third parties as expressly permitted in Paragraph 7(b), 7(c), 7(d) or 7(g)), or (ii) (A) [***] kilograms in the [***] Quarter of [***]; (B) [***] kilograms in the [***] Quarter of [***]; (C) [***] kilograms in [***] Quarter of [***]; (D) [***] kilograms in [***] Quarter of [***]; (E) [***] kilograms in [***] Quarter of [***]; (F) [***] kilograms in [***] Quarter of [***]; (G) [***] kilograms in [***] Quarter of [***]; (H) [***] kilograms in [***] Quarter of [***]; (I) [***] kilograms in [***] Quarter of [***]; and (J) [***] kilograms in [***] Quarter of [***]. If C&C exercises its Renewal Option, unless otherwise agreed in writing by the Parties, the Minimum Purchase Commitment amount for each Fiscal Quarter of the Renewal Term will be [***] kilograms."
+    },
+    {
+      "self_ref": "#/texts/37",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 33.74999859375,
+            "t": 143.8694654823321,
+            "r": 535.674556877787,
+            "b": 126.85682837103377,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            203
+          ]
+        }
+      ],
+      "orig": "[***] Confidential treatment requested pursuant to a request for confidential treatment filed with the Securities and Exchange Commission. Omitted portions have been separately filed with the Commission.",
+      "text": "[***] Confidential treatment requested pursuant to a request for confidential treatment filed with the Securities and Exchange Commission. Omitted portions have been separately filed with the Commission."
+    },
+    {
+      "self_ref": "#/texts/38",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 283.35936319335934,
+            "t": 107.86946698233169,
+            "r": 328.62623481973964,
+            "b": 102.85682937103365,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        }
+      ],
+      "orig": "Page 3 of 6",
+      "text": "Page 3 of 6"
+    },
+    {
+      "self_ref": "#/texts/39",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 33.74999859375,
+            "t": 719.8694414823321,
+            "r": 92.86265236197266,
+            "b": 714.8568038710337,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "6. Exhibit A.",
+      "text": "6. Exhibit A.",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/40",
+      "parent": {
+        "$ref": "#/groups/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 51.749997843749995,
+            "t": 695.869442482332,
+            "r": 565.1429821898747,
+            "b": 678.8568053710337,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            134
+          ]
+        }
+      ],
+      "orig": "a. By [***], the Parties will mutually agree upon a new Master Boule to be used for Forever One™ Specifications purposes in Exhibit A.",
+      "text": "By [***], the Parties will mutually agree upon a new Master Boule to be used for Forever One™ Specifications purposes in Exhibit A.",
+      "enumerated": true,
+      "marker": "a."
+    },
+    {
+      "self_ref": "#/texts/41",
+      "parent": {
+        "$ref": "#/groups/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 51.749997843749995,
+            "t": 659.8694439823321,
+            "r": 471.2259849396705,
+            "b": 654.8568063710336,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            105
+          ]
+        }
+      ],
+      "orig": "b. The 'Products' section in Exhibit A is hereby deleted in its entirety and replaced with the following:",
+      "text": "The 'Products' section in Exhibit A is hereby deleted in its entirety and replaced with the following:",
+      "enumerated": true,
+      "marker": "b."
+    },
+    {
+      "self_ref": "#/texts/42",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 69.74999709375,
+            "t": 635.8694449823324,
+            "r": 116.22767821267928,
+            "b": 630.8568073710339,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "'Products:",
+      "text": "'Products:",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/43",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 69.74999709375,
+            "t": 611.8694459823323,
+            "r": 168.60206333116375,
+            "b": 606.8568083710338,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            25
+          ]
+        }
+      ],
+      "orig": "[***] SiC [***] crystals.",
+      "text": "[***] SiC [***] crystals."
+    },
+    {
+      "self_ref": "#/texts/44",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 69.74999709375,
+            "t": 587.8694469823322,
+            "r": 491.95422505740584,
+            "b": 582.8568093710337,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            99
+          ]
+        }
+      ],
+      "orig": "Pricing for [***] SiC [***] crystals (all prices are per gram) Meeting Forever One™ Specifications:",
+      "text": "Pricing for [***] SiC [***] crystals (all prices are per gram) Meeting Forever One™ Specifications:",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/45",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 69.74999709375,
+            "t": 435.6194533260823,
+            "r": 577.8155884305993,
+            "b": 406.6068167147837,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            340
+          ]
+        }
+      ],
+      "orig": "The prices will be determined based on the Fiscal Year in which the Product is originally scheduled for delivery. The Parties agree that the foregoing pricing shall be subject to change from time to time, as mutually agreed upon in writing by the Parties, based upon any improvements made by Cree to the Specifications of the SiC Materials.",
+      "text": "The prices will be determined based on the Fiscal Year in which the Product is originally scheduled for delivery. The Parties agree that the foregoing pricing shall be subject to change from time to time, as mutually agreed upon in writing by the Parties, based upon any improvements made by Cree to the Specifications of the SiC Materials."
+    },
+    {
+      "self_ref": "#/texts/46",
+      "parent": {
+        "$ref": "#/groups/8"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 51.749997843749995,
+            "t": 387.6194553260825,
+            "r": 396.7884209483984,
+            "b": 382.6068177147836,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            86
+          ]
+        }
+      ],
+      "orig": "c. All references relating to [***] boules/crystals are hereby deleted from Exhibit A.",
+      "text": "All references relating to [***] boules/crystals are hereby deleted from Exhibit A.",
+      "enumerated": true,
+      "marker": "c."
+    },
+    {
+      "self_ref": "#/texts/47",
+      "parent": {
+        "$ref": "#/groups/8"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 51.749997843749995,
+            "t": 363.6194563260824,
+            "r": 489.05781855384004,
+            "b": 358.6068187147839,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            105
+          ]
+        }
+      ],
+      "orig": "d. In Exhibit A, the Section heading 'Specifications' is hereby changed to 'Forever One™ Specifications'.",
+      "text": "In Exhibit A, the Section heading 'Specifications' is hereby changed to 'Forever One™ Specifications'.",
+      "enumerated": true,
+      "marker": "d."
+    },
+    {
+      "self_ref": "#/texts/48",
+      "parent": {
+        "$ref": "#/groups/8"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 51.749997843749995,
+            "t": 339.6194573260823,
+            "r": 577.0056016321863,
+            "b": 307.6068208397837,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            135
+          ]
+        }
+      ],
+      "orig": "e. The images in Subsection (C) of the 'Forever One TM  Specifications' Section shall be deleted and replaced with the following: [***]",
+      "text": "The images in Subsection (C) of the 'Forever One TM  Specifications' Section shall be deleted and replaced with the following: [***]",
+      "enumerated": true,
+      "marker": "e."
+    },
+    {
+      "self_ref": "#/texts/49",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 33.74999859375,
+            "t": 264.61946045108243,
+            "r": 535.674556877787,
+            "b": 247.60682333978366,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            203
+          ]
+        }
+      ],
+      "orig": "[***] Confidential treatment requested pursuant to a request for confidential treatment filed with the Securities and Exchange Commission. Omitted portions have been separately filed with the Commission.",
+      "text": "[***] Confidential treatment requested pursuant to a request for confidential treatment filed with the Securities and Exchange Commission. Omitted portions have been separately filed with the Commission."
+    },
+    {
+      "self_ref": "#/texts/50",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 283.35936319335934,
+            "t": 228.61946195108249,
+            "r": 328.62623481973964,
+            "b": 223.60682433978354,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        }
+      ],
+      "orig": "Page 4 of 6",
+      "text": "Page 4 of 6"
+    },
+    {
+      "self_ref": "#/texts/51",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 33.74999859375,
+            "t": 719.8694414823326,
+            "r": 162.99936818960936,
+            "b": 714.8568038710337,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            29
+          ]
+        }
+      ],
+      "orig": "7. Quarterly Business Review.",
+      "text": "7. Quarterly Business Review.",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/52",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 51.749997843749995,
+            "t": 695.8694424823325,
+            "r": 491.45877227163754,
+            "b": 678.8568053710337,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            214
+          ]
+        }
+      ],
+      "orig": "During the Term of the Agreement, the Parties shall meet at least once per Fiscal Quarter to discuss high-level strategy/performance review, including but not limited to discussions concerning the following topics:",
+      "text": "During the Term of the Agreement, the Parties shall meet at least once per Fiscal Quarter to discuss high-level strategy/performance review, including but not limited to discussions concerning the following topics:"
+    },
+    {
+      "self_ref": "#/texts/53",
+      "parent": {
+        "$ref": "#/groups/9"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 69.74999709375,
+            "t": 659.8694439823325,
+            "r": 257.08731851211553,
+            "b": 654.856806371034,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            44
+          ]
+        }
+      ],
+      "orig": "i. Product performance, yield, and concerns;",
+      "text": "Product performance, yield, and concerns;",
+      "enumerated": true,
+      "marker": "i."
+    },
+    {
+      "self_ref": "#/texts/54",
+      "parent": {
+        "$ref": "#/groups/9"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 69.74999709375,
+            "t": 635.8694449823324,
+            "r": 365.9515237645189,
+            "b": 630.8568073710339,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            71
+          ]
+        }
+      ],
+      "orig": "ii. Opportunities for Product improvement, yield improvement, etc.; and",
+      "text": "Opportunities for Product improvement, yield improvement, etc.; and",
+      "enumerated": true,
+      "marker": "ii."
+    },
+    {
+      "self_ref": "#/texts/55",
+      "parent": {
+        "$ref": "#/groups/9"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 69.74999709375,
+            "t": 611.8694459823323,
+            "r": 173.26071266205332,
+            "b": 606.8568083710338,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            26
+          ]
+        }
+      ],
+      "orig": "iii. Third-party sourcing.",
+      "text": "Third-party sourcing.",
+      "enumerated": true,
+      "marker": "iii."
+    },
+    {
+      "self_ref": "#/texts/56",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 33.74999859375,
+            "t": 587.8694469823322,
+            "r": 111.99937031460937,
+            "b": 582.8568093710337,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            17
+          ]
+        }
+      ],
+      "orig": "8. Miscellaneous.",
+      "text": "8. Miscellaneous.",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/57",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 51.749997843749995,
+            "t": 563.8694479823325,
+            "r": 574.9387909146288,
+            "b": 462.85681437103403,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1088
+          ]
+        }
+      ],
+      "orig": "All modifications and changes in this First Amendment shall be effective as of the First Amendment Effective Date, notwithstanding a later or earlier execution date. The Agreement, as amended herein, shall continue in effect in accordance with its terms. In the event of conflict between the terms and conditions in this First Amendment and in the Agreement, the terms and conditions in this Amendment will control. The Agreement and Exhibits, as modified by this First Amendment, and the NDA contain the entire agreement between C&C and Cree with respect to the subject matter of the Agreement and supersede all other prior written or oral agreements relating to the purchase and sale of Products. This First Amendment may be executed in one or more counterparts, each of which shall be deemed an original, and all of which together shall constitute one and the same instrument. Any signed copy of this First Amendment copied or reproduced and transmitted via photocopy, facsimile or other process that accurately transmits the original document shall be considered an original document.",
+      "text": "All modifications and changes in this First Amendment shall be effective as of the First Amendment Effective Date, notwithstanding a later or earlier execution date. The Agreement, as amended herein, shall continue in effect in accordance with its terms. In the event of conflict between the terms and conditions in this First Amendment and in the Agreement, the terms and conditions in this Amendment will control. The Agreement and Exhibits, as modified by this First Amendment, and the NDA contain the entire agreement between C&C and Cree with respect to the subject matter of the Agreement and supersede all other prior written or oral agreements relating to the purchase and sale of Products. This First Amendment may be executed in one or more counterparts, each of which shall be deemed an original, and all of which together shall constitute one and the same instrument. Any signed copy of this First Amendment copied or reproduced and transmitted via photocopy, facsimile or other process that accurately transmits the original document shall be considered an original document."
+    },
+    {
+      "self_ref": "#/texts/58",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 33.74999859375,
+            "t": 431.8694534823326,
+            "r": 535.674556877787,
+            "b": 414.8568163710338,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            203
+          ]
+        }
+      ],
+      "orig": "[***] Confidential treatment requested pursuant to a request for confidential treatment filed with the Securities and Exchange Commission. Omitted portions have been separately filed with the Commission.",
+      "text": "[***] Confidential treatment requested pursuant to a request for confidential treatment filed with the Securities and Exchange Commission. Omitted portions have been separately filed with the Commission."
+    },
+    {
+      "self_ref": "#/texts/59",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 283.35936319335934,
+            "t": 395.8694549823326,
+            "r": 328.62623481973964,
+            "b": 390.8568173710337,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        }
+      ],
+      "orig": "Page 5 of 6",
+      "text": "Page 5 of 6"
+    },
+    {
+      "self_ref": "#/texts/60",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 33.74999859375,
+            "t": 719.8694414823321,
+            "r": 574.0831246274299,
+            "b": 702.8568043710338,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            221
+          ]
+        }
+      ],
+      "orig": "IN WITNESS WHEREOF , each of the Parties has duly executed this First Amendment as of the dates indicated below to be effective as of the First Amendment Effective Date, notwithstanding an earlier or later execution date.",
+      "text": "IN WITNESS WHEREOF , each of the Parties has duly executed this First Amendment as of the dates indicated below to be effective as of the First Amendment Effective Date, notwithstanding an earlier or later execution date."
+    },
+    {
+      "self_ref": "#/texts/61",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 33.74999859375,
+            "t": 672.6194434510826,
+            "r": 87.35470284147057,
+            "b": 667.6068058397841,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "CREE, INC.",
+      "text": "CREE, INC.",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/62",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 33.74999859375,
+            "t": 647.8694444823323,
+            "r": 48.194612065978674,
+            "b": 642.8568068710338,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "By:",
+      "text": "By:"
+    },
+    {
+      "self_ref": "#/texts/63",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 55.40624769140625,
+            "t": 648.6194444510829,
+            "r": 111.58388789608412,
+            "b": 642.8568068710338,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "/s/ C. Balkas",
+      "text": "/s/ C. Balkas"
+    },
+    {
+      "self_ref": "#/texts/64",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 33.74999859375,
+            "t": 635.8694449823324,
+            "r": 91.77741592135385,
+            "b": 630.8568073710339,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "Cengiz Balkas",
+      "text": "Cengiz Balkas"
+    },
+    {
+      "self_ref": "#/texts/65",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 33.74999859375,
+            "t": 623.8694454823326,
+            "r": 118.7403166765742,
+            "b": 618.8568078710341,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            22
+          ]
+        }
+      ],
+      "orig": "Title:  Vice President",
+      "text": "Title:  Vice President"
+    },
+    {
+      "self_ref": "#/texts/66",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 33.74999859375,
+            "t": 611.8694459823328,
+            "r": 116.57777038009269,
+            "b": 606.1068084022836,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            20
+          ]
+        }
+      ],
+      "orig": "Date:  June 21, 2018",
+      "text": "Date:  June 21, 2018"
+    },
+    {
+      "self_ref": "#/texts/67",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 33.74999859375,
+            "t": 587.1194470135824,
+            "r": 117.2397638854226,
+            "b": 582.106809402284,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            19
+          ]
+        }
+      ],
+      "orig": "Address for Notices",
+      "text": "Address for Notices",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/68",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 33.74999859375,
+            "t": 575.1194475135826,
+            "r": 159.2506812020547,
+            "b": 510.10681240228405,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            110
+          ]
+        }
+      ],
+      "orig": "Cree, Inc. 4600 Silicon Drive Durham, North Carolina 27703 Attn: Cengiz Balkas Email: [***] Fax No.: 919-[***]",
+      "text": "Cree, Inc. 4600 Silicon Drive Durham, North Carolina 27703 Attn: Cengiz Balkas Email: [***] Fax No.: 919-[***]"
+    },
+    {
+      "self_ref": "#/texts/69",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 33.74999859375,
+            "t": 491.1194510135829,
+            "r": 214.0757426542647,
+            "b": 486.1068134022844,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            46
+          ]
+        }
+      ],
+      "orig": "With copy of any notices of a legal nature to:",
+      "text": "With copy of any notices of a legal nature to:"
+    },
+    {
+      "self_ref": "#/texts/70",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 33.74999859375,
+            "t": 479.11945151358213,
+            "r": 72.88566331934723,
+            "b": 474.10681390228365,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "Cree, Inc.",
+      "text": "Cree, Inc."
+    },
+    {
+      "self_ref": "#/texts/71",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 33.74999859375,
+            "t": 467.1194520135823,
+            "r": 123.707864894593,
+            "b": 462.1068144022838,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            21
+          ]
+        }
+      ],
+      "orig": "Attn: General Counsel",
+      "text": "Attn: General Counsel"
+    },
+    {
+      "self_ref": "#/texts/72",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 33.74999859375,
+            "t": 455.1194525135825,
+            "r": 99.5684092075661,
+            "b": 450.106814902284,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            16
+          ]
+        }
+      ],
+      "orig": "4600 Silicon Dr.",
+      "text": "4600 Silicon Dr."
+    },
+    {
+      "self_ref": "#/texts/73",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 33.74999859375,
+            "t": 443.11945301358264,
+            "r": 159.2506812020547,
+            "b": 438.10681540228416,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            28
+          ]
+        }
+      ],
+      "orig": "Durham, North Carolina 27703",
+      "text": "Durham, North Carolina 27703"
+    },
+    {
+      "self_ref": "#/texts/74",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 33.74999859375,
+            "t": 431.1194535135828,
+            "r": 84.55754023226844,
+            "b": 426.1068159022843,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "Email: [***]",
+      "text": "Email: [***]"
+    },
+    {
+      "self_ref": "#/texts/75",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 33.74999859375,
+            "t": 419.119454013583,
+            "r": 111.22075094630128,
+            "b": 414.1068164022836,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            18
+          ]
+        }
+      ],
+      "orig": "Fax No.: 919-[***]",
+      "text": "Fax No.: 919-[***]"
+    },
+    {
+      "self_ref": "#/texts/76",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 33.74999859375,
+            "t": 383.1194555135826,
+            "r": 77.63057507789256,
+            "b": 378.1068179022841,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "CGS-E035",
+      "text": "CGS-E035",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/77",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 33.74999859375,
+            "t": 359.1194565135829,
+            "r": 535.674556877787,
+            "b": 342.1068194022837,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            203
+          ]
+        }
+      ],
+      "orig": "[***] Confidential treatment requested pursuant to a request for confidential treatment filed with the Securities and Exchange Commission. Omitted portions have been separately filed with the Commission.",
+      "text": "[***] Confidential treatment requested pursuant to a request for confidential treatment filed with the Securities and Exchange Commission. Omitted portions have been separately filed with the Commission."
+    },
+    {
+      "self_ref": "#/texts/78",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 364.4179573159178,
+            "t": 672.6194434510826,
+            "r": 501.55150485826965,
+            "b": 667.6068058397841,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            23
+          ]
+        }
+      ],
+      "orig": "CHARLES & COLVARD, LTD.",
+      "text": "CHARLES & COLVARD, LTD.",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/79",
+      "parent": {
+        "$ref": "#/groups/10"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 364.4179573159178,
+            "t": 647.8694444823323,
+            "r": 378.86257078814646,
+            "b": 642.8568068710338,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "By:",
+      "text": "By:"
+    },
+    {
+      "self_ref": "#/texts/80",
+      "parent": {
+        "$ref": "#/groups/10"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 386.074206413574,
+            "t": 648.6194444510829,
+            "r": 475.83717599753766,
+            "b": 642.8568068710338,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            20
+          ]
+        }
+      ],
+      "orig": "/s/ Suzanne Miglucci",
+      "text": "/s/ Suzanne Miglucci"
+    },
+    {
+      "self_ref": "#/texts/81",
+      "parent": {
+        "$ref": "#/groups/10"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 364.4179573159178,
+            "t": 635.8694449823324,
+            "r": 436.8802340707436,
+            "b": 630.8568073710339,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            16
+          ]
+        }
+      ],
+      "orig": "Suzanne Miglucci",
+      "text": "Suzanne Miglucci"
+    },
+    {
+      "self_ref": "#/texts/82",
+      "parent": {
+        "$ref": "#/groups/10"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 364.4179573159178,
+            "t": 623.8694454823326,
+            "r": 468.0656836231747,
+            "b": 618.8568078710341,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            25
+          ]
+        }
+      ],
+      "orig": "Title:  President and CEO",
+      "text": "Title:  President and CEO"
+    },
+    {
+      "self_ref": "#/texts/83",
+      "parent": {
+        "$ref": "#/groups/10"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 364.4179573159178,
+            "t": 611.8694459823328,
+            "r": 447.24572535226065,
+            "b": 606.1068084022836,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            20
+          ]
+        }
+      ],
+      "orig": "Date:  June 22, 2018",
+      "text": "Date:  June 22, 2018"
+    },
+    {
+      "self_ref": "#/texts/84",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 360.45701998095683,
+            "t": 587.1194470135824,
+            "r": 449.3842850460669,
+            "b": 582.106809402284,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            19
+          ]
+        }
+      ],
+      "orig": "Address for Notices",
+      "text": "Address for Notices",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/85",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 360.45701998095683,
+            "t": 575.1194475135826,
+            "r": 503.61865910338815,
+            "b": 510.10681240228405,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            130
+          ]
+        }
+      ],
+      "orig": "Charles & Colvard, Ltd. 170 Southport Drive Morrisville, North Carolina 27560 Attn: Maria Flanagan Email: [***] Fax No.: 919-[***]",
+      "text": "Charles & Colvard, Ltd. 170 Southport Drive Morrisville, North Carolina 27560 Attn: Maria Flanagan Email: [***] Fax No.: 919-[***]"
+    },
+    {
+      "self_ref": "#/texts/86",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 360.45701998095683,
+            "t": 491.1194510135829,
+            "r": 546.2202638149088,
+            "b": 426.1068159022843,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            150
+          ]
+        }
+      ],
+      "orig": "With copy of any notices of a legal nature to: Wyrick Robbins Yates & Ponton LLP Attn: Jason Wood 4101 Lake Boone Trail Raleigh, NC 27607 Email: [***]",
+      "text": "With copy of any notices of a legal nature to: Wyrick Robbins Yates & Ponton LLP Attn: Jason Wood 4101 Lake Boone Trail Raleigh, NC 27607 Email: [***]"
+    },
+    {
+      "self_ref": "#/texts/87",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 360.45701998095683,
+            "t": 419.119454013583,
+            "r": 443.36527210694555,
+            "b": 414.1068164022836,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            18
+          ]
+        }
+      ],
+      "orig": "Fax No.: 919-[***]",
+      "text": "Fax No.: 919-[***]"
+    },
+    {
+      "self_ref": "#/texts/88",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 283.35936319335934,
+            "t": 323.1194580135825,
+            "r": 328.62623481973964,
+            "b": 318.10682040228403,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        }
+      ],
+      "orig": "Page 6 of 6",
+      "text": "Page 6 of 6"
+    }
+  ],
+  "pictures": [],
+  "tables": [
+    {
+      "self_ref": "#/tables/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "table",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 68.85057067871094,
+            "t": 567.2984924316406,
+            "r": 576.193359375,
+            "b": 450.208251953125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "data": {
+        "table_cells": [
+          {
+            "bbox": {
+              "l": 85.51171518701172,
+              "t": 255.13055089266754,
+              "r": 132.61414207197194,
+              "b": 260.1431885039665,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Fiscal Year",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 185.50780477050782,
+              "t": 243.1305513926677,
+              "r": 217.91178409290336,
+              "b": 260.1431885039665,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "Volume (kg)",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 283.6406131816406,
+              "t": 243.1305513926677,
+              "r": 316.9525652741419,
+              "b": 260.1431885039665,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "Volume (grams)",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 377.92967175292966,
+              "t": 255.13055089266754,
+              "r": 414.5806334483676,
+              "b": 260.1431885039665,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "Revenue",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 462.18748074218746,
+              "t": 228.8805519864177,
+              "r": 568.9770578651829,
+              "b": 260.1431885039665,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 4,
+            "end_col_offset_idx": 5,
+            "text": "Price per gram of Product meeting Forever One TM Specifications",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 99.0585896225586,
+              "t": 267.8805503614176,
+              "r": 119.05357367693423,
+              "b": 272.8931879727161,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "2019",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 204.4921789794922,
+              "t": 267.8805503614176,
+              "r": 226.14689363271177,
+              "b": 272.8931879727161,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "[***]",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 310.66404955566406,
+              "t": 267.8805503614176,
+              "r": 332.3187642088836,
+              "b": 272.8931879727161,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "[***]",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 416.89451762939433,
+              "t": 267.8805503614176,
+              "r": 443.54797704933287,
+              "b": 272.8931879727161,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "$[***]",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 543.3281023613281,
+              "t": 267.8805503614176,
+              "r": 569.9815617812666,
+              "b": 272.8931879727161,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 4,
+            "end_col_offset_idx": 5,
+            "text": "$[***]",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 99.0585896225586,
+              "t": 280.63054983016764,
+              "r": 119.05357367693423,
+              "b": 285.6431874414661,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "2020",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 204.4921789794922,
+              "t": 280.63054983016764,
+              "r": 226.14689363271177,
+              "b": 285.6431874414661,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "[***]",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 310.66404955566406,
+              "t": 280.63054983016764,
+              "r": 332.3187642088836,
+              "b": 285.6431874414661,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "[***]",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 416.89451762939433,
+              "t": 280.63054983016764,
+              "r": 443.54797704933287,
+              "b": 285.6431874414661,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "$[***]",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 543.3281023613281,
+              "t": 280.63054983016764,
+              "r": 569.9815617812666,
+              "b": 285.6431874414661,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 4,
+            "end_col_offset_idx": 5,
+            "text": "$[***]",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 99.0585896225586,
+              "t": 293.3805492989177,
+              "r": 119.05357367693423,
+              "b": 298.3931869102162,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "2021",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 204.4921789794922,
+              "t": 293.3805492989177,
+              "r": 226.14689363271177,
+              "b": 298.3931869102162,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "[***]",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 310.66404955566406,
+              "t": 293.3805492989177,
+              "r": 332.3187642088836,
+              "b": 298.3931869102162,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "[***]",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 416.89451762939433,
+              "t": 293.3805492989177,
+              "r": 443.54797704933287,
+              "b": 298.3931869102162,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "$[***]",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 543.3281023613281,
+              "t": 293.3805492989177,
+              "r": 569.9815617812666,
+              "b": 298.3931869102162,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 4,
+            "end_col_offset_idx": 5,
+            "text": "$[***]",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 99.0585896225586,
+              "t": 306.13054876766773,
+              "r": 119.05357367693423,
+              "b": 311.1431863789662,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 4,
+            "end_row_offset_idx": 5,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "2022",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 204.4921789794922,
+              "t": 306.13054876766773,
+              "r": 226.14689363271177,
+              "b": 311.1431863789662,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 4,
+            "end_row_offset_idx": 5,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "[***]",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 310.66404955566406,
+              "t": 306.13054876766773,
+              "r": 332.3187642088836,
+              "b": 311.1431863789662,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 4,
+            "end_row_offset_idx": 5,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "[***]",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 416.89451762939433,
+              "t": 306.13054876766773,
+              "r": 443.54797704933287,
+              "b": 311.1431863789662,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 4,
+            "end_row_offset_idx": 5,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "$[***]",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 543.3281023613281,
+              "t": 306.13054876766773,
+              "r": 569.9815617812666,
+              "b": 311.1431863789662,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 4,
+            "end_row_offset_idx": 5,
+            "start_col_offset_idx": 4,
+            "end_col_offset_idx": 5,
+            "text": "$[***]",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 99.0585896225586,
+              "t": 318.8805482364178,
+              "r": 119.05357367693423,
+              "b": 323.89318584771627,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 5,
+            "end_row_offset_idx": 6,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "2023",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 204.4921789794922,
+              "t": 318.8805482364178,
+              "r": 226.14689363271177,
+              "b": 323.89318584771627,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 5,
+            "end_row_offset_idx": 6,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "[***]",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 310.66404955566406,
+              "t": 318.8805482364178,
+              "r": 332.3187642088836,
+              "b": 323.89318584771627,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 5,
+            "end_row_offset_idx": 6,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "[***]",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 416.89451762939433,
+              "t": 318.8805482364178,
+              "r": 443.54797704933287,
+              "b": 323.89318584771627,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 5,
+            "end_row_offset_idx": 6,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "$[***]",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 543.3281023613281,
+              "t": 318.8805482364178,
+              "r": 569.9815617812666,
+              "b": 323.89318584771627,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 5,
+            "end_row_offset_idx": 6,
+            "start_col_offset_idx": 4,
+            "end_col_offset_idx": 5,
+            "text": "$[***]",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 98.1328084111328,
+              "t": 331.6305477051678,
+              "r": 119.98766554960133,
+              "b": 336.6431853164663,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 6,
+            "end_row_offset_idx": 7,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Total",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 204.4921789794922,
+              "t": 331.6305477051678,
+              "r": 226.14689363271177,
+              "b": 336.6431853164663,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 6,
+            "end_row_offset_idx": 7,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "[***]",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 310.66404955566406,
+              "t": 331.6305477051678,
+              "r": 332.3187642088836,
+              "b": 336.6431853164663,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 6,
+            "end_row_offset_idx": 7,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "[***]",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 393.5624836015625,
+              "t": 331.6305477051678,
+              "r": 443.54992478125234,
+              "b": 336.6431853164663,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 6,
+            "end_row_offset_idx": 7,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "$52,945,000",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 543.3281023613281,
+              "t": 331.6305477051678,
+              "r": 569.9815617812666,
+              "b": 336.6431853164663,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 6,
+            "end_row_offset_idx": 7,
+            "start_col_offset_idx": 4,
+            "end_col_offset_idx": 5,
+            "text": "$[***]",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          }
+        ],
+        "num_rows": 7,
+        "num_cols": 5,
+        "orientation": "rot_0",
+        "grid": [
+          [
+            {
+              "bbox": {
+                "l": 85.51171518701172,
+                "t": 255.13055089266754,
+                "r": 132.61414207197194,
+                "b": 260.1431885039665,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Fiscal Year",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 185.50780477050782,
+                "t": 243.1305513926677,
+                "r": 217.91178409290336,
+                "b": 260.1431885039665,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "Volume (kg)",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 283.6406131816406,
+                "t": 243.1305513926677,
+                "r": 316.9525652741419,
+                "b": 260.1431885039665,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "Volume (grams)",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 377.92967175292966,
+                "t": 255.13055089266754,
+                "r": 414.5806334483676,
+                "b": 260.1431885039665,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "Revenue",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 462.18748074218746,
+                "t": 228.8805519864177,
+                "r": 568.9770578651829,
+                "b": 260.1431885039665,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 4,
+              "end_col_offset_idx": 5,
+              "text": "Price per gram of Product meeting Forever One TM Specifications",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 99.0585896225586,
+                "t": 267.8805503614176,
+                "r": 119.05357367693423,
+                "b": 272.8931879727161,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "2019",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 204.4921789794922,
+                "t": 267.8805503614176,
+                "r": 226.14689363271177,
+                "b": 272.8931879727161,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "[***]",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 310.66404955566406,
+                "t": 267.8805503614176,
+                "r": 332.3187642088836,
+                "b": 272.8931879727161,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "[***]",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 416.89451762939433,
+                "t": 267.8805503614176,
+                "r": 443.54797704933287,
+                "b": 272.8931879727161,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "$[***]",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 543.3281023613281,
+                "t": 267.8805503614176,
+                "r": 569.9815617812666,
+                "b": 272.8931879727161,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 4,
+              "end_col_offset_idx": 5,
+              "text": "$[***]",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 99.0585896225586,
+                "t": 280.63054983016764,
+                "r": 119.05357367693423,
+                "b": 285.6431874414661,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "2020",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 204.4921789794922,
+                "t": 280.63054983016764,
+                "r": 226.14689363271177,
+                "b": 285.6431874414661,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "[***]",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 310.66404955566406,
+                "t": 280.63054983016764,
+                "r": 332.3187642088836,
+                "b": 285.6431874414661,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "[***]",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 416.89451762939433,
+                "t": 280.63054983016764,
+                "r": 443.54797704933287,
+                "b": 285.6431874414661,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "$[***]",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 543.3281023613281,
+                "t": 280.63054983016764,
+                "r": 569.9815617812666,
+                "b": 285.6431874414661,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 4,
+              "end_col_offset_idx": 5,
+              "text": "$[***]",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 99.0585896225586,
+                "t": 293.3805492989177,
+                "r": 119.05357367693423,
+                "b": 298.3931869102162,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "2021",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 204.4921789794922,
+                "t": 293.3805492989177,
+                "r": 226.14689363271177,
+                "b": 298.3931869102162,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "[***]",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 310.66404955566406,
+                "t": 293.3805492989177,
+                "r": 332.3187642088836,
+                "b": 298.3931869102162,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "[***]",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 416.89451762939433,
+                "t": 293.3805492989177,
+                "r": 443.54797704933287,
+                "b": 298.3931869102162,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "$[***]",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 543.3281023613281,
+                "t": 293.3805492989177,
+                "r": 569.9815617812666,
+                "b": 298.3931869102162,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 4,
+              "end_col_offset_idx": 5,
+              "text": "$[***]",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 99.0585896225586,
+                "t": 306.13054876766773,
+                "r": 119.05357367693423,
+                "b": 311.1431863789662,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "2022",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 204.4921789794922,
+                "t": 306.13054876766773,
+                "r": 226.14689363271177,
+                "b": 311.1431863789662,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "[***]",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 310.66404955566406,
+                "t": 306.13054876766773,
+                "r": 332.3187642088836,
+                "b": 311.1431863789662,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "[***]",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 416.89451762939433,
+                "t": 306.13054876766773,
+                "r": 443.54797704933287,
+                "b": 311.1431863789662,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "$[***]",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 543.3281023613281,
+                "t": 306.13054876766773,
+                "r": 569.9815617812666,
+                "b": 311.1431863789662,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "start_col_offset_idx": 4,
+              "end_col_offset_idx": 5,
+              "text": "$[***]",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 99.0585896225586,
+                "t": 318.8805482364178,
+                "r": 119.05357367693423,
+                "b": 323.89318584771627,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 5,
+              "end_row_offset_idx": 6,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "2023",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 204.4921789794922,
+                "t": 318.8805482364178,
+                "r": 226.14689363271177,
+                "b": 323.89318584771627,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 5,
+              "end_row_offset_idx": 6,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "[***]",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 310.66404955566406,
+                "t": 318.8805482364178,
+                "r": 332.3187642088836,
+                "b": 323.89318584771627,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 5,
+              "end_row_offset_idx": 6,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "[***]",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 416.89451762939433,
+                "t": 318.8805482364178,
+                "r": 443.54797704933287,
+                "b": 323.89318584771627,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 5,
+              "end_row_offset_idx": 6,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "$[***]",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 543.3281023613281,
+                "t": 318.8805482364178,
+                "r": 569.9815617812666,
+                "b": 323.89318584771627,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 5,
+              "end_row_offset_idx": 6,
+              "start_col_offset_idx": 4,
+              "end_col_offset_idx": 5,
+              "text": "$[***]",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 98.1328084111328,
+                "t": 331.6305477051678,
+                "r": 119.98766554960133,
+                "b": 336.6431853164663,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 6,
+              "end_row_offset_idx": 7,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Total",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 204.4921789794922,
+                "t": 331.6305477051678,
+                "r": 226.14689363271177,
+                "b": 336.6431853164663,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 6,
+              "end_row_offset_idx": 7,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "[***]",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 310.66404955566406,
+                "t": 331.6305477051678,
+                "r": 332.3187642088836,
+                "b": 336.6431853164663,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 6,
+              "end_row_offset_idx": 7,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "[***]",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 393.5624836015625,
+                "t": 331.6305477051678,
+                "r": 443.54992478125234,
+                "b": 336.6431853164663,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 6,
+              "end_row_offset_idx": 7,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "$52,945,000",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 543.3281023613281,
+                "t": 331.6305477051678,
+                "r": 569.9815617812666,
+                "b": 336.6431853164663,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 6,
+              "end_row_offset_idx": 7,
+              "start_col_offset_idx": 4,
+              "end_col_offset_idx": 5,
+              "text": "$[***]",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ]
+        ]
+      },
+      "annotations": []
+    }
+  ],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 2
+    },
+    "3": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 3
+    },
+    "4": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 4
+    },
+    "5": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 5
+    },
+    "6": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 6
+    },
+    "7": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 7
+    }
+  }
+}

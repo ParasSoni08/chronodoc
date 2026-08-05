@@ -376,7 +376,20 @@ def main() -> None:
     parser.add_argument("--doc-id", required=True)
     parser.add_argument("--source-file", required=True)
     parser.add_argument("--model", default=MODEL)
+    parser.add_argument(
+        "--vendor-name",
+        help=(
+            "Override the LLM's vendor identification. Useful when ingesting a later "
+            "document in an already-established vendor relationship: the model "
+            "identifies the supplier-vs-buyer distinction correctly most of the time "
+            "but not always, and re-deriving it per-document risks splitting one "
+            "vendor's documents across two different Vendor nodes in the graph."
+        ),
+    )
+    parser.add_argument("--vendor-normalized-name", help="Required if --vendor-name is set.")
     args = parser.parse_args()
+    if args.vendor_name and not args.vendor_normalized_name:
+        parser.error("--vendor-normalized-name is required when --vendor-name is set")
 
     for p in args.raw_json_paths:
         if not p.exists():
@@ -496,13 +509,19 @@ def main() -> None:
         )
         cross_references.append({"from_clause": from_clause, "to": cr.to, "text": cr.text})
 
+    vendor = (
+        {"name": args.vendor_name, "normalized_name": args.vendor_normalized_name}
+        if args.vendor_name
+        else extraction.vendor.model_dump()
+    )
+
     doc = {
         "doc_id": args.doc_id,
         "source_file": args.source_file,
         "doc_type": extraction.doc_type,
         "ingestion_date": dt.date.today().isoformat(),
         "effective_date": effective_date,
-        "vendor": extraction.vendor.model_dump(),
+        "vendor": vendor,
         "sections": sections,
         "clauses": clauses,
         "entities": entities,

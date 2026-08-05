@@ -90,33 +90,44 @@ a browser rather than just checking the process started.
 
 ## Sample data
 
-Two real documents from SEC EDGAR (no fabricated samples), forming a
-genuine version chain — the same vendor relationship at two points in time:
+Three real documents from SEC EDGAR (no fabricated samples), forming a
+genuine version chain — the same vendor relationship at three points in
+time:
 
 - **Original**: Exclusive Supply Agreement between Charles & Colvard, Ltd.
   and Cree, Inc., dated December 12, 2014
-- **Amendment**: Second Amendment to that agreement, dated June 30, 2020
+- **First Amendment**, dated June 22, 2018
+- **Second Amendment**, dated June 30, 2020
 
-Both are real SEC filings; note that their pricing tables are redacted
-under confidential-treatment provisions (`[***]`/`[****]`) — structure
-extracts correctly, but the demo's numeric before/after uses the
-contract's **term-expiration date** instead, which is not redacted:
+All three are real SEC filings; note that their pricing tables are
+redacted under confidential-treatment provisions (`[***]`/`[****]`) —
+structure extracts correctly, but the demo's numeric before/after uses the
+contract's **term-expiration date** instead, which is not redacted and
+changes at every step:
 
-| | 2014 Original | 2020 Amendment |
-|---|---|---|
-| Vendor identified | Cree, Inc. | Cree, Inc. |
-| Term expiration | June 24, 2018 | June 29, 2025 |
+| | 2014 Original | 2018 First Amendment | 2020 Second Amendment |
+|---|---|---|---|
+| Vendor identified | Cree, Inc. | Cree, Inc. | Cree, Inc. |
+| Term expiration | June 24, 2018 | June 25, 2023 | June 29, 2025 |
 
 Asking ChronoDoc *"What is Cree's current contract term end date?"*
-correctly answers **June 29, 2025** while explicitly flagging that it
-changed from **June 24, 2018** in the 2014 original — citing both
-documents by page. That's the exact staleness failure plain RAG can't
-catch.
+correctly answers **June 29, 2025** while explicitly walking through the
+full history — **June 24, 2018** in the 2014 original, then **June 25,
+2023** after the first amendment — citing all three documents by page.
+That's the exact staleness failure plain RAG can't catch, and it holds up
+across more than just two versions.
+
+The vendor's identity (Cree, Inc. as the supplier, not Charles & Colvard
+the buyer) is occasionally misidentified by the extraction LLM on any
+single document — `structure_entities.py` accepts `--vendor-name` /
+`--vendor-normalized-name` to override this when ingesting a later
+document into an already-established vendor relationship, rather than
+re-deriving it from scratch each time and risking a split graph.
 
 ## The before/after demo
 
 `src/demo/chunk_rag_baseline.py` is a deliberately naive RAG pipeline over
-the same two documents — every Docling text/table element becomes one
+the same three documents — every Docling text/table element becomes one
 chunk, embedded with sentence-transformers and retrieved from Chroma by
 cosine similarity, with no notion of which document is current. Run
 side by side with ChronoDoc:
