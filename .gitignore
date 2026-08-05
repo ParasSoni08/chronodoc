@@ -2,8 +2,10 @@ venv/
 __pycache__/
 *.pyc
 
-# Regenerable binary graph DB -- rebuild via src/graph/ingest.py
+# Regenerable binary DBs -- rebuild via src/graph/ingest.py and
+# src/demo/chunk_rag_baseline.py --rebuild-index respectively
 data/graph_db
+data/chroma_db
 
 .env
 

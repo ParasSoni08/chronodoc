@@ -14,6 +14,8 @@ import streamlit as st
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[2]))
 
+from src.demo.chunk_rag_baseline import answer_naive
+from src.demo.compare import CHRONODOC_QUESTION, NAIVE_RAG_QUESTION
 from src.graph.schema import get_connection
 from src.query.synthesize import MODEL, run_query
 from src.query.traverse import get_document_chain
@@ -64,54 +66,102 @@ with st.sidebar:
     st.caption(f"Model: `{MODEL}`")
 
 st.title("ChronoDoc")
-st.caption("Ask about a vendor relationship. Answers are grounded in the graph and cite their source document + page.")
 
-if "messages" not in st.session_state:
-    st.session_state.messages = []
+chat_tab, demo_tab = st.tabs([":material/chat: Ask ChronoDoc", ":material/compare_arrows: Before / after"])
 
-for msg in st.session_state.messages:
-    with st.chat_message(msg["role"]):
-        st.write(msg["content"])
-        if msg.get("hits"):
-            with st.expander(f"Sources ({len(msg['hits'])} clause(s))"):
-                for h in msg["hits"]:
-                    status = ":green[CURRENT]" if h.is_current else ":gray[SUPERSEDED]"
-                    st.markdown(f"**{h.doc_id}** — {status} — page {h.page_ref}")
-                    st.caption(f"_{h.clause_type}_: {h.text_summary}")
-                    for e in h.entities:
-                        unit = f" {e['unit']}" if e.get("unit") else ""
-                        st.caption(f"↳ {e['entity_type']}: {e['value']}{unit}")
+with chat_tab:
+    st.caption("Ask about a vendor relationship. Answers are grounded in the graph and cite their source document + page.")
 
-if not st.session_state.messages:
-    selected = st.pills("Try asking:", list(SUGGESTIONS.keys()), label_visibility="collapsed")
-else:
-    selected = None
+    if "messages" not in st.session_state:
+        st.session_state.messages = []
 
-prompt = st.chat_input("Ask a question, e.g. \"What is Cree's current contract term end date?\"")
-if selected and not prompt:
-    prompt = SUGGESTIONS[selected]
-
-if prompt:
-    st.session_state.messages.append({"role": "user", "content": prompt})
-    with st.chat_message("user"):
-        st.write(prompt)
-
-    with st.chat_message("assistant"):
-        with st.spinner("Walking the graph..."):
-            result = run_query(prompt, conn=get_graph_connection())
-        if result.error:
-            st.write(result.error)
-            st.session_state.messages.append({"role": "assistant", "content": result.error, "hits": []})
-        else:
-            st.write(result.answer)
-            if result.hits:
-                with st.expander(f"Sources ({len(result.hits)} clause(s))"):
-                    for h in result.hits:
+    for msg in st.session_state.messages:
+        with st.chat_message(msg["role"]):
+            st.write(msg["content"])
+            if msg.get("hits"):
+                with st.expander(f"Sources ({len(msg['hits'])} clause(s))"):
+                    for h in msg["hits"]:
                         status = ":green[CURRENT]" if h.is_current else ":gray[SUPERSEDED]"
                         st.markdown(f"**{h.doc_id}** — {status} — page {h.page_ref}")
                         st.caption(f"_{h.clause_type}_: {h.text_summary}")
                         for e in h.entities:
                             unit = f" {e['unit']}" if e.get("unit") else ""
                             st.caption(f"↳ {e['entity_type']}: {e['value']}{unit}")
-            st.session_state.messages.append({"role": "assistant", "content": result.answer, "hits": result.hits})
-    st.rerun()
+
+    if not st.session_state.messages:
+        selected = st.pills("Try asking:", list(SUGGESTIONS.keys()), label_visibility="collapsed")
+    else:
+        selected = None
+
+    prompt = st.chat_input("Ask a question, e.g. \"What is Cree's current contract term end date?\"")
+    if selected and not prompt:
+        prompt = SUGGESTIONS[selected]
+
+    if prompt:
+        st.session_state.messages.append({"role": "user", "content": prompt})
+        with st.chat_message("user"):
+            st.write(prompt)
+
+        with st.chat_message("assistant"):
+            with st.spinner("Walking the graph..."):
+                result = run_query(prompt, conn=get_graph_connection())
+            if result.error:
+                st.write(result.error)
+                st.session_state.messages.append({"role": "assistant", "content": result.error, "hits": []})
+            else:
+                st.write(result.answer)
+                if result.hits:
+                    with st.expander(f"Sources ({len(result.hits)} clause(s))"):
+                        for h in result.hits:
+                            status = ":green[CURRENT]" if h.is_current else ":gray[SUPERSEDED]"
+                            st.markdown(f"**{h.doc_id}** — {status} — page {h.page_ref}")
+                            st.caption(f"_{h.clause_type}_: {h.text_summary}")
+                            for e in h.entities:
+                                unit = f" {e['unit']}" if e.get("unit") else ""
+                                st.caption(f"↳ {e['entity_type']}: {e['value']}{unit}")
+                st.session_state.messages.append({"role": "assistant", "content": result.answer, "hits": result.hits})
+        st.rerun()
+
+with demo_tab:
+    st.caption(
+        "The same underlying question about Cree's contract term, run through a naive "
+        "chunk-RAG baseline and through ChronoDoc -- showing the exact failure ChronoDoc "
+        "catches: a stale value returned with total confidence."
+    )
+
+    @st.cache_data(ttl=3600)
+    def run_comparison():
+        naive_answer, naive_chunks = answer_naive(NAIVE_RAG_QUESTION, top_k=1)
+        chronodoc_result = run_query(CHRONODOC_QUESTION, conn=get_graph_connection())
+        return naive_answer, naive_chunks, chronodoc_result
+
+    if st.button("Run comparison", icon=":material/play_arrow:"):
+        with st.spinner("Running both systems..."):
+            naive_answer, naive_chunks, chronodoc_result = run_comparison()
+
+        col1, col2 = st.columns(2)
+        with col1:
+            st.subheader(":material/warning: Before: plain chunk-RAG")
+            st.caption(f"Q: {NAIVE_RAG_QUESTION}")
+            with st.container(border=True):
+                st.write(naive_answer)
+                for c in naive_chunks:
+                    st.caption(f"Retrieved: [{c.doc_id}, page {c.page_no}, distance {c.distance:.3f}]")
+
+        with col2:
+            st.subheader(":material/check_circle: After: ChronoDoc")
+            st.caption(f"Q: {CHRONODOC_QUESTION}")
+            with st.container(border=True):
+                st.write(chronodoc_result.error or chronodoc_result.answer)
+                for h in chronodoc_result.hits:
+                    status = "CURRENT" if h.is_current else "SUPERSEDED"
+                    st.caption(f"[{h.doc_id}, page {h.page_ref}, {status}] {h.clause_type}")
+
+        st.info(
+            "Plain chunk-RAG retrieved the 2014 original's term clause -- ranked ahead of the "
+            "2020 amendment's -- and answered with total confidence using only that stale value, "
+            "with no signal a newer document exists. ChronoDoc walked the SUPERSEDES chain to the "
+            "current document, then checked the SAME_AS cluster and explicitly flagged that the "
+            "term changed, citing both documents by page.",
+            icon=":material/lightbulb:",
+        )

@@ -56,9 +56,9 @@ hosted vector DB, no hosted graph DB. Every model and datastore is local.
 
 ## Status
 
-Four of the five architecture layers are built and validated end-to-end on
-a real document pair (see below), including a working Streamlit UI. Not
-yet done: the explicit side-by-side chunk-RAG-vs-ChronoDoc demo.
+All five architecture layers from the brief are built and validated
+end-to-end on a real document pair (see below), including the headline
+before/after demo.
 
 | Layer | Status |
 |---|---|
@@ -67,7 +67,7 @@ yet done: the explicit side-by-side chunk-RAG-vs-ChronoDoc demo.
 | Graph schema + ingestion (`SAME_AS`, `SUPERSEDES`) | ✅ `src/graph/schema.py`, `src/graph/ingest.py` |
 | Query layer (NL → graph traversal → cited answer) | ✅ `src/query/traverse.py`, `src/query/synthesize.py` |
 | Streamlit UI | ✅ `src/ui/app.py` |
-| Before/after chunk-RAG vs. ChronoDoc demo | ⬜ not started |
+| Before/after chunk-RAG vs. ChronoDoc demo | ✅ `src/demo/chunk_rag_baseline.py`, `src/demo/compare.py` |
 
 **Note on the graph DB:** the brief specifies Neo4j Community via Docker.
 This machine repeatedly ran out of memory running Docker Desktop's WSL2
@@ -112,6 +112,31 @@ correctly answers **June 29, 2025** while explicitly flagging that it
 changed from **June 24, 2018** in the 2014 original — citing both
 documents by page. That's the exact staleness failure plain RAG can't
 catch.
+
+## The before/after demo
+
+`src/demo/chunk_rag_baseline.py` is a deliberately naive RAG pipeline over
+the same two documents — every Docling text/table element becomes one
+chunk, embedded with sentence-transformers and retrieved from Chroma by
+cosine similarity, with no notion of which document is current. Run
+side by side with ChronoDoc:
+
+```
+python -m src.demo.compare
+```
+
+or the "Before / after" tab in the Streamlit UI. The result, reproduced
+exactly (not cherry-picked — see the module docstrings for why the two
+questions are worded slightly differently for each system):
+
+- **Plain chunk-RAG**, asked "What is the term of this Agreement and when
+  does it expire?", retrieves the 2014 original's term clause (ranked
+  ahead of the 2020 amendment's by raw embedding distance) and answers
+  **"June 24, 2018"** — stale, and stated with total confidence, no
+  indication a newer document exists.
+- **ChronoDoc**, asked the equivalent question naming the vendor, answers
+  **"June 29, 2025"** and explicitly states the term changed from
+  **"June 24, 2018"** in the 2014 original, citing both documents by page.
 
 ## Setup
 
@@ -172,6 +197,12 @@ or the UI:
 streamlit run src/ui/app.py
 ```
 
+**5. Run the before/after demo:**
+
+```
+python -m src.demo.compare
+```
+
 ## Repo structure
 
 ```
@@ -180,6 +211,7 @@ chronodoc/
   data/
     raw_pdfs/               # source PDFs
     extracted_json/         # Docling raw output + structured entity JSON
+    chroma_db/              # naive-RAG chunk index (gitignored, rebuild with --rebuild-index)
     graph_db/               # Kuzu database (gitignored, rebuild via src/graph/ingest.py)
   docs/
     chronodoc_overview.pptx # project overview slides
@@ -193,8 +225,11 @@ chronodoc/
     query/
       traverse.py           # graph traversal: vendor/topic -> clauses+entities across versions
       synthesize.py         # NL question -> cited answer
+    demo/
+      chunk_rag_baseline.py # naive chunk-RAG baseline (sentence-transformers + Chroma)
+      compare.py            # before/after: same question through both systems
     ui/
-      app.py                # Streamlit chat UI over the query layer
+      app.py                # Streamlit chat UI + before/after tab over the query layer
   docker-compose.yml        # Neo4j Community, if swapping back from Kuzu
   requirements.txt
 ```
