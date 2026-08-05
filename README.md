@@ -56,10 +56,9 @@ hosted vector DB, no hosted graph DB. Every model and datastore is local.
 
 ## Status
 
-All three architecture layers are built and validated end-to-end on a real
-document pair (see below). Not yet done: the explicit side-by-side
-chunk-RAG-vs-ChronoDoc demo, and the Streamlit UI (intentionally last, per
-the brief's build order).
+Four of the five architecture layers are built and validated end-to-end on
+a real document pair (see below), including a working Streamlit UI. Not
+yet done: the explicit side-by-side chunk-RAG-vs-ChronoDoc demo.
 
 | Layer | Status |
 |---|---|
@@ -67,8 +66,8 @@ the brief's build order).
 | Docling output → structured entities (local LLM) | ✅ `src/extraction/structure_entities.py` |
 | Graph schema + ingestion (`SAME_AS`, `SUPERSEDES`) | ✅ `src/graph/schema.py`, `src/graph/ingest.py` |
 | Query layer (NL → graph traversal → cited answer) | ✅ `src/query/traverse.py`, `src/query/synthesize.py` |
+| Streamlit UI | ✅ `src/ui/app.py` |
 | Before/after chunk-RAG vs. ChronoDoc demo | ⬜ not started |
-| Streamlit UI | ⬜ not started |
 
 **Note on the graph DB:** the brief specifies Neo4j Community via Docker.
 This machine repeatedly ran out of memory running Docker Desktop's WSL2
@@ -76,7 +75,18 @@ backend, so the graph layer runs on
 [Kuzu](https://github.com/kuzudb/kuzu) instead — an embedded graph
 database with the same Cypher query model, no server/JVM/Docker required.
 `docker-compose.yml` is still in the repo if a real Neo4j instance becomes
-available later; the schema translates directly.
+available later; the schema translates directly. One consequence: Kuzu
+only allows one open connection to the database file per process, so the
+CLI (`src/query/synthesize.py`) and the UI (`src/ui/app.py`) can't run
+against the same `data/graph_db` at the same time — stop one before
+starting the other.
+
+**Note on `requirements.txt`:** `starlette` is pinned below Streamlit's
+tested range. The latest `starlette` (1.x) changed its GZip middleware's
+constructor signature in a way that breaks Streamlit's bundled copy —
+the app still serves its HTML shell but every subsequent request 500s,
+so content silently never renders. Caught by actually driving the UI in
+a browser rather than just checking the process started.
 
 ## Sample data
 
@@ -150,10 +160,16 @@ python -m src.graph.ingest \
     --supersedes doc-b:doc-a
 ```
 
-**4. Ask a question:**
+**4. Ask a question**, via the CLI:
 
 ```
 python -m src.query.synthesize "What is Cree's current contract term end date?"
+```
+
+or the UI:
+
+```
+streamlit run src/ui/app.py
 ```
 
 ## Repo structure
@@ -177,7 +193,8 @@ chronodoc/
     query/
       traverse.py           # graph traversal: vendor/topic -> clauses+entities across versions
       synthesize.py         # NL question -> cited answer
-    ui/                     # not yet built
+    ui/
+      app.py                # Streamlit chat UI over the query layer
   docker-compose.yml        # Neo4j Community, if swapping back from Kuzu
   requirements.txt
 ```

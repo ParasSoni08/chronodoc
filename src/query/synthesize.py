@@ -13,8 +13,9 @@ Usage:
 import argparse
 import json
 import re
-import sys
+from dataclasses import dataclass, field
 
+import kuzu
 import ollama
 from pydantic import BaseModel
 
@@ -22,6 +23,14 @@ from src.graph.schema import get_connection
 from src.query.traverse import ClauseHit, find_vendor, get_relevant_clauses, get_same_as_cluster
 
 MODEL = "llama3.1:8b"
+
+
+@dataclass
+class QueryResult:
+    answer: str
+    vendor: str | None = None
+    hits: list[ClauseHit] = field(default_factory=list)
+    error: str | None = None
 
 
 class QueryIntent(BaseModel):
@@ -101,16 +110,28 @@ Question: {question}
 Answer:"""
 
 
-def answer_question(question: str, model: str = MODEL) -> str:
-    conn = get_connection()
+def run_query(question: str, model: str = MODEL, conn: kuzu.Connection | None = None) -> QueryResult:
+    """Full pipeline, returning the answer alongside the retrieved clauses
+    so a caller (e.g. the Streamlit UI) can show real citations rather
+    than just the LLM's inline text.
+
+    Pass an existing `conn` when the caller already holds one open --
+    Kuzu only allows a single open Database handle per file per process,
+    so opening a second one here (e.g. while the UI's cached sidebar
+    connection is still alive) throws a file-lock error."""
+    if conn is None:
+        conn = get_connection()
 
     intent = extract_intent(question, model=model)
     if intent is None:
-        return "Couldn't parse the question into a vendor + topic -- try rephrasing (e.g. \"What is <vendor>'s current <topic>?\")."
+        return QueryResult(
+            answer="",
+            error="Couldn't parse the question into a vendor + topic -- try rephrasing (e.g. \"What is <vendor>'s current <topic>?\").",
+        )
 
     vendor = find_vendor(conn, intent.vendor_query)
     if vendor is None:
-        return f"No vendor matching {intent.vendor_query!r} found in the graph."
+        return QueryResult(answer="", error=f"No vendor matching {intent.vendor_query!r} found in the graph.")
 
     hits = get_relevant_clauses(conn, vendor, intent.topic_keyword)
     context = build_context(hits, conn)
@@ -121,7 +142,12 @@ def answer_question(question: str, model: str = MODEL) -> str:
         messages=[{"role": "user", "content": SYNTHESIS_SYSTEM_PROMPT.format(context=context, question=question)}],
         options={"temperature": 0.0},
     )
-    return response.message.content
+    return QueryResult(answer=response.message.content, vendor=vendor, hits=hits)
+
+
+def answer_question(question: str, model: str = MODEL) -> str:
+    result = run_query(question, model=model)
+    return result.error or result.answer
 
 
 def main() -> None:
