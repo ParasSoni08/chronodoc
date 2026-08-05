@@ -1,0 +1,195 @@
+{
+  "doc_id": "charles-colvard-cree-esa-2014",
+  "source_file": "charles_colvard_cree_esa_2014.pdf",
+  "doc_type": "contract",
+  "ingestion_date": "2026-08-05",
+  "effective_date": "December 12, 2014",
+  "vendor": {
+    "name": "CREE, INC.",
+    "normalized_name": "cree_inc"
+  },
+  "sections": [
+    {
+      "section_id": "s1",
+      "heading": "EXCLUSIVE SUPPLY AGREEMENT",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_id": "s2",
+      "heading": "1. SUBJECT OF THE AGREEMENT",
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_id": "s3",
+      "heading": "2. TERM",
+      "page_range": [
+        1,
+        2
+      ]
+    },
+    {
+      "section_id": "s4",
+      "heading": "3. FORECAST",
+      "page_range": [
+        2,
+        2
+      ]
+    },
+    {
+      "section_id": "s5",
+      "heading": "4. ORDER/DELIVERY",
+      "page_range": [
+        2,
+        3
+      ]
+    }
+  ],
+  "clauses": [
+    {
+      "clause_id": "c1",
+      "clause_type": "term",
+      "text_summary": "The term of this Agreement shall begin on the Effective Date and expire on June 24, 2018.",
+      "page_ref": 1,
+      "bbox": [
+        33.74999859375,
+        239.86946148233187,
+        572.3352002752604,
+        198.8568253710339
+      ],
+      "confidence": 1.0
+    },
+    {
+      "clause_id": "c2",
+      "clause_type": "renewal_option",
+      "text_summary": "C&C shall have one (1) option to extend the term of this Agreement for an additional two (2)-year period.",
+      "page_ref": 2,
+      "bbox": [
+        33.74999859375,
+        719.8694414823319,
+        577.6089117555224,
+        666.8568058710338
+      ],
+      "confidence": 1.0
+    },
+    {
+      "clause_id": "c3",
+      "clause_type": "forecast",
+      "text_summary": "On or before the [****] during the Term of this Agreement, C&C will endeavor to provide to Cree a rolling planning forecast of its anticipated requirements for Products.",
+      "page_ref": 2,
+      "bbox": [
+        33.74999859375,
+        467.86945198233184,
+        576.743354031526,
+        402.85681687103374
+      ],
+      "confidence": 0.8
+    },
+    {
+      "clause_id": "c4",
+      "clause_type": "order_delivery",
+      "text_summary": "The terms and conditions of this Agreement will apply for all orders (each a 'Purchase Order') for Products issued by C&C to Cree during the Term.",
+      "page_ref": 2,
+      "bbox": [
+        33.74999859375,
+        359.869456482332,
+        578.2386846192203,
+        208.60682496478375
+      ],
+      "confidence": 1.0
+    },
+    {
+      "clause_id": "c5",
+      "clause_type": "delivery_rescheduling",
+      "text_summary": "If delivery of any Products will be delayed from the originally scheduled date for performance or any previously agreed upon rescheduled date for performance beyond the end of the then current Fiscal Quarter, (i) the Purchase Order for the Fiscal Quarter within which the original delivery date was to occur will be cancelled as to the delayed quantities.",
+      "page_ref": 3,
+      "bbox": [
+        33.74999859375,
+        527.8694494823317,
+        577.2656805698235,
+        342.85681937103345
+      ],
+      "confidence": 0.9
+    }
+  ],
+  "entities": [
+    {
+      "entity_id": "e1",
+      "entity_type": "party_name",
+      "value": "CHARLES & COLVARD, LTD.",
+      "unit": null,
+      "page_ref": 1,
+      "bbox": [
+        33.74999859375,
+        695.8694424823319,
+        574.3172394655264,
+        618.8568078710339
+      ],
+      "confidence": 1.0,
+      "linked_clause": null
+    },
+    {
+      "entity_id": "e2",
+      "entity_type": "party_name",
+      "value": "CREE, INC.",
+      "unit": null,
+      "page_ref": 1,
+      "bbox": [
+        33.74999859375,
+        695.8694424823319,
+        574.3172394655264,
+        618.8568078710339
+      ],
+      "confidence": 1.0,
+      "linked_clause": null
+    },
+    {
+      "entity_type": "date",
+      "value": "June 24, 2018",
+      "unit": null,
+      "page_ref": 1,
+      "bbox": [
+        33.74999859375,
+        239.86946148233187,
+        572.3352002752604,
+        198.8568253710339
+      ],
+      "confidence": 0.95,
+      "linked_clause": "c1",
+      "entity_id": "e3"
+    },
+    {
+      "entity_type": "quantity",
+      "value": "one (1)",
+      "unit": null,
+      "page_ref": 2,
+      "bbox": [
+        33.74999859375,
+        719.8694414823319,
+        577.6089117555224,
+        666.8568058710338
+      ],
+      "confidence": 0.95,
+      "linked_clause": "c2",
+      "entity_id": "e4"
+    }
+  ],
+  "visual_elements": [],
+  "cross_references": [
+    {
+      "from_clause": "c4",
+      "to": "Exhibit A",
+      "text": "The specifications for each Product shall be as set forth or referenced in Exhibit A (the 'Specifications')."
+    },
+    {
+      "from_clause": "c5",
+      "to": "Paragraph 2(b)",
+      "text": "Subject to the conditions set forth in this Paragraph 2(b), C&C shall have one (1) option (the 'Renewal Option') to extend the term of this Agreement for an additional two (2)-year period."
+    }
+  ]
+}

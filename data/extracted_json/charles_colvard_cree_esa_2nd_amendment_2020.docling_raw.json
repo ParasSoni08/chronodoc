@@ -1,0 +1,5003 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.10.0",
+  "name": "charles_colvard_cree_esa_2nd_amendment_2020",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 12013802577589501970,
+    "filename": "charles_colvard_cree_esa_2nd_amendment_2020.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/texts/17"
+      },
+      {
+        "$ref": "#/texts/18"
+      },
+      {
+        "$ref": "#/texts/19"
+      },
+      {
+        "$ref": "#/groups/2"
+      },
+      {
+        "$ref": "#/texts/21"
+      },
+      {
+        "$ref": "#/tables/0"
+      },
+      {
+        "$ref": "#/groups/3"
+      },
+      {
+        "$ref": "#/texts/23"
+      },
+      {
+        "$ref": "#/texts/24"
+      },
+      {
+        "$ref": "#/texts/25"
+      },
+      {
+        "$ref": "#/texts/26"
+      },
+      {
+        "$ref": "#/texts/27"
+      },
+      {
+        "$ref": "#/tables/1"
+      },
+      {
+        "$ref": "#/texts/28"
+      },
+      {
+        "$ref": "#/texts/29"
+      },
+      {
+        "$ref": "#/groups/4"
+      },
+      {
+        "$ref": "#/texts/31"
+      },
+      {
+        "$ref": "#/texts/32"
+      },
+      {
+        "$ref": "#/texts/33"
+      },
+      {
+        "$ref": "#/groups/5"
+      },
+      {
+        "$ref": "#/texts/35"
+      },
+      {
+        "$ref": "#/tables/2"
+      },
+      {
+        "$ref": "#/texts/36"
+      },
+      {
+        "$ref": "#/texts/37"
+      },
+      {
+        "$ref": "#/texts/38"
+      },
+      {
+        "$ref": "#/texts/39"
+      },
+      {
+        "$ref": "#/texts/40"
+      },
+      {
+        "$ref": "#/texts/41"
+      },
+      {
+        "$ref": "#/texts/42"
+      },
+      {
+        "$ref": "#/groups/6"
+      },
+      {
+        "$ref": "#/texts/70"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/12"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/14"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/20"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/22"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/30"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/34"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/43"
+        },
+        {
+          "$ref": "#/texts/44"
+        },
+        {
+          "$ref": "#/texts/45"
+        },
+        {
+          "$ref": "#/texts/46"
+        },
+        {
+          "$ref": "#/texts/47"
+        },
+        {
+          "$ref": "#/texts/48"
+        },
+        {
+          "$ref": "#/texts/49"
+        },
+        {
+          "$ref": "#/texts/50"
+        },
+        {
+          "$ref": "#/texts/51"
+        },
+        {
+          "$ref": "#/texts/52"
+        },
+        {
+          "$ref": "#/texts/53"
+        },
+        {
+          "$ref": "#/texts/54"
+        },
+        {
+          "$ref": "#/texts/55"
+        },
+        {
+          "$ref": "#/texts/56"
+        },
+        {
+          "$ref": "#/texts/57"
+        },
+        {
+          "$ref": "#/texts/58"
+        },
+        {
+          "$ref": "#/texts/59"
+        },
+        {
+          "$ref": "#/texts/60"
+        },
+        {
+          "$ref": "#/texts/61"
+        },
+        {
+          "$ref": "#/texts/62"
+        },
+        {
+          "$ref": "#/texts/63"
+        },
+        {
+          "$ref": "#/texts/64"
+        },
+        {
+          "$ref": "#/texts/65"
+        },
+        {
+          "$ref": "#/texts/66"
+        },
+        {
+          "$ref": "#/texts/67"
+        },
+        {
+          "$ref": "#/texts/68"
+        },
+        {
+          "$ref": "#/texts/69"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 33.74999859375,
+            "t": 755.8694399823319,
+            "r": 239.33750036510372,
+            "b": 750.8568023710338,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            44
+          ]
+        }
+      ],
+      "orig": "EX-10.3 2 brhc10014670_10-3.htm EXHIBIT 10.3",
+      "text": "EX-10.3 2 brhc10014670_10-3.htm EXHIBIT 10.3"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 526.5820130590819,
+            "t": 731.1194410135819,
+            "r": 578.2486914188036,
+            "b": 726.1068034022838,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "Exhibit 10.3",
+      "text": "Exhibit 10.3",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 57.59765385009766,
+            "t": 707.1194420135819,
+            "r": 554.4014393725002,
+            "b": 690.1068049022838,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            177
+          ]
+        }
+      ],
+      "orig": "Portions of this exhibit marked as '[***]' have been excluded because they are both not material and would likely cause competitive harm to the registrant if publicly disclosed.",
+      "text": "Portions of this exhibit marked as '[***]' have been excluded because they are both not material and would likely cause competitive harm to the registrant if publicly disclosed."
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 223.03124070703126,
+            "t": 671.1194435135819,
+            "r": 388.95149866318735,
+            "b": 654.1068064022838,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            46
+          ]
+        }
+      ],
+      "orig": "SECOND AMENDMENT TO EXCLUSIVE SUPPLY AGREEMENT",
+      "text": "SECOND AMENDMENT TO EXCLUSIVE SUPPLY AGREEMENT",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 33.74999859375,
+            "t": 635.1194450135819,
+            "r": 573.9707260220521,
+            "b": 570.1068099022839,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            680
+          ]
+        }
+      ],
+      "orig": "This SECOND AMENDMENT TO EXCLUSIVE SUPPLY AGREEMENT ('Second Amendment') is entered into as of June 30, 2020 (the 'Second Amendment Effective Date'), by and between CHARLES & COLVARD, LTD., a North Carolina corporation, with its principal place of business at 170 Southport Drive, Morrisville, North Carolina 27560 ('C&C'), and CREE, INC., a North Carolina corporation, with its principal place of business located at 4600 Silicon Dr., Durham, North Carolina 27703 ('Cree').  C&C and Cree may be referred to hereinafter individually as 'Party' and collectively as 'Parties.'  Capitalized terms used but not defined herein shall have the meanings ascribed to them in the Agreement.",
+      "text": "This SECOND AMENDMENT TO EXCLUSIVE SUPPLY AGREEMENT ('Second Amendment') is entered into as of June 30, 2020 (the 'Second Amendment Effective Date'), by and between CHARLES & COLVARD, LTD., a North Carolina corporation, with its principal place of business at 170 Southport Drive, Morrisville, North Carolina 27560 ('C&C'), and CREE, INC., a North Carolina corporation, with its principal place of business located at 4600 Silicon Dr., Durham, North Carolina 27703 ('Cree').  C&C and Cree may be referred to hereinafter individually as 'Party' and collectively as 'Parties.'  Capitalized terms used but not defined herein shall have the meanings ascribed to them in the Agreement."
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 33.74999859375,
+            "t": 551.1194485135819,
+            "r": 575.7365358813894,
+            "b": 534.1068114022838,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            161
+          ]
+        }
+      ],
+      "orig": "WHEREAS, Cree is in the business of developing, manufacturing and selling silicon carbide (SiC) substrates and materials for various electronic applications; and",
+      "text": "WHEREAS, Cree is in the business of developing, manufacturing and selling silicon carbide (SiC) substrates and materials for various electronic applications; and"
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 33.74999859375,
+            "t": 515.1194500135819,
+            "r": 545.9882284629892,
+            "b": 498.1068129022838,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            142
+          ]
+        }
+      ],
+      "orig": "WHEREAS, C&C develops, manufactures and markets gemstones fabricated from SiC material and desires to purchase certain material from Cree; and",
+      "text": "WHEREAS, C&C develops, manufactures and markets gemstones fabricated from SiC material and desires to purchase certain material from Cree; and"
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 33.74999859375,
+            "t": 479.1194515135819,
+            "r": 570.7037450160891,
+            "b": 462.1068144022839,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            226
+          ]
+        }
+      ],
+      "orig": "WHEREAS, C&C and Cree previously entered into an Exclusive Supply Agreement dated December 12, 2014 (the 'Agreement'), as amended June 22, 2018 by that First Amendment to Exclusive Supply Agreement (the 'First Amendment'); and",
+      "text": "WHEREAS, C&C and Cree previously entered into an Exclusive Supply Agreement dated December 12, 2014 (the 'Agreement'), as amended June 22, 2018 by that First Amendment to Exclusive Supply Agreement (the 'First Amendment'); and"
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 33.74999859375,
+            "t": 443.1194530135819,
+            "r": 561.3359449985012,
+            "b": 426.10681590228387,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            233
+          ]
+        }
+      ],
+      "orig": "WHEREAS, C&C declared an event of Force Majeure (as that term is defined in the Agreement) due to emergency restrictions and executive orders issued by federal, state and local governments in response to the Coronavirus pandemic; and",
+      "text": "WHEREAS, C&C declared an event of Force Majeure (as that term is defined in the Agreement) due to emergency restrictions and executive orders issued by federal, state and local governments in response to the Coronavirus pandemic; and"
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 33.74999859375,
+            "t": 407.1194545135819,
+            "r": 545.4691702846167,
+            "b": 390.10681740228387,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            148
+          ]
+        }
+      ],
+      "orig": "WHEREAS , the Parties desire to enter into this Second Amendment to modify certain terms of the Agreement as of the Second Amendment Effective Date.",
+      "text": "WHEREAS , the Parties desire to enter into this Second Amendment to modify certain terms of the Agreement as of the Second Amendment Effective Date."
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 33.74999859375,
+            "t": 371.1194560135819,
+            "r": 562.9590065996233,
+            "b": 354.10681890228386,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            151
+          ]
+        }
+      ],
+      "orig": "NOW, THEREFORE, the Parties, in consideration of the foregoing premises and the covenants and undertakings herein contained, mutually agree as follows:",
+      "text": "NOW, THEREFORE, the Parties, in consideration of the foregoing premises and the covenants and undertakings herein contained, mutually agree as follows:"
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 33.74999859375,
+            "t": 335.1194575135819,
+            "r": 75.2024968478125,
+            "b": 330.10681990228386,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "1. Term.",
+      "text": "1. Term.",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 51.749997843749995,
+            "t": 311.11945851358195,
+            "r": 458.6854119371944,
+            "b": 306.10682090228386,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            101
+          ]
+        }
+      ],
+      "orig": "a. Paragraph 2(a) of the Agreement is hereby deleted in its entirety and replaced with the following:",
+      "text": "Paragraph 2(a) of the Agreement is hereby deleted in its entirety and replaced with the following:",
+      "enumerated": true,
+      "marker": "a."
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 69.74999709375,
+            "t": 287.11945951358194,
+            "r": 563.5369970147038,
+            "b": 198.1068254022839,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            934
+          ]
+        }
+      ],
+      "orig": "'(a)  The term of this Agreement shall begin on the Effective Date and expire on June 29, 2025, unless earlier terminated as provided herein or extended by mutual written agreement of the Parties. The period from the Effective Date until the expiration or termination of this Agreement in accordance with its terms shall be referred to as the 'Term.'  At least [***] months prior to the expiration date of the Term, C&C will notify Cree in writing of C&C's desire to continue the business relationship after the expiration of the Term.  Promptly following such notification, the Parties will meet in person or by telephone to discuss a possible extension to the Term, including but not limited to discussing production volumes, purchase commitments, pricing, and third-party sourcing percentages for the extension period; provided, however, that neither Party shall be obligated to continue the business relationship beyond the Term.'",
+      "text": "'(a)  The term of this Agreement shall begin on the Effective Date and expire on June 29, 2025, unless earlier terminated as provided herein or extended by mutual written agreement of the Parties. The period from the Effective Date until the expiration or termination of this Agreement in accordance with its terms shall be referred to as the 'Term.'  At least [***] months prior to the expiration date of the Term, C&C will notify Cree in writing of C&C's desire to continue the business relationship after the expiration of the Term.  Promptly following such notification, the Parties will meet in person or by telephone to discuss a possible extension to the Term, including but not limited to discussing production volumes, purchase commitments, pricing, and third-party sourcing percentages for the extension period; provided, however, that neither Party shall be obligated to continue the business relationship beyond the Term.'"
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 51.749997843749995,
+            "t": 179.11946401358193,
+            "r": 328.6692521366972,
+            "b": 174.1068264022839,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            69
+          ]
+        }
+      ],
+      "orig": "b. Paragraph 2(b) of the Agreement is hereby deleted in its entirety.",
+      "text": "Paragraph 2(b) of the Agreement is hereby deleted in its entirety.",
+      "enumerated": true,
+      "marker": "b."
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 287.8945230043944,
+            "t": 145.54359132946854,
+            "r": 324.1001666958258,
+            "b": 141.53498545289153,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        }
+      ],
+      "orig": "Page 1 of 4",
+      "text": "Page 1 of 4"
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 33.74999859375,
+            "t": 761.8694397323319,
+            "r": 139.7259316593359,
+            "b": 756.8568021210339,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            23
+          ]
+        }
+      ],
+      "orig": "2. Price/Payment Terms.",
+      "text": "2. Price/Payment Terms.",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 51.749997843749995,
+            "t": 737.8694407323319,
+            "r": 456.5114924777744,
+            "b": 732.8568031210339,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            103
+          ]
+        }
+      ],
+      "orig": "The third sentence of Paragraph 6(b) is hereby deleted in its entirety and replaced with the following:",
+      "text": "The third sentence of Paragraph 6(b) is hereby deleted in its entirety and replaced with the following:"
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 51.749997843749995,
+            "t": 713.8694417323319,
+            "r": 570.8187480283844,
+            "b": 660.8568061210339,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            606
+          ]
+        }
+      ],
+      "orig": "'As of the Second Amendment Effective Date, C&C has [***]. The Parties have agreed to a payment schedule (set forth below in Section 5 of this Second Amendment) that is intended to [***].  For the time period of [***] through [***] and unless otherwise agreed upon in writing, C&C shall pay Cree net [***] days following the invoice date.  For the remainder of the Term as long as [***] (based on these net [***] days payment terms) and unless otherwise agreed upon in writing, C&C shall pay Cree net [***] days following the invoice date.  Cree may adjust the payment terms in its sole discretion, [***].'",
+      "text": "'As of the Second Amendment Effective Date, C&C has [***]. The Parties have agreed to a payment schedule (set forth below in Section 5 of this Second Amendment) that is intended to [***].  For the time period of [***] through [***] and unless otherwise agreed upon in writing, C&C shall pay Cree net [***] days following the invoice date.  For the remainder of the Term as long as [***] (based on these net [***] days payment terms) and unless otherwise agreed upon in writing, C&C shall pay Cree net [***] days following the invoice date.  Cree may adjust the payment terms in its sole discretion, [***].'"
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 33.74999859375,
+            "t": 641.8694447323319,
+            "r": 189.02671460513653,
+            "b": 636.8568071210339,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            34
+          ]
+        }
+      ],
+      "orig": "3. Buyer's Exclusivity Commitment.",
+      "text": "3. Buyer's Exclusivity Commitment.",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 51.749997843749995,
+            "t": 617.8694457323319,
+            "r": 452.3246946772244,
+            "b": 612.8568081210339,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            98
+          ]
+        }
+      ],
+      "orig": "a. Section 7(a) is hereby modified by adding the following new language at the end of the section:",
+      "text": "Section 7(a) is hereby modified by adding the following new language at the end of the section:",
+      "enumerated": true,
+      "marker": "a."
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 69.74999709375,
+            "t": 593.8694467323319,
+            "r": 565.343167624533,
+            "b": 564.8568101210338,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            316
+          ]
+        }
+      ],
+      "orig": "'C&C has requested that Cree consider accepting Purchase Orders in excess of the of the agreed-upon Minimum Purchase Commitment for a particular quarter (such amounts, 'Upside'). Cree is willing to consider such Upside requests, but only if such requests are made by C&C with at least the amount of lead times below:",
+      "text": "'C&C has requested that Cree consider accepting Purchase Orders in excess of the of the agreed-upon Minimum Purchase Commitment for a particular quarter (such amounts, 'Upside'). Cree is willing to consider such Upside requests, but only if such requests are made by C&C with at least the amount of lead times below:"
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 51.749997843749995,
+            "t": 478.3694515448319,
+            "r": 402.08824672040964,
+            "b": 473.3568139335339,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            88
+          ]
+        }
+      ],
+      "orig": "b. Section 7(g) is hereby modified by deleting (ii) and replacing it with the following:",
+      "text": "Section 7(g) is hereby modified by deleting (ii) and replacing it with the following:",
+      "enumerated": true,
+      "marker": "b."
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 69.74999709375,
+            "t": 454.3694525448318,
+            "r": 554.7891466712841,
+            "b": 413.3568164335338,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            392
+          ]
+        }
+      ],
+      "orig": "'(ii) the maximum quantity of Alternative SiC Material purchased by C&C from all third-party suppliers does not exceed [***] for Fiscal Year [***], [***] for Fiscal Year [***], [***] for Fiscal Year [***], [***] for Fiscal Year [***], [***] for Fiscal Year [***], [***] for Fiscal Year [***], and [***] for Fiscal Year [***] of the Minimum Purchase Commitment applicable to that Fiscal Year;'",
+      "text": "'(ii) the maximum quantity of Alternative SiC Material purchased by C&C from all third-party suppliers does not exceed [***] for Fiscal Year [***], [***] for Fiscal Year [***], [***] for Fiscal Year [***], [***] for Fiscal Year [***], [***] for Fiscal Year [***], [***] for Fiscal Year [***], and [***] for Fiscal Year [***] of the Minimum Purchase Commitment applicable to that Fiscal Year;'"
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 33.74999859375,
+            "t": 394.36945504483197,
+            "r": 187.91206772658018,
+            "b": 389.35681743353393,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            35
+          ]
+        }
+      ],
+      "orig": "4. Seller's Exclusivity Commitment.",
+      "text": "4. Seller's Exclusivity Commitment.",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 51.749997843749995,
+            "t": 370.36945604483185,
+            "r": 281.0770978625414,
+            "b": 365.3568184335338,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            57
+          ]
+        }
+      ],
+      "orig": "The following is hereby added to the end of Section 8(b):",
+      "text": "The following is hereby added to the end of Section 8(b):"
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 51.749997843749995,
+            "t": 346.36945704483196,
+            "r": 520.3870360897674,
+            "b": 341.35681943353393,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            115
+          ]
+        }
+      ],
+      "orig": "'For the avoidance of doubt, C&C's timely adherence to the payment schedule set forth below for [***] shall [***].'",
+      "text": "'For the avoidance of doubt, C&C's timely adherence to the payment schedule set forth below for [***] shall [***].'"
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 74.24999690625,
+            "t": 322.36945804483184,
+            "r": 151.15940177577892,
+            "b": 317.3568204335338,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            17
+          ]
+        }
+      ],
+      "orig": "Payment Schedule:",
+      "text": "Payment Schedule:"
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 33.74999859375,
+            "t": 203.86946298233192,
+            "r": 183.47202733658185,
+            "b": 198.8568253710339,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            32
+          ]
+        }
+      ],
+      "orig": "5. Buyer's Purchase Commitments.",
+      "text": "5. Buyer's Purchase Commitments.",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 51.749997843749995,
+            "t": 179.8694639823318,
+            "r": 368.78452188306505,
+            "b": 174.85682637103378,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            81
+          ]
+        }
+      ],
+      "orig": "Paragraph 9(a) is hereby deleted in its entirety and replaced with the following:",
+      "text": "Paragraph 9(a) is hereby deleted in its entirety and replaced with the following:"
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 51.749997843749995,
+            "t": 155.86946498233192,
+            "r": 576.8814668437703,
+            "b": 42.85683187103382,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1152
+          ]
+        }
+      ],
+      "orig": "'(a) Each Fiscal Quarter, C&C agrees to purchase Products from Cree in quantities at or above the Minimum Purchase Commitment amount for such Fiscal Quarter.  Failure to do so will, except as contemplated below, be considered a breach of the Agreement.  The 'Minimum Purchase Commitment' for each Fiscal Quarter will be [***] (i) at least [***]% of C&C's requirements for SiC materials for the production of gemstones in colors available from Cree, excluding from such calculation any SiC materials purchased from third parties as expressly permitted in Paragraph 7(a) (but including any SiC materials purchased from third parties as expressly permitted in Paragraph 7(b), 7(c), 7(d) or 7(g)), or (ii) (A) [***] kilograms in the [***] Quarter of [***]; (B) [***] kilograms in the [***] Quarter of [***]; (C) [***] kilograms in [***] Quarter of [***]; (D) [***] kilograms in [***] Quarter of [***]; (E) [***] kilograms in [***] Quarter of [***]; (F) [***] kilograms in [***] Quarter of [***]; (G) [***] kilograms in [***]  Quarters of [***]; (H) [***] kilograms in the [***] Quarter of [***]; (I) [***] kilograms in the [***] Quarter of [***]; (J) [***]",
+      "text": "'(a) Each Fiscal Quarter, C&C agrees to purchase Products from Cree in quantities at or above the Minimum Purchase Commitment amount for such Fiscal Quarter.  Failure to do so will, except as contemplated below, be considered a breach of the Agreement.  The 'Minimum Purchase Commitment' for each Fiscal Quarter will be [***] (i) at least [***]% of C&C's requirements for SiC materials for the production of gemstones in colors available from Cree, excluding from such calculation any SiC materials purchased from third parties as expressly permitted in Paragraph 7(a) (but including any SiC materials purchased from third parties as expressly permitted in Paragraph 7(b), 7(c), 7(d) or 7(g)), or (ii) (A) [***] kilograms in the [***] Quarter of [***]; (B) [***] kilograms in the [***] Quarter of [***]; (C) [***] kilograms in [***] Quarter of [***]; (D) [***] kilograms in [***] Quarter of [***]; (E) [***] kilograms in [***] Quarter of [***]; (F) [***] kilograms in [***] Quarter of [***]; (G) [***] kilograms in [***]  Quarters of [***]; (H) [***] kilograms in the [***] Quarter of [***]; (I) [***] kilograms in the [***] Quarter of [***]; (J) [***]",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 105.74999559374999,
+            "t": 761.8694397323318,
+            "r": 578.0041453140542,
+            "b": 708.8568041210337,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            541
+          ]
+        }
+      ],
+      "orig": "kilograms in the [***] Quarter of [***]; (K) [***]  kilograms in the [***] Quarter of [***]; (L) [***] kilograms in the [***] Quarter of [***]; (M) [***] kilograms in [***] Quarters of [***]; (N) [***] kilograms in the [***] Quarter of [***]; (O) [***]  kilograms in the [***] Quarter of [***]; (P) [***] kilograms in [***] Quarters of [***]; (Q) [***] kilograms in the [***] Quarter of [***]; (R) [***] kilograms in [***] Quarter of [***]; (S) [***] kilograms in [***] Quarters of [***]; and (T) [***] kilograms in [***]  Quarters of [***].",
+      "text": "kilograms in the [***] Quarter of [***]; (K) [***]  kilograms in the [***] Quarter of [***]; (L) [***] kilograms in the [***] Quarter of [***]; (M) [***] kilograms in [***] Quarters of [***]; (N) [***] kilograms in the [***] Quarter of [***]; (O) [***]  kilograms in the [***] Quarter of [***]; (P) [***] kilograms in [***] Quarters of [***]; (Q) [***] kilograms in the [***] Quarter of [***]; (R) [***] kilograms in [***] Quarter of [***]; (S) [***] kilograms in [***] Quarters of [***]; and (T) [***] kilograms in [***]  Quarters of [***]."
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 287.8945230043944,
+            "t": 681.0435690169681,
+            "r": 324.1001666958258,
+            "b": 677.0349631403915,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        }
+      ],
+      "orig": "Page 2 of 4",
+      "text": "Page 2 of 4"
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 51.749997843749995,
+            "t": 761.869439732332,
+            "r": 110.86265161197267,
+            "b": 756.8568021210335,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "6. Exhibit A.",
+      "text": "6. Exhibit A.",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 69.74999709375,
+            "t": 737.8694407323319,
+            "r": 556.3977172792607,
+            "b": 720.8568036210336,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            198
+          ]
+        }
+      ],
+      "orig": "a. The 'Pricing for [***] SiC [***] crystals (all prices are per gram) Meeting Forever One TM  Specifications' section in Exhibit A is hereby deleted in its entirety and replaced with the following:",
+      "text": "The 'Pricing for [***] SiC [***] crystals (all prices are per gram) Meeting Forever One TM  Specifications' section in Exhibit A is hereby deleted in its entirety and replaced with the following:",
+      "enumerated": true,
+      "marker": "a."
+    },
+    {
+      "self_ref": "#/texts/35",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 87.74999634375,
+            "t": 701.869442232332,
+            "r": 518.4034464553548,
+            "b": 696.8568046210335,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            103
+          ]
+        }
+      ],
+      "orig": "'Pricing for [***] SiC [***] crystals (all prices are per gram) Meeting Forever One TM  Specifications:",
+      "text": "'Pricing for [***] SiC [***] crystals (all prices are per gram) Meeting Forever One TM  Specifications:"
+    },
+    {
+      "self_ref": "#/texts/36",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 87.74999634375,
+            "t": 494.8694508573317,
+            "r": 566.1062542497382,
+            "b": 465.85681424603354,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            341
+          ]
+        }
+      ],
+      "orig": "The prices will be determined based on the Fiscal Year in which the Product is originally scheduled for delivery.  The Parties agree that the foregoing pricing shall be subject to change from time to time, as mutually agreed upon in writing by the Parties, based upon any improvements made by Cree to the Specifications of the SiC Materials.",
+      "text": "The prices will be determined based on the Fiscal Year in which the Product is originally scheduled for delivery.  The Parties agree that the foregoing pricing shall be subject to change from time to time, as mutually agreed upon in writing by the Parties, based upon any improvements made by Cree to the Specifications of the SiC Materials."
+    },
+    {
+      "self_ref": "#/texts/37",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 51.749997843749995,
+            "t": 446.8694528573319,
+            "r": 129.99936956460937,
+            "b": 441.8568152460334,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            17
+          ]
+        }
+      ],
+      "orig": "7. Miscellaneous.",
+      "text": "7. Miscellaneous.",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/38",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 69.74999709375,
+            "t": 422.8694538573318,
+            "r": 575.0722017191564,
+            "b": 309.85682074603346,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1127
+          ]
+        }
+      ],
+      "orig": "All modifications and changes in this Second Amendment shall be effective as of the Second Amendment Effective Date, notwithstanding a later or earlier execution date.  The Agreement, as amended herein, shall continue in effect in accordance with its terms.  In the event of conflict between the terms and conditions in this Second Amendment and in the Agreement as amended previously, the terms and conditions in this Second Amendment will control. The Agreement and Exhibits, as modified by this Second Amendment, and the NDA contain the entire agreement between C&C and Cree with respect to the subject matter of the Agreement and supersede all other prior written or oral agreements relating to the purchase and sale of Products.  This Second Amendment may be executed in one or more counterparts, each of which shall be deemed an original, and all of which together shall constitute one and the same instrument.  Any signed copy of this Second Amendment copied or reproduced and transmitted via photocopy, facsimile or other process that accurately transmits the original document shall be considered an original document.",
+      "text": "All modifications and changes in this Second Amendment shall be effective as of the Second Amendment Effective Date, notwithstanding a later or earlier execution date.  The Agreement, as amended herein, shall continue in effect in accordance with its terms.  In the event of conflict between the terms and conditions in this Second Amendment and in the Agreement as amended previously, the terms and conditions in this Second Amendment will control. The Agreement and Exhibits, as modified by this Second Amendment, and the NDA contain the entire agreement between C&C and Cree with respect to the subject matter of the Agreement and supersede all other prior written or oral agreements relating to the purchase and sale of Products.  This Second Amendment may be executed in one or more counterparts, each of which shall be deemed an original, and all of which together shall constitute one and the same instrument.  Any signed copy of this Second Amendment copied or reproduced and transmitted via photocopy, facsimile or other process that accurately transmits the original document shall be considered an original document."
+    },
+    {
+      "self_ref": "#/texts/39",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 287.8945230043944,
+            "t": 282.04358564196855,
+            "r": 324.1001666958258,
+            "b": 278.03497976539165,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        }
+      ],
+      "orig": "Page 3 of 4",
+      "text": "Page 3 of 4"
+    },
+    {
+      "self_ref": "#/texts/40",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 33.74999859375,
+            "t": 761.869439732332,
+            "r": 547.898311218464,
+            "b": 744.8568026210337,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            223
+          ]
+        }
+      ],
+      "orig": "IN WITNESS WHEREOF , each of the Parties has duly executed this Second Amendment as of the dates indicated below to be effective as of the Second Amendment Effective Date, notwithstanding an earlier or later execution date.",
+      "text": "IN WITNESS WHEREOF , each of the Parties has duly executed this Second Amendment as of the dates indicated below to be effective as of the Second Amendment Effective Date, notwithstanding an earlier or later execution date."
+    },
+    {
+      "self_ref": "#/texts/41",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 33.74999859375,
+            "t": 725.8694412323321,
+            "r": 87.35470284147057,
+            "b": 720.8568036210336,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "CREE, INC.",
+      "text": "CREE, INC.",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/42",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 305.98827225048814,
+            "t": 725.8694412323321,
+            "r": 443.1218197928401,
+            "b": 720.8568036210336,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            23
+          ]
+        }
+      ],
+      "orig": "CHARLES & COLVARD, LTD.",
+      "text": "CHARLES & COLVARD, LTD.",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/43",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 33.74999859375,
+            "t": 701.869442232332,
+            "r": 48.194612065978674,
+            "b": 696.8568046210339,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "By:",
+      "text": "By:"
+    },
+    {
+      "self_ref": "#/texts/44",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 60.97265370947265,
+            "t": 701.869442232332,
+            "r": 130.94529908935863,
+            "b": 696.8568046210339,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            17
+          ]
+        }
+      ],
+      "orig": "/s/ Cengiz Balkas",
+      "text": "/s/ Cengiz Balkas"
+    },
+    {
+      "self_ref": "#/texts/45",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 305.98827225048814,
+            "t": 701.869442232332,
+            "r": 320.4328857227168,
+            "b": 696.8568046210339,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "By:",
+      "text": "By:"
+    },
+    {
+      "self_ref": "#/texts/46",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 333.21092361621095,
+            "t": 701.869442232332,
+            "r": 407.07907283745874,
+            "b": 696.8568046210339,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            17
+          ]
+        }
+      ],
+      "orig": "/s/ Don O'Connell",
+      "text": "/s/ Don O'Connell"
+    },
+    {
+      "self_ref": "#/texts/47",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 33.74999859375,
+            "t": 676.3694432948319,
+            "r": 91.77741592135385,
+            "b": 671.3568056835338,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "Cengiz Balkas",
+      "text": "Cengiz Balkas"
+    },
+    {
+      "self_ref": "#/texts/48",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 305.98827225048814,
+            "t": 676.3694432948319,
+            "r": 367.9111934194538,
+            "b": 671.3568056835338,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "Don O'Connell",
+      "text": "Don O'Connell"
+    },
+    {
+      "self_ref": "#/texts/49",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 33.74999859375,
+            "t": 652.3694442948322,
+            "r": 55.05323900520254,
+            "b": 647.3568066835337,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "Title:",
+      "text": "Title:"
+    },
+    {
+      "self_ref": "#/texts/50",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 60.97265370947265,
+            "t": 652.3694442948322,
+            "r": 194.6939128752533,
+            "b": 647.3568066835337,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            32
+          ]
+        }
+      ],
+      "orig": "Senior Vice President, Wolfspeed",
+      "text": "Senior Vice President, Wolfspeed"
+    },
+    {
+      "self_ref": "#/texts/51",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 305.98827225048814,
+            "t": 652.3694442948322,
+            "r": 327.2915126619406,
+            "b": 647.3568066835337,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "Title:",
+      "text": "Title:"
+    },
+    {
+      "self_ref": "#/texts/52",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 333.21092361621095,
+            "t": 652.3694442948322,
+            "r": 409.84693604895585,
+            "b": 647.3568066835337,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            17
+          ]
+        }
+      ],
+      "orig": "President and CEO",
+      "text": "President and CEO"
+    },
+    {
+      "self_ref": "#/texts/53",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 33.74999859375,
+            "t": 628.3694452948325,
+            "r": 55.39984624076057,
+            "b": 623.3568076835336,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "Date:",
+      "text": "Date:"
+    },
+    {
+      "self_ref": "#/texts/54",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 60.97265370947265,
+            "t": 628.3694452948325,
+            "r": 127.34757590635078,
+            "b": 623.3568076835336,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "August 26, 2020",
+      "text": "August 26, 2020"
+    },
+    {
+      "self_ref": "#/texts/55",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 305.98827225048814,
+            "t": 628.3694452948325,
+            "r": 327.63811989749865,
+            "b": 623.3568076835336,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "Date:",
+      "text": "Date:"
+    },
+    {
+      "self_ref": "#/texts/56",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 333.21092361621095,
+            "t": 628.3694452948325,
+            "r": 399.585845813089,
+            "b": 623.3568076835336,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "August 25, 2020",
+      "text": "August 25, 2020"
+    },
+    {
+      "self_ref": "#/texts/57",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 33.74999859375,
+            "t": 602.8694463573324,
+            "r": 117.2397638854226,
+            "b": 597.856808746034,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            19
+          ]
+        }
+      ],
+      "orig": "Address for Notices",
+      "text": "Address for Notices",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/58",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 33.74999859375,
+            "t": 590.8694468573322,
+            "r": 159.2506812020547,
+            "b": 537.8568112460339,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            93
+          ]
+        }
+      ],
+      "orig": "Cree, Inc. 4600 Silicon Drive Durham, North Carolina 27703 Attn:  Cengiz Balkas Email:  [***]",
+      "text": "Cree, Inc. 4600 Silicon Drive Durham, North Carolina 27703 Attn:  Cengiz Balkas Email:  [***]"
+    },
+    {
+      "self_ref": "#/texts/59",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 33.74999859375,
+            "t": 530.8694493573325,
+            "r": 113.72011759216102,
+            "b": 525.8568117460336,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            19
+          ]
+        }
+      ],
+      "orig": "Fax No.:  919-[***]",
+      "text": "Fax No.:  919-[***]"
+    },
+    {
+      "self_ref": "#/texts/60",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 305.99998725,
+            "t": 602.8694463573324,
+            "r": 389.4897525416725,
+            "b": 597.856808746034,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            19
+          ]
+        }
+      ],
+      "orig": "Address for Notices",
+      "text": "Address for Notices",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/61",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 305.99998725,
+            "t": 590.8694468573322,
+            "r": 443.72412659899373,
+            "b": 525.8568117460336,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            130
+          ]
+        }
+      ],
+      "orig": "Charles & Colvard, Ltd. 170 Southport Drive Morrisville, North Carolina 27560 Attn: Maria Flanagan Email: [***] Fax No.: 919-[***]",
+      "text": "Charles & Colvard, Ltd. 170 Southport Drive Morrisville, North Carolina 27560 Attn: Maria Flanagan Email: [***] Fax No.: 919-[***]"
+    },
+    {
+      "self_ref": "#/texts/62",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 33.74999859375,
+            "t": 506.8694503573324,
+            "r": 214.0757426542647,
+            "b": 501.85681274603394,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            46
+          ]
+        }
+      ],
+      "orig": "With copy of any notices of a legal nature to:",
+      "text": "With copy of any notices of a legal nature to:"
+    },
+    {
+      "self_ref": "#/texts/63",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 33.74999859375,
+            "t": 494.86945085733214,
+            "r": 72.88566331934723,
+            "b": 489.85681324603365,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "Cree, Inc.",
+      "text": "Cree, Inc."
+    },
+    {
+      "self_ref": "#/texts/64",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 33.74999859375,
+            "t": 482.8694513573323,
+            "r": 159.2506812020547,
+            "b": 453.8568147460337,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            67
+          ]
+        }
+      ],
+      "orig": "Attn: General Counsel 4600 Silicon Dr. Durham, North Carolina 27703",
+      "text": "Attn: General Counsel 4600 Silicon Dr. Durham, North Carolina 27703"
+    },
+    {
+      "self_ref": "#/texts/65",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 33.74999859375,
+            "t": 446.86945285733236,
+            "r": 87.05690687812816,
+            "b": 441.8568152460339,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "Email:  [***]",
+      "text": "Email:  [***]"
+    },
+    {
+      "self_ref": "#/texts/66",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 33.74999859375,
+            "t": 434.86945335733253,
+            "r": 113.72011759216102,
+            "b": 429.8568157460336,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            19
+          ]
+        }
+      ],
+      "orig": "Fax No.:  919-[***]",
+      "text": "Fax No.:  919-[***]"
+    },
+    {
+      "self_ref": "#/texts/67",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 305.99998725,
+            "t": 506.8694503573324,
+            "r": 486.3257313105144,
+            "b": 453.8568147460337,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            137
+          ]
+        }
+      ],
+      "orig": "With copy of any notices of a legal nature to: Wyrick Robbins Yates & Ponton LLP Attn: Jason Wood 4101 Lake Boone Trail Raleigh, NC 27607",
+      "text": "With copy of any notices of a legal nature to: Wyrick Robbins Yates & Ponton LLP Attn: Jason Wood 4101 Lake Boone Trail Raleigh, NC 27607"
+    },
+    {
+      "self_ref": "#/texts/68",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 305.99998725,
+            "t": 446.86945285733236,
+            "r": 359.306895534378,
+            "b": 441.8568152460339,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "Email:  [***]",
+      "text": "Email:  [***]"
+    },
+    {
+      "self_ref": "#/texts/69",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 305.99998725,
+            "t": 434.86945335733253,
+            "r": 385.97010624841084,
+            "b": 429.8568157460336,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            19
+          ]
+        }
+      ],
+      "orig": "Fax No.:  919-[***]",
+      "text": "Fax No.:  919-[***]"
+    },
+    {
+      "self_ref": "#/texts/70",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 287.8945230043944,
+            "t": 399.7935807357185,
+            "r": 324.1001666958258,
+            "b": 395.78497485914113,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        }
+      ],
+      "orig": "Page 4 of 4",
+      "text": "Page 4 of 4"
+    }
+  ],
+  "pictures": [],
+  "tables": [
+    {
+      "self_ref": "#/tables/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "table",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 87.47184753417969,
+            "t": 549.6696472167969,
+            "r": 524.1030883789062,
+            "b": 492.0539245605469,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "data": {
+        "table_cells": [
+          {
+            "bbox": {
+              "l": 94.35937106835937,
+              "t": 247.6305512051681,
+              "r": 212.48398730199966,
+              "b": 252.64318881646614,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Requested Product Amount",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 311.3906120253906,
+              "t": 247.6305512051681,
+              "r": 357.40443105570944,
+              "b": 252.64318881646614,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "Lead Time",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 94.35937106835937,
+              "t": 261.13055064266814,
+              "r": 183.49222934990308,
+              "b": 266.1431882539662,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Up to [***] kilograms",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 311.3906120253906,
+              "t": 261.13055064266814,
+              "r": 393.845476660184,
+              "b": 266.1431882539662,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "At least [***] weeks",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 94.35937106835937,
+              "t": 288.1305495176681,
+              "r": 158.49851699130784,
+              "b": 293.14318712896613,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "[***] kilograms",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 311.3906120253906,
+              "t": 288.1305495176681,
+              "r": 393.845476660184,
+              "b": 293.14318712896613,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "At least [***] weeks",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          }
+        ],
+        "num_rows": 3,
+        "num_cols": 2,
+        "orientation": "rot_0",
+        "grid": [
+          [
+            {
+              "bbox": {
+                "l": 94.35937106835937,
+                "t": 247.6305512051681,
+                "r": 212.48398730199966,
+                "b": 252.64318881646614,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Requested Product Amount",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 311.3906120253906,
+                "t": 247.6305512051681,
+                "r": 357.40443105570944,
+                "b": 252.64318881646614,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "Lead Time",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 94.35937106835937,
+                "t": 261.13055064266814,
+                "r": 183.49222934990308,
+                "b": 266.1431882539662,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Up to [***] kilograms",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 311.3906120253906,
+                "t": 261.13055064266814,
+                "r": 393.845476660184,
+                "b": 266.1431882539662,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "At least [***] weeks",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 94.35937106835937,
+                "t": 288.1305495176681,
+                "r": 158.49851699130784,
+                "b": 293.14318712896613,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "[***] kilograms",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 311.3906120253906,
+                "t": 288.1305495176681,
+                "r": 393.845476660184,
+                "b": 293.14318712896613,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "At least [***] weeks",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ]
+        ]
+      },
+      "annotations": []
+    },
+    {
+      "self_ref": "#/tables/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "table",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 87.40885162353516,
+            "t": 302.2989807128906,
+            "r": 524.0485229492188,
+            "b": 217.632568359375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "data": {
+        "table_cells": [
+          {
+            "bbox": {
+              "l": 125.69530726269531,
+              "t": 495.130540892668,
+              "r": 178.54336358813148,
+              "b": 500.14317850396606,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Time Period",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 342.73827071923813,
+              "t": 495.130540892668,
+              "r": 417.44118936211567,
+              "b": 500.14317850396606,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "Payment Amount",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 125.69530726269531,
+              "t": 508.63054033016806,
+              "r": 147.3500219159149,
+              "b": 513.6431779414661,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "[***]",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 342.73827071923813,
+              "t": 508.63054033016806,
+              "r": 369.3917301391766,
+              "b": 513.6431779414661,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "$[***]",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 125.69530726269531,
+              "t": 522.1305397676681,
+              "r": 147.3500219159149,
+              "b": 527.1431773789661,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "[***]",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 342.73827071923813,
+              "t": 522.1305397676681,
+              "r": 369.3917301391766,
+              "b": 527.1431773789661,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "$[***]",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 125.69530726269531,
+              "t": 535.6305392051681,
+              "r": 147.3500219159149,
+              "b": 540.6431768164662,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "[***]",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 342.73827071923813,
+              "t": 535.6305392051681,
+              "r": 369.3917301391766,
+              "b": 540.6431768164662,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "$[***]",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 125.69530726269531,
+              "t": 549.1305386426682,
+              "r": 147.3500219159149,
+              "b": 554.1431762539662,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 4,
+            "end_row_offset_idx": 5,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "[***]",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 342.73827071923813,
+              "t": 549.1305386426682,
+              "r": 369.3917301391766,
+              "b": 554.1431762539662,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 4,
+            "end_row_offset_idx": 5,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "$[***]",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 125.69530726269531,
+              "t": 562.630538080168,
+              "r": 147.3500219159149,
+              "b": 567.6431756914662,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 5,
+            "end_row_offset_idx": 6,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "[***]",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 342.73827071923813,
+              "t": 562.630538080168,
+              "r": 369.3917301391766,
+              "b": 567.6431756914662,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 5,
+            "end_row_offset_idx": 6,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "$[***]",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          }
+        ],
+        "num_rows": 6,
+        "num_cols": 2,
+        "orientation": "rot_0",
+        "grid": [
+          [
+            {
+              "bbox": {
+                "l": 125.69530726269531,
+                "t": 495.130540892668,
+                "r": 178.54336358813148,
+                "b": 500.14317850396606,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Time Period",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 342.73827071923813,
+                "t": 495.130540892668,
+                "r": 417.44118936211567,
+                "b": 500.14317850396606,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "Payment Amount",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 125.69530726269531,
+                "t": 508.63054033016806,
+                "r": 147.3500219159149,
+                "b": 513.6431779414661,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "[***]",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 342.73827071923813,
+                "t": 508.63054033016806,
+                "r": 369.3917301391766,
+                "b": 513.6431779414661,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "$[***]",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 125.69530726269531,
+                "t": 522.1305397676681,
+                "r": 147.3500219159149,
+                "b": 527.1431773789661,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "[***]",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 342.73827071923813,
+                "t": 522.1305397676681,
+                "r": 369.3917301391766,
+                "b": 527.1431773789661,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "$[***]",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 125.69530726269531,
+                "t": 535.6305392051681,
+                "r": 147.3500219159149,
+                "b": 540.6431768164662,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "[***]",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 342.73827071923813,
+                "t": 535.6305392051681,
+                "r": 369.3917301391766,
+                "b": 540.6431768164662,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "$[***]",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 125.69530726269531,
+                "t": 549.1305386426682,
+                "r": 147.3500219159149,
+                "b": 554.1431762539662,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "[***]",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 342.73827071923813,
+                "t": 549.1305386426682,
+                "r": 369.3917301391766,
+                "b": 554.1431762539662,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "$[***]",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 125.69530726269531,
+                "t": 562.630538080168,
+                "r": 147.3500219159149,
+                "b": 567.6431756914662,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 5,
+              "end_row_offset_idx": 6,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "[***]",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 342.73827071923813,
+                "t": 562.630538080168,
+                "r": 369.3917301391766,
+                "b": 567.6431756914662,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 5,
+              "end_row_offset_idx": 6,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "$[***]",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ]
+        ]
+      },
+      "annotations": []
+    },
+    {
+      "self_ref": "#/tables/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "table",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 59.80739212036133,
+            "t": 681.5763397216797,
+            "r": 552.21240234375,
+            "b": 508.665771484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "data": {
+        "table_cells": [
+          {
+            "bbox": {
+              "l": 93.59765235009766,
+              "t": 151.6305552051681,
+              "r": 118.58649678298335,
+              "b": 168.6431923164664,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Fiscal Year",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 189.49217960449218,
+              "t": 151.6305552051681,
+              "r": 221.89615892688778,
+              "b": 168.6431923164664,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "Volume (kg)",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 290.0038979165037,
+              "t": 151.6305552051681,
+              "r": 323.31585000900503,
+              "b": 168.6431923164664,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "Volume (grams)",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 378.05858174755843,
+              "t": 163.63055470516792,
+              "r": 414.70954344299633,
+              "b": 168.6431923164664,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "Revenue",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 467.0390430400391,
+              "t": 115.63055670516815,
+              "r": 537.0800522442249,
+              "b": 168.6431923164664,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 4,
+            "end_col_offset_idx": 5,
+            "text": "Price per gram of Product meeting Forever OneTM Specifications",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 96.09374599609376,
+              "t": 177.1305541426682,
+              "r": 116.0887300504694,
+              "b": 182.14319175396622,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "2019",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 215.02733854052718,
+              "t": 177.1305541426682,
+              "r": 236.68205319374678,
+              "b": 182.14319175396622,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "[***]",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 317.49608427099594,
+              "t": 177.1305541426682,
+              "r": 339.15079892421545,
+              "b": 182.14319175396622,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "[***]",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 414.96092020996093,
+              "t": 177.1305541426682,
+              "r": 441.6195446546842,
+              "b": 182.14319175396622,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "$ [***]",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 522.8554507143552,
+              "t": 177.1305541426682,
+              "r": 549.5140676590788,
+              "b": 182.14319175396622,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 4,
+            "end_col_offset_idx": 5,
+            "text": "$ [***]",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 96.09374599609376,
+              "t": 190.630553580168,
+              "r": 116.0887300504694,
+              "b": 195.64319119146649,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "2020",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 215.02733854052718,
+              "t": 190.630553580168,
+              "r": 236.68205319374678,
+              "b": 195.64319119146649,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "[***]",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 317.49608427099594,
+              "t": 190.630553580168,
+              "r": 339.15079892421545,
+              "b": 195.64319119146649,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "[***]",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 414.96092020996093,
+              "t": 190.630553580168,
+              "r": 441.6195446546842,
+              "b": 195.64319119146649,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "$ [***]",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 522.8554507143552,
+              "t": 190.630553580168,
+              "r": 549.5140676590788,
+              "b": 195.64319119146649,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 4,
+            "end_col_offset_idx": 5,
+            "text": "$ [***]",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 96.09374599609376,
+              "t": 204.13055301766826,
+              "r": 116.0887300504694,
+              "b": 209.1431906289663,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "2021",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 215.02733854052718,
+              "t": 204.13055301766826,
+              "r": 236.68205319374678,
+              "b": 209.1431906289663,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "[***]",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 317.49608427099594,
+              "t": 204.13055301766826,
+              "r": 339.15079892421545,
+              "b": 209.1431906289663,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "[***]",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 414.96092020996093,
+              "t": 204.13055301766826,
+              "r": 441.6195446546842,
+              "b": 209.1431906289663,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "$ [***]",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 522.8554507143552,
+              "t": 204.13055301766826,
+              "r": 549.5140676590788,
+              "b": 209.1431906289663,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 4,
+            "end_col_offset_idx": 5,
+            "text": "$ [***]",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 96.09374599609376,
+              "t": 217.63055245516807,
+              "r": 116.0887300504694,
+              "b": 222.64319006646656,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 4,
+            "end_row_offset_idx": 5,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "2022",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 215.02733854052718,
+              "t": 217.63055245516807,
+              "r": 236.68205319374678,
+              "b": 222.64319006646656,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 4,
+            "end_row_offset_idx": 5,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "[***]",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 317.49608427099594,
+              "t": 217.63055245516807,
+              "r": 339.15079892421545,
+              "b": 222.64319006646656,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 4,
+            "end_row_offset_idx": 5,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "[***]",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 414.96092020996093,
+              "t": 217.63055245516807,
+              "r": 441.6195446546842,
+              "b": 222.64319006646656,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 4,
+            "end_row_offset_idx": 5,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "$ [***]",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 522.8554507143552,
+              "t": 217.63055245516807,
+              "r": 549.5140676590788,
+              "b": 222.64319006646656,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 4,
+            "end_row_offset_idx": 5,
+            "start_col_offset_idx": 4,
+            "end_col_offset_idx": 5,
+            "text": "$ [***]",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 96.09374599609376,
+              "t": 231.13055189266834,
+              "r": 116.0887300504694,
+              "b": 236.14318950396637,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 5,
+            "end_row_offset_idx": 6,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "2023",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 215.02733854052718,
+              "t": 231.13055189266834,
+              "r": 236.68205319374678,
+              "b": 236.14318950396637,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 5,
+            "end_row_offset_idx": 6,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "[***]",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 317.49608427099594,
+              "t": 231.13055189266834,
+              "r": 339.15079892421545,
+              "b": 236.14318950396637,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 5,
+            "end_row_offset_idx": 6,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "[***]",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 414.96092020996093,
+              "t": 231.13055189266834,
+              "r": 441.6195446546842,
+              "b": 236.14318950396637,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 5,
+            "end_row_offset_idx": 6,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "$ [***]",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 522.8554507143552,
+              "t": 231.13055189266834,
+              "r": 549.5140676590788,
+              "b": 236.14318950396637,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 5,
+            "end_row_offset_idx": 6,
+            "start_col_offset_idx": 4,
+            "end_col_offset_idx": 5,
+            "text": "$ [***]",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 96.09374599609376,
+              "t": 244.63055133016815,
+              "r": 116.0887300504694,
+              "b": 249.64318894146618,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 6,
+            "end_row_offset_idx": 7,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "2024",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 215.02733854052718,
+              "t": 244.63055133016815,
+              "r": 236.68205319374678,
+              "b": 249.64318894146618,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 6,
+            "end_row_offset_idx": 7,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "[***]",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 317.49608427099594,
+              "t": 244.63055133016815,
+              "r": 339.15079892421545,
+              "b": 249.64318894146618,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 6,
+            "end_row_offset_idx": 7,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "[***]",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 414.96092020996093,
+              "t": 244.63055133016815,
+              "r": 441.6195446546842,
+              "b": 249.64318894146618,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 6,
+            "end_row_offset_idx": 7,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "$ [***]",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 522.8554507143552,
+              "t": 244.63055133016815,
+              "r": 549.5140676590788,
+              "b": 249.64318894146618,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 6,
+            "end_row_offset_idx": 7,
+            "start_col_offset_idx": 4,
+            "end_col_offset_idx": 5,
+            "text": "$ [***]",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 96.09374599609376,
+              "t": 258.13055076766796,
+              "r": 116.0887300504694,
+              "b": 263.14318837896644,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 7,
+            "end_row_offset_idx": 8,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "2025",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 215.02733854052718,
+              "t": 258.13055076766796,
+              "r": 236.68205319374678,
+              "b": 263.14318837896644,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 7,
+            "end_row_offset_idx": 8,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "[***]",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 317.49608427099594,
+              "t": 258.13055076766796,
+              "r": 339.15079892421545,
+              "b": 263.14318837896644,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 7,
+            "end_row_offset_idx": 8,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "[***]",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 414.96092020996093,
+              "t": 258.13055076766796,
+              "r": 441.6195446546842,
+              "b": 263.14318837896644,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 7,
+            "end_row_offset_idx": 8,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "$ [***]",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 522.8554507143552,
+              "t": 258.13055076766796,
+              "r": 549.5140676590788,
+              "b": 263.14318837896644,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 7,
+            "end_row_offset_idx": 8,
+            "start_col_offset_idx": 4,
+            "end_col_offset_idx": 5,
+            "text": "$ [***]",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 95.16796478466796,
+              "t": 271.6305502051682,
+              "r": 117.02282192313649,
+              "b": 276.64318781646625,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 8,
+            "end_row_offset_idx": 9,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Total",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 215.02733854052718,
+              "t": 271.6305502051682,
+              "r": 236.68205319374678,
+              "b": 276.64318781646625,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 8,
+            "end_row_offset_idx": 9,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "[***]",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 317.49608427099594,
+              "t": 271.6305502051682,
+              "r": 339.15079892421545,
+              "b": 276.64318781646625,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 8,
+            "end_row_offset_idx": 9,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "[***]",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 391.6288936821287,
+              "t": 271.6305502051682,
+              "r": 441.6163348618186,
+              "b": 276.64318781646625,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 8,
+            "end_row_offset_idx": 9,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "$52,945,000",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 522.8554507143552,
+              "t": 271.6305502051682,
+              "r": 549.5140676590788,
+              "b": 276.64318781646625,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 8,
+            "end_row_offset_idx": 9,
+            "start_col_offset_idx": 4,
+            "end_col_offset_idx": 5,
+            "text": "$ [***]",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          }
+        ],
+        "num_rows": 9,
+        "num_cols": 5,
+        "orientation": "rot_0",
+        "grid": [
+          [
+            {
+              "bbox": {
+                "l": 93.59765235009766,
+                "t": 151.6305552051681,
+                "r": 118.58649678298335,
+                "b": 168.6431923164664,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Fiscal Year",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 189.49217960449218,
+                "t": 151.6305552051681,
+                "r": 221.89615892688778,
+                "b": 168.6431923164664,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "Volume (kg)",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 290.0038979165037,
+                "t": 151.6305552051681,
+                "r": 323.31585000900503,
+                "b": 168.6431923164664,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "Volume (grams)",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 378.05858174755843,
+                "t": 163.63055470516792,
+                "r": 414.70954344299633,
+                "b": 168.6431923164664,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "Revenue",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 467.0390430400391,
+                "t": 115.63055670516815,
+                "r": 537.0800522442249,
+                "b": 168.6431923164664,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 4,
+              "end_col_offset_idx": 5,
+              "text": "Price per gram of Product meeting Forever OneTM Specifications",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 96.09374599609376,
+                "t": 177.1305541426682,
+                "r": 116.0887300504694,
+                "b": 182.14319175396622,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "2019",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 215.02733854052718,
+                "t": 177.1305541426682,
+                "r": 236.68205319374678,
+                "b": 182.14319175396622,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "[***]",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 317.49608427099594,
+                "t": 177.1305541426682,
+                "r": 339.15079892421545,
+                "b": 182.14319175396622,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "[***]",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 414.96092020996093,
+                "t": 177.1305541426682,
+                "r": 441.6195446546842,
+                "b": 182.14319175396622,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "$ [***]",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 522.8554507143552,
+                "t": 177.1305541426682,
+                "r": 549.5140676590788,
+                "b": 182.14319175396622,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 4,
+              "end_col_offset_idx": 5,
+              "text": "$ [***]",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 96.09374599609376,
+                "t": 190.630553580168,
+                "r": 116.0887300504694,
+                "b": 195.64319119146649,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "2020",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 215.02733854052718,
+                "t": 190.630553580168,
+                "r": 236.68205319374678,
+                "b": 195.64319119146649,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "[***]",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 317.49608427099594,
+                "t": 190.630553580168,
+                "r": 339.15079892421545,
+                "b": 195.64319119146649,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "[***]",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 414.96092020996093,
+                "t": 190.630553580168,
+                "r": 441.6195446546842,
+                "b": 195.64319119146649,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "$ [***]",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 522.8554507143552,
+                "t": 190.630553580168,
+                "r": 549.5140676590788,
+                "b": 195.64319119146649,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 4,
+              "end_col_offset_idx": 5,
+              "text": "$ [***]",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 96.09374599609376,
+                "t": 204.13055301766826,
+                "r": 116.0887300504694,
+                "b": 209.1431906289663,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "2021",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 215.02733854052718,
+                "t": 204.13055301766826,
+                "r": 236.68205319374678,
+                "b": 209.1431906289663,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "[***]",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 317.49608427099594,
+                "t": 204.13055301766826,
+                "r": 339.15079892421545,
+                "b": 209.1431906289663,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "[***]",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 414.96092020996093,
+                "t": 204.13055301766826,
+                "r": 441.6195446546842,
+                "b": 209.1431906289663,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "$ [***]",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 522.8554507143552,
+                "t": 204.13055301766826,
+                "r": 549.5140676590788,
+                "b": 209.1431906289663,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 4,
+              "end_col_offset_idx": 5,
+              "text": "$ [***]",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 96.09374599609376,
+                "t": 217.63055245516807,
+                "r": 116.0887300504694,
+                "b": 222.64319006646656,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "2022",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 215.02733854052718,
+                "t": 217.63055245516807,
+                "r": 236.68205319374678,
+                "b": 222.64319006646656,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "[***]",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 317.49608427099594,
+                "t": 217.63055245516807,
+                "r": 339.15079892421545,
+                "b": 222.64319006646656,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "[***]",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 414.96092020996093,
+                "t": 217.63055245516807,
+                "r": 441.6195446546842,
+                "b": 222.64319006646656,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "$ [***]",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 522.8554507143552,
+                "t": 217.63055245516807,
+                "r": 549.5140676590788,
+                "b": 222.64319006646656,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "start_col_offset_idx": 4,
+              "end_col_offset_idx": 5,
+              "text": "$ [***]",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 96.09374599609376,
+                "t": 231.13055189266834,
+                "r": 116.0887300504694,
+                "b": 236.14318950396637,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 5,
+              "end_row_offset_idx": 6,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "2023",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 215.02733854052718,
+                "t": 231.13055189266834,
+                "r": 236.68205319374678,
+                "b": 236.14318950396637,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 5,
+              "end_row_offset_idx": 6,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "[***]",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 317.49608427099594,
+                "t": 231.13055189266834,
+                "r": 339.15079892421545,
+                "b": 236.14318950396637,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 5,
+              "end_row_offset_idx": 6,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "[***]",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 414.96092020996093,
+                "t": 231.13055189266834,
+                "r": 441.6195446546842,
+                "b": 236.14318950396637,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 5,
+              "end_row_offset_idx": 6,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "$ [***]",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 522.8554507143552,
+                "t": 231.13055189266834,
+                "r": 549.5140676590788,
+                "b": 236.14318950396637,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 5,
+              "end_row_offset_idx": 6,
+              "start_col_offset_idx": 4,
+              "end_col_offset_idx": 5,
+              "text": "$ [***]",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 96.09374599609376,
+                "t": 244.63055133016815,
+                "r": 116.0887300504694,
+                "b": 249.64318894146618,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 6,
+              "end_row_offset_idx": 7,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "2024",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 215.02733854052718,
+                "t": 244.63055133016815,
+                "r": 236.68205319374678,
+                "b": 249.64318894146618,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 6,
+              "end_row_offset_idx": 7,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "[***]",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 317.49608427099594,
+                "t": 244.63055133016815,
+                "r": 339.15079892421545,
+                "b": 249.64318894146618,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 6,
+              "end_row_offset_idx": 7,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "[***]",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 414.96092020996093,
+                "t": 244.63055133016815,
+                "r": 441.6195446546842,
+                "b": 249.64318894146618,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 6,
+              "end_row_offset_idx": 7,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "$ [***]",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 522.8554507143552,
+                "t": 244.63055133016815,
+                "r": 549.5140676590788,
+                "b": 249.64318894146618,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 6,
+              "end_row_offset_idx": 7,
+              "start_col_offset_idx": 4,
+              "end_col_offset_idx": 5,
+              "text": "$ [***]",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 96.09374599609376,
+                "t": 258.13055076766796,
+                "r": 116.0887300504694,
+                "b": 263.14318837896644,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 7,
+              "end_row_offset_idx": 8,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "2025",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 215.02733854052718,
+                "t": 258.13055076766796,
+                "r": 236.68205319374678,
+                "b": 263.14318837896644,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 7,
+              "end_row_offset_idx": 8,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "[***]",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 317.49608427099594,
+                "t": 258.13055076766796,
+                "r": 339.15079892421545,
+                "b": 263.14318837896644,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 7,
+              "end_row_offset_idx": 8,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "[***]",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 414.96092020996093,
+                "t": 258.13055076766796,
+                "r": 441.6195446546842,
+                "b": 263.14318837896644,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 7,
+              "end_row_offset_idx": 8,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "$ [***]",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 522.8554507143552,
+                "t": 258.13055076766796,
+                "r": 549.5140676590788,
+                "b": 263.14318837896644,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 7,
+              "end_row_offset_idx": 8,
+              "start_col_offset_idx": 4,
+              "end_col_offset_idx": 5,
+              "text": "$ [***]",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 95.16796478466796,
+                "t": 271.6305502051682,
+                "r": 117.02282192313649,
+                "b": 276.64318781646625,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 8,
+              "end_row_offset_idx": 9,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Total",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 215.02733854052718,
+                "t": 271.6305502051682,
+                "r": 236.68205319374678,
+                "b": 276.64318781646625,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 8,
+              "end_row_offset_idx": 9,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "[***]",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 317.49608427099594,
+                "t": 271.6305502051682,
+                "r": 339.15079892421545,
+                "b": 276.64318781646625,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 8,
+              "end_row_offset_idx": 9,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "[***]",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 391.6288936821287,
+                "t": 271.6305502051682,
+                "r": 441.6163348618186,
+                "b": 276.64318781646625,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 8,
+              "end_row_offset_idx": 9,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "$52,945,000",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 522.8554507143552,
+                "t": 271.6305502051682,
+                "r": 549.5140676590788,
+                "b": 276.64318781646625,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 8,
+              "end_row_offset_idx": 9,
+              "start_col_offset_idx": 4,
+              "end_col_offset_idx": 5,
+              "text": "$ [***]",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ]
+        ]
+      },
+      "annotations": []
+    }
+  ],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 2
+    },
+    "3": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 3
+    },
+    "4": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 4
+    },
+    "5": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 5
+    }
+  }
+}

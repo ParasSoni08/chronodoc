@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+*.pyc
+
+# Regenerable binary graph DB -- rebuild via src/graph/ingest.py
+data/graph_db
+
+.env
+
+.claude/

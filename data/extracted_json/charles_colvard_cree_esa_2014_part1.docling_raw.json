@@ -1,0 +1,2635 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.10.0",
+  "name": "charles_colvard_cree_esa_2014_part1",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 14342014480263208972,
+    "filename": "charles_colvard_cree_esa_2014_part1.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/texts/17"
+      },
+      {
+        "$ref": "#/texts/18"
+      },
+      {
+        "$ref": "#/texts/19"
+      },
+      {
+        "$ref": "#/texts/20"
+      },
+      {
+        "$ref": "#/texts/21"
+      },
+      {
+        "$ref": "#/texts/22"
+      },
+      {
+        "$ref": "#/texts/23"
+      },
+      {
+        "$ref": "#/texts/24"
+      },
+      {
+        "$ref": "#/texts/25"
+      },
+      {
+        "$ref": "#/texts/26"
+      },
+      {
+        "$ref": "#/texts/27"
+      },
+      {
+        "$ref": "#/texts/28"
+      },
+      {
+        "$ref": "#/texts/29"
+      },
+      {
+        "$ref": "#/texts/30"
+      },
+      {
+        "$ref": "#/texts/31"
+      },
+      {
+        "$ref": "#/texts/32"
+      },
+      {
+        "$ref": "#/texts/33"
+      },
+      {
+        "$ref": "#/texts/34"
+      },
+      {
+        "$ref": "#/texts/35"
+      },
+      {
+        "$ref": "#/texts/36"
+      },
+      {
+        "$ref": "#/texts/37"
+      },
+      {
+        "$ref": "#/texts/38"
+      },
+      {
+        "$ref": "#/texts/39"
+      },
+      {
+        "$ref": "#/texts/40"
+      },
+      {
+        "$ref": "#/texts/41"
+      },
+      {
+        "$ref": "#/texts/42"
+      },
+      {
+        "$ref": "#/texts/43"
+      },
+      {
+        "$ref": "#/texts/44"
+      },
+      {
+        "$ref": "#/texts/45"
+      },
+      {
+        "$ref": "#/texts/46"
+      },
+      {
+        "$ref": "#/texts/47"
+      },
+      {
+        "$ref": "#/texts/48"
+      },
+      {
+        "$ref": "#/texts/49"
+      },
+      {
+        "$ref": "#/texts/50"
+      },
+      {
+        "$ref": "#/texts/51"
+      },
+      {
+        "$ref": "#/texts/52"
+      },
+      {
+        "$ref": "#/texts/53"
+      },
+      {
+        "$ref": "#/texts/54"
+      },
+      {
+        "$ref": "#/texts/55"
+      },
+      {
+        "$ref": "#/texts/56"
+      },
+      {
+        "$ref": "#/texts/57"
+      },
+      {
+        "$ref": "#/texts/58"
+      },
+      {
+        "$ref": "#/texts/59"
+      },
+      {
+        "$ref": "#/texts/60"
+      },
+      {
+        "$ref": "#/texts/61"
+      },
+      {
+        "$ref": "#/texts/62"
+      },
+      {
+        "$ref": "#/texts/63"
+      },
+      {
+        "$ref": "#/groups/2"
+      },
+      {
+        "$ref": "#/texts/67"
+      },
+      {
+        "$ref": "#/texts/68"
+      },
+      {
+        "$ref": "#/texts/69"
+      },
+      {
+        "$ref": "#/texts/70"
+      },
+      {
+        "$ref": "#/texts/71"
+      },
+      {
+        "$ref": "#/groups/3"
+      },
+      {
+        "$ref": "#/texts/78"
+      },
+      {
+        "$ref": "#/texts/79"
+      },
+      {
+        "$ref": "#/texts/80"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/11"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/14"
+        },
+        {
+          "$ref": "#/texts/15"
+        },
+        {
+          "$ref": "#/texts/16"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/64"
+        },
+        {
+          "$ref": "#/texts/65"
+        },
+        {
+          "$ref": "#/texts/66"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/72"
+        },
+        {
+          "$ref": "#/texts/73"
+        },
+        {
+          "$ref": "#/texts/74"
+        },
+        {
+          "$ref": "#/texts/75"
+        },
+        {
+          "$ref": "#/texts/76"
+        },
+        {
+          "$ref": "#/texts/77"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 33.74999859375,
+            "t": 755.8694399823319,
+            "r": 226.01327842027968,
+            "b": 750.8568023710338,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            41
+          ]
+        }
+      ],
+      "orig": "EX-10.1 2 v396527_ex10-1.htm EXHIBIT 10.1",
+      "text": "EX-10.1 2 v396527_ex10-1.htm EXHIBIT 10.1"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 526.5820130590819,
+            "t": 743.8694404823319,
+            "r": 578.2486914188036,
+            "b": 738.8568028710338,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "Exhibit 10.1",
+      "text": "Exhibit 10.1"
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 223.03124070703126,
+            "t": 719.8694414823319,
+            "r": 388.95149866318735,
+            "b": 714.8568038710338,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            26
+          ]
+        }
+      ],
+      "orig": "EXCLUSIVE SUPPLY AGREEMENT",
+      "text": "EXCLUSIVE SUPPLY AGREEMENT",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 33.74999859375,
+            "t": 695.8694424823319,
+            "r": 574.3172394655264,
+            "b": 618.8568078710339,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            781
+          ]
+        }
+      ],
+      "orig": "This Exclusive Supply Agreement ('Agreement') dated as of December 12, 2014 (the 'Effective Date'), is entered into by and between CHARLES & COLVARD, LTD., a North Carolina corporation, with its principal place of business at 170 Southport Drive, Morrisville, North Carolina 27560 ('C&C'), CREE, INC., a North Carolina corporation, with its principal place of business located at 4600 Silicon Dr., Durham, North Carolina 27703 ('Cree'), and, solely for purposes of Section 6(c), Charles & Colvard Direct, LLC ('C&C Direct') and Moissanite.com, LLC ('Moissanite'; C&C, C&C Direct, and Moissanite may be referred to herein individually as an 'Obligor' and collectively as 'Obligors'). C&C and Cree may be referred to hereinafter individually as 'Party' and collectively as 'Parties'.",
+      "text": "This Exclusive Supply Agreement ('Agreement') dated as of December 12, 2014 (the 'Effective Date'), is entered into by and between CHARLES & COLVARD, LTD., a North Carolina corporation, with its principal place of business at 170 Southport Drive, Morrisville, North Carolina 27560 ('C&C'), CREE, INC., a North Carolina corporation, with its principal place of business located at 4600 Silicon Dr., Durham, North Carolina 27703 ('Cree'), and, solely for purposes of Section 6(c), Charles & Colvard Direct, LLC ('C&C Direct') and Moissanite.com, LLC ('Moissanite'; C&C, C&C Direct, and Moissanite may be referred to herein individually as an 'Obligor' and collectively as 'Obligors'). C&C and Cree may be referred to hereinafter individually as 'Party' and collectively as 'Parties'."
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 33.74999859375,
+            "t": 599.8694464823319,
+            "r": 575.7365358813894,
+            "b": 582.8568093710338,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            161
+          ]
+        }
+      ],
+      "orig": "WHEREAS, Cree is in the business of developing, manufacturing and selling silicon carbide (SiC) substrates and materials for various electronic applications; and",
+      "text": "WHEREAS, Cree is in the business of developing, manufacturing and selling silicon carbide (SiC) substrates and materials for various electronic applications; and"
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 33.74999859375,
+            "t": 563.8694479823318,
+            "r": 572.3683602254046,
+            "b": 546.8568108710339,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            139
+          ]
+        }
+      ],
+      "orig": "WHEREAS, C&C develops, manufactures and markets gemstones fabricated from SiC material and desires to purchase such material from Cree; and",
+      "text": "WHEREAS, C&C develops, manufactures and markets gemstones fabricated from SiC material and desires to purchase such material from Cree; and"
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 33.74999859375,
+            "t": 527.8694494823319,
+            "r": 568.8156380719089,
+            "b": 486.85681337103387,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            389
+          ]
+        }
+      ],
+      "orig": "WHEREAS, C&C and Cree previously entered into an Amended and Restated Exclusive Supply Agreement dated June 6, 1997, as such has been previously amended (the 'Expiring Agreement'). The Expiring Agreement will expire by its terms on July 14, 2015. Prior to expiration, the Parties desire to enter into this Agreement to supersede and replace the Expiring Agreement as of the Effective Date.",
+      "text": "WHEREAS, C&C and Cree previously entered into an Amended and Restated Exclusive Supply Agreement dated June 6, 1997, as such has been previously amended (the 'Expiring Agreement'). The Expiring Agreement will expire by its terms on July 14, 2015. Prior to expiration, the Parties desire to enter into this Agreement to supersede and replace the Expiring Agreement as of the Effective Date."
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 33.74999859375,
+            "t": 467.8694519823319,
+            "r": 562.9590065996233,
+            "b": 450.85681487103386,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            151
+          ]
+        }
+      ],
+      "orig": "NOW, THEREFORE, the Parties, in consideration of the foregoing premises and the covenants and undertakings herein contained, mutually agree as follows:",
+      "text": "NOW, THEREFORE, the Parties, in consideration of the foregoing premises and the covenants and undertakings herein contained, mutually agree as follows:"
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 42.74999821875,
+            "t": 431.8694534823319,
+            "r": 212.00484686096496,
+            "b": 426.85681587103386,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            30
+          ]
+        }
+      ],
+      "orig": "1.    SUBJECT OF THE AGREEMENT",
+      "text": "1.    SUBJECT OF THE AGREEMENT",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 33.74999859375,
+            "t": 407.8694544823319,
+            "r": 576.0989473412892,
+            "b": 282.85682187103384,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1379
+          ]
+        }
+      ],
+      "orig": "The subject of this Agreement is the procurement of [****] SiC materials by C&C from Cree. The terms and conditions set forth in this Agreement apply to those [****] SiC materials set forth on Exhibit A of this Agreement, as Exhibit A may be modified by the Parties from time to time (individually, a 'Product,' and collectively, the 'Products'). The specifications for each Product shall be as set forth or referenced in Exhibit A (the 'Specifications'). Exhibit A shall be deemed modified if the Parties agree in writing on the terms and conditions regarding a new [****] SiC Material to be supplied under this Agreement, including among other things the applicable Specifications and prices therefor. Upon execution by both Parties, this Agreement shall apply with respect to Products to be purchased under Purchase Orders (as defined below) with an issue date subsequent to the Effective Date of this Agreement, and previously issued orders will be subject to and governed by the Expiring Agreement. As used in this Agreement, 'affiliate' of any particular party means any other person or entity controlling, controlled by or under common control with such party, where 'control' means the possession, directly or indirectly, of the power to direct the management and policies of a person or entity whether through the ownership of voting securities, contracts, or otherwise.",
+      "text": "The subject of this Agreement is the procurement of [****] SiC materials by C&C from Cree. The terms and conditions set forth in this Agreement apply to those [****] SiC materials set forth on Exhibit A of this Agreement, as Exhibit A may be modified by the Parties from time to time (individually, a 'Product,' and collectively, the 'Products'). The specifications for each Product shall be as set forth or referenced in Exhibit A (the 'Specifications'). Exhibit A shall be deemed modified if the Parties agree in writing on the terms and conditions regarding a new [****] SiC Material to be supplied under this Agreement, including among other things the applicable Specifications and prices therefor. Upon execution by both Parties, this Agreement shall apply with respect to Products to be purchased under Purchase Orders (as defined below) with an issue date subsequent to the Effective Date of this Agreement, and previously issued orders will be subject to and governed by the Expiring Agreement. As used in this Agreement, 'affiliate' of any particular party means any other person or entity controlling, controlled by or under common control with such party, where 'control' means the possession, directly or indirectly, of the power to direct the management and policies of a person or entity whether through the ownership of voting securities, contracts, or otherwise."
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 42.74999821875,
+            "t": 263.869460482332,
+            "r": 90.06278400744526,
+            "b": 258.85682287103384,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "2.    TERM",
+      "text": "2.    TERM",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 33.74999859375,
+            "t": 239.86946148233187,
+            "r": 572.3352002752604,
+            "b": 198.8568253710339,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            530
+          ]
+        }
+      ],
+      "orig": "(a)    The term of this Agreement shall begin on the Effective Date and expire on June 24, 2018 (the 'Initial Term'), unless earlier terminated as provided herein or extended by mutual written agreement of the Parties or extended as provided in Paragraph 2(b). At least [****] months prior to the expiration date of the Initial Term, the Parties will meet in person or by telephone to discuss a possible extension to the Term. However, subject to Paragraph 2(b) below, neither Party shall be obligated to agree to extend the Term.",
+      "text": "(a)    The term of this Agreement shall begin on the Effective Date and expire on June 24, 2018 (the 'Initial Term'), unless earlier terminated as provided herein or extended by mutual written agreement of the Parties or extended as provided in Paragraph 2(b). At least [****] months prior to the expiration date of the Initial Term, the Parties will meet in person or by telephone to discuss a possible extension to the Term. However, subject to Paragraph 2(b) below, neither Party shall be obligated to agree to extend the Term.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 33.74999859375,
+            "t": 179.86946398233192,
+            "r": 540.6732901695063,
+            "b": 162.85682687103383,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            204
+          ]
+        }
+      ],
+      "orig": "[****] Confidential treatment requested pursuant to a request for confidential treatment filed with the Securities and Exchange Commission. Omitted portions have been separately filed with the Commission.",
+      "text": "[****] Confidential treatment requested pursuant to a request for confidential treatment filed with the Securities and Exchange Commission. Omitted portions have been separately filed with the Commission."
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 33.74999859375,
+            "t": 719.8694414823319,
+            "r": 577.6089117555224,
+            "b": 666.8568058710338,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            594
+          ]
+        }
+      ],
+      "orig": "(b)    Subject to the conditions set forth in this Paragraph 2(b), C&C shall have one (1) option (the 'Renewal Option') to extend the term of this Agreement for an additional two (2)-year period (the 'Renewal Term'). The period from the Effective Date until the expiration or termination of this Agreement in accordance with its terms shall be referred to as the 'Term.' The Renewal Option shall be exercisable upon written notice (the 'Option Notice') given by C&C to Cree not later than [****]. The right of C&C to exercise its Renewal Option is subject to the following conditions precedent:",
+      "text": "(b)    Subject to the conditions set forth in this Paragraph 2(b), C&C shall have one (1) option (the 'Renewal Option') to extend the term of this Agreement for an additional two (2)-year period (the 'Renewal Term'). The period from the Effective Date until the expiration or termination of this Agreement in accordance with its terms shall be referred to as the 'Term.' The Renewal Option shall be exercisable upon written notice (the 'Option Notice') given by C&C to Cree not later than [****]. The right of C&C to exercise its Renewal Option is subject to the following conditions precedent:"
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 69.74999709375,
+            "t": 647.8694444823319,
+            "r": 578.2488837803829,
+            "b": 630.8568073710338,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            127
+          ]
+        }
+      ],
+      "orig": "(1) the Agreement shall be in effect at the time the Option Notice is received by Cree and on the last day of the Initial Term;",
+      "text": "the Agreement shall be in effect at the time the Option Notice is received by Cree and on the last day of the Initial Term;",
+      "enumerated": true,
+      "marker": "(1)"
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 69.74999709375,
+            "t": 611.8694459823319,
+            "r": 578.2481018017409,
+            "b": 570.8568098710339,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            411
+          ]
+        }
+      ],
+      "orig": "(2) C&C  shall  not  be  in  material  default  beyond  any  applicable  grace  or  cure  period  under  any  provisions  of  this Agreement at the time the Option Notice is given and on the last day of the Initial Term, and C&C shall not have failed to timely cure any material default during the Initial Term (whether or not Cree sought to enforce any remedy or consequences against C&C for such default); and",
+      "text": "C&C  shall  not  be  in  material  default  beyond  any  applicable  grace  or  cure  period  under  any  provisions  of  this Agreement at the time the Option Notice is given and on the last day of the Initial Term, and C&C shall not have failed to timely cure any material default during the Initial Term (whether or not Cree sought to enforce any remedy or consequences against C&C for such default); and",
+      "enumerated": true,
+      "marker": "(2)"
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 69.74999709375,
+            "t": 551.8694484823319,
+            "r": 578.2476301039092,
+            "b": 510.8568123710338,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            395
+          ]
+        }
+      ],
+      "orig": "(3) C&C  shall  have  timely  paid  all  amounts  due  to  Cree  under  this  Agreement  and  any  Sales  Agreement  created hereunder. C&C will not be considered in violation of this condition if no more than [****] payments are past due during any [****]-month period and such past due amounts are paid within [****] days after written or verbal notice from Cree that the amounts are past due.",
+      "text": "C&C  shall  have  timely  paid  all  amounts  due  to  Cree  under  this  Agreement  and  any  Sales  Agreement  created hereunder. C&C will not be considered in violation of this condition if no more than [****] payments are past due during any [****]-month period and such past due amounts are paid within [****] days after written or verbal notice from Cree that the amounts are past due.",
+      "enumerated": true,
+      "marker": "(3)"
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 42.74999821875,
+            "t": 491.86945098233195,
+            "r": 114.68556461593519,
+            "b": 486.8568133710338,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "3.    FORECAST",
+      "text": "3.    FORECAST",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 33.74999859375,
+            "t": 467.86945198233184,
+            "r": 576.743354031526,
+            "b": 402.85681687103374,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            749
+          ]
+        }
+      ],
+      "orig": "On or before the [****] during the Term of this Agreement, C&C will endeavor to provide to Cree a rolling planning forecast of its anticipated requirements for Products for the next [****] calendar months (each a 'Planning Forecast'). Cree will take Planning Forecast figures into consideration when planning the utilization of its manufacturing capabilities and will notify C&C as soon as reasonably practicable if Cree's capacity to accept orders for such forecasted quantities becomes constrained. The forecast quantities in the Planning Forecasts are for planning purposes only, and except as otherwise provided in this Agreement, C&C will not be committed to purchase these quantities, and Cree will not be committed to supply these quantities.",
+      "text": "On or before the [****] during the Term of this Agreement, C&C will endeavor to provide to Cree a rolling planning forecast of its anticipated requirements for Products for the next [****] calendar months (each a 'Planning Forecast'). Cree will take Planning Forecast figures into consideration when planning the utilization of its manufacturing capabilities and will notify C&C as soon as reasonably practicable if Cree's capacity to accept orders for such forecasted quantities becomes constrained. The forecast quantities in the Planning Forecasts are for planning purposes only, and except as otherwise provided in this Agreement, C&C will not be committed to purchase these quantities, and Cree will not be committed to supply these quantities."
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 42.74999821875,
+            "t": 383.8694554823319,
+            "r": 151.55131181127416,
+            "b": 378.85681787103385,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            20
+          ]
+        }
+      ],
+      "orig": "4.    ORDER/DELIVERY",
+      "text": "4.    ORDER/DELIVERY",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 33.74999859375,
+            "t": 359.869456482332,
+            "r": 578.2386846192203,
+            "b": 208.60682496478375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1681
+          ]
+        }
+      ],
+      "orig": "(a)    The terms and conditions of this Agreement will apply for all orders (each a 'Purchase Order') for Products issued by C&C to Cree during the Term to the exclusion of any additional or different terms and conditions included or referenced in any order or confirmation documents issued by either Party (which additional or different terms and conditions are hereby rejected by the receiving Party). Unless otherwise agreed by the Parties, each Purchase Order will be for the [****] in a Fiscal Quarter, shall request deliveries [****] or upon such schedule as is mutually agreed upon by the Parties, and will be submitted to Cree no later than [****] days prior to the [****] of the Fiscal Quarter. As used in this Agreement, 'Fiscal Year' (or 'FY') refers to the fifty-two (52)-week period beginning on the day immediately following the last day of the preceding Fiscal Year (which date is publicly available from Cree's filings with the Securities and Exchange Commission) and ending on the last Sunday in June, and 'Fiscal Quarter' refers to the thirteen (13)-week period beginning on the day immediately following the last day of the preceding Fiscal Quarter and ending on the thirteenth (13 th ) Sunday thereafter, where the first Fiscal Quarter of a Fiscal Year commences on the first day of such Fiscal Year. Every four or five years, Cree's Fiscal Year will include fifty-three (53) weeks in order for the period to end on the last Sunday in June. In such years, one Fiscal Quarter will have fourteen (14) weeks. If such a Fiscal Year falls within the Term of this Agreement, Cree will advise C&C in advance of the Fiscal Quarter that will include fourteen (14) weeks.",
+      "text": "(a)    The terms and conditions of this Agreement will apply for all orders (each a 'Purchase Order') for Products issued by C&C to Cree during the Term to the exclusion of any additional or different terms and conditions included or referenced in any order or confirmation documents issued by either Party (which additional or different terms and conditions are hereby rejected by the receiving Party). Unless otherwise agreed by the Parties, each Purchase Order will be for the [****] in a Fiscal Quarter, shall request deliveries [****] or upon such schedule as is mutually agreed upon by the Parties, and will be submitted to Cree no later than [****] days prior to the [****] of the Fiscal Quarter. As used in this Agreement, 'Fiscal Year' (or 'FY') refers to the fifty-two (52)-week period beginning on the day immediately following the last day of the preceding Fiscal Year (which date is publicly available from Cree's filings with the Securities and Exchange Commission) and ending on the last Sunday in June, and 'Fiscal Quarter' refers to the thirteen (13)-week period beginning on the day immediately following the last day of the preceding Fiscal Quarter and ending on the thirteenth (13 th ) Sunday thereafter, where the first Fiscal Quarter of a Fiscal Year commences on the first day of such Fiscal Year. Every four or five years, Cree's Fiscal Year will include fifty-three (53) weeks in order for the period to end on the last Sunday in June. In such years, one Fiscal Quarter will have fourteen (14) weeks. If such a Fiscal Year falls within the Term of this Agreement, Cree will advise C&C in advance of the Fiscal Quarter that will include fourteen (14) weeks."
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 33.74999859375,
+            "t": 189.6194635760819,
+            "r": 540.6732901695063,
+            "b": 172.6068264647838,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            204
+          ]
+        }
+      ],
+      "orig": "[****] Confidential treatment requested pursuant to a request for confidential treatment filed with the Securities and Exchange Commission. Omitted portions have been separately filed with the Commission.",
+      "text": "[****] Confidential treatment requested pursuant to a request for confidential treatment filed with the Securities and Exchange Commission. Omitted portions have been separately filed with the Commission."
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 303.4921748544922,
+            "t": 141.6194655760819,
+            "r": 308.49092460871094,
+            "b": 136.60682796478386,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "2",
+      "text": "2"
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 33.74999859375,
+            "t": 719.8694414823317,
+            "r": 576.4553929035853,
+            "b": 642.8568068710335,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            900
+          ]
+        }
+      ],
+      "orig": "(b)    Within [****] days after the receipt of a Purchase Order, Cree will provide C&C written notice of acceptance (by issuance of a written order confirmation) if it can accept the Purchase Order as submitted. If Cree is unable to accept the Purchase Order as submitted, Cree will contact C&C and propose alternative quantities, sizes of Products, and/or delivery schedule. If C&C agrees with the alternative quantities, sizes of Products, and/or delivery schedule, it will issue a new Purchase Order reflecting such mutuallyagreed upon terms for acceptance by Cree, and Cree will promptly accept such Purchase Order. No Purchase Order shall be deemed to be accepted unless and until Cree issues a written order confirmation. Once accepted by Cree, Purchase Orders shall be non-cancellable and non-reschedulable except as otherwise agreed to in writing by Cree or as provided in Paragraph 14 below.",
+      "text": "(b)    Within [****] days after the receipt of a Purchase Order, Cree will provide C&C written notice of acceptance (by issuance of a written order confirmation) if it can accept the Purchase Order as submitted. If Cree is unable to accept the Purchase Order as submitted, Cree will contact C&C and propose alternative quantities, sizes of Products, and/or delivery schedule. If C&C agrees with the alternative quantities, sizes of Products, and/or delivery schedule, it will issue a new Purchase Order reflecting such mutuallyagreed upon terms for acceptance by Cree, and Cree will promptly accept such Purchase Order. No Purchase Order shall be deemed to be accepted unless and until Cree issues a written order confirmation. Once accepted by Cree, Purchase Orders shall be non-cancellable and non-reschedulable except as otherwise agreed to in writing by Cree or as provided in Paragraph 14 below."
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 33.74999859375,
+            "t": 623.8694454823317,
+            "r": 578.0043280890465,
+            "b": 546.8568108710335,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            803
+          ]
+        }
+      ],
+      "orig": "(c)    The terms that govern each accepted Purchase Order shall consist of (i) the Specifications for the Product(s) as in effect on the date of Cree's acceptance of the Purchase Order (with such changes, if any, as may be expressly agreed to in writing by C&C and Cree); (ii) the terms and conditions of this Agreement; (iii) only the following terms and conditions manually entered on the face of the accepted Purchase Order: Cree's part number(s), price, quantity ordered, and 'ship to' and 'bill to' instructions; and (iv) the delivery schedule confirmed by Cree or mutually agreed upon by the parties as provided in Section 4(b) above (collectively, a 'Sales Agreement'). The documents listed in the previous sentence are listed in the order of precedence in the event of any conflict between them.",
+      "text": "(c)    The terms that govern each accepted Purchase Order shall consist of (i) the Specifications for the Product(s) as in effect on the date of Cree's acceptance of the Purchase Order (with such changes, if any, as may be expressly agreed to in writing by C&C and Cree); (ii) the terms and conditions of this Agreement; (iii) only the following terms and conditions manually entered on the face of the accepted Purchase Order: Cree's part number(s), price, quantity ordered, and 'ship to' and 'bill to' instructions; and (iv) the delivery schedule confirmed by Cree or mutually agreed upon by the parties as provided in Section 4(b) above (collectively, a 'Sales Agreement'). The documents listed in the previous sentence are listed in the order of precedence in the event of any conflict between them."
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 33.74999859375,
+            "t": 527.8694494823317,
+            "r": 577.2656805698235,
+            "b": 342.85681937103345,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2107
+          ]
+        }
+      ],
+      "orig": "(d)    C&C agrees that any delay in shipment or failure by Cree to ship or perform any part of this Agreement will not be grounds for C&C to terminate this Agreement or any Sales Agreement as provided in Paragraph 14(a) or, except as explicitly contemplated and permitted by this Agreement, to refuse to comply with any provisions herein or therein. Notwithstanding the foregoing, the following provisions will apply in the event that Cree cannot adhere to the previously scheduled delivery date for any quantity due to no reason reasonably and directly attributable to C&C and not due to a delay caused by an event of Force Majeure, as defined in Paragraph 22. If delivery of any Products will be delayed from the originally scheduled date for delivery, Cree will, as soon as reasonably possible, issue a rescheduling notice indicating the expected new delivery date(s). If Cree issues a rescheduling notice in accordance with the foregoing indicating that delivery of any Products will be delayed from the originally scheduled date for performance or any previously agreed upon rescheduled date for performance beyond the end of the then current Fiscal Quarter, (i) the Purchase Order for the Fiscal Quarter within which the original delivery date was to occur will be cancelled as to the delayed quantities, and (ii) C&C will reissue its Purchase Order for the next Fiscal Quarter to include the delayed quantities and the delayed quantities will be applied toward C&C's Minimum Purchase Commitment (as defined in Paragraph 9(a) below) as provided in Paragraph 9(c)(ii) below. Adjustment of C&C's Minimum Purchase Commitment as provided in Paragraph 9(c)(ii) below, and C&C's right to purchase Products from third parties as contemplated by Paragraph 7(a), will be C&C's sole and exclusive remedies for any delay in delivery attributed to Cree or for Cree's failure to ship the Products, or to otherwise perform an accepted Purchase Order, in a timely manner, provided that the foregoing shall not be construed to limit C&C's remedies, or Cree's liability, for any other breach of this Agreement by Cree.",
+      "text": "(d)    C&C agrees that any delay in shipment or failure by Cree to ship or perform any part of this Agreement will not be grounds for C&C to terminate this Agreement or any Sales Agreement as provided in Paragraph 14(a) or, except as explicitly contemplated and permitted by this Agreement, to refuse to comply with any provisions herein or therein. Notwithstanding the foregoing, the following provisions will apply in the event that Cree cannot adhere to the previously scheduled delivery date for any quantity due to no reason reasonably and directly attributable to C&C and not due to a delay caused by an event of Force Majeure, as defined in Paragraph 22. If delivery of any Products will be delayed from the originally scheduled date for delivery, Cree will, as soon as reasonably possible, issue a rescheduling notice indicating the expected new delivery date(s). If Cree issues a rescheduling notice in accordance with the foregoing indicating that delivery of any Products will be delayed from the originally scheduled date for performance or any previously agreed upon rescheduled date for performance beyond the end of the then current Fiscal Quarter, (i) the Purchase Order for the Fiscal Quarter within which the original delivery date was to occur will be cancelled as to the delayed quantities, and (ii) C&C will reissue its Purchase Order for the next Fiscal Quarter to include the delayed quantities and the delayed quantities will be applied toward C&C's Minimum Purchase Commitment (as defined in Paragraph 9(a) below) as provided in Paragraph 9(c)(ii) below. Adjustment of C&C's Minimum Purchase Commitment as provided in Paragraph 9(c)(ii) below, and C&C's right to purchase Products from third parties as contemplated by Paragraph 7(a), will be C&C's sole and exclusive remedies for any delay in delivery attributed to Cree or for Cree's failure to ship the Products, or to otherwise perform an accepted Purchase Order, in a timely manner, provided that the foregoing shall not be construed to limit C&C's remedies, or Cree's liability, for any other breach of this Agreement by Cree."
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 42.74999821875,
+            "t": 323.8694579823318,
+            "r": 213.38147967860527,
+            "b": 318.85682037103356,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            31
+          ]
+        }
+      ],
+      "orig": "5.    SHIPPING/TITLE/ACCEPTANCE",
+      "text": "5.    SHIPPING/TITLE/ACCEPTANCE",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 33.74999859375,
+            "t": 299.8694589823317,
+            "r": 569.660089459575,
+            "b": 270.85682237103356,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            356
+          ]
+        }
+      ],
+      "orig": "(a)    Unless the Parties mutually agree in writing on a different shipping term, Products delivered by [****] will be shipped [****], and title and risk of loss to the Products will pass to C&C when [****]. For any Products delivered [****], the shipping terms will be [****], and title and risk of loss to the Products will pass to C&C when [****] point.",
+      "text": "(a)    Unless the Parties mutually agree in writing on a different shipping term, Products delivered by [****] will be shipped [****], and title and risk of loss to the Products will pass to C&C when [****]. For any Products delivered [****], the shipping terms will be [****], and title and risk of loss to the Products will pass to C&C when [****] point."
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 33.74999859375,
+            "t": 251.8694609823317,
+            "r": 540.6732901695063,
+            "b": 234.8568238710336,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            204
+          ]
+        }
+      ],
+      "orig": "[****] Confidential treatment requested pursuant to a request for confidential treatment filed with the Securities and Exchange Commission. Omitted portions have been separately filed with the Commission.",
+      "text": "[****] Confidential treatment requested pursuant to a request for confidential treatment filed with the Securities and Exchange Commission. Omitted portions have been separately filed with the Commission."
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 303.4921748544922,
+            "t": 203.8694629823317,
+            "r": 308.49092460871094,
+            "b": 198.85682537103344,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "3",
+      "text": "3"
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 33.74999859375,
+            "t": 719.8694414823317,
+            "r": 577.5878877643362,
+            "b": 582.8568093710337,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1572
+          ]
+        }
+      ],
+      "orig": "(b)    All Products delivered hereunder will be deemed accepted by C&C (without waiving any rights under the warranty provided in Paragraph 10(a)) as conforming to this Agreement and the Specifications, and C&C will have no right to revoke any acceptance, unless written notice of the claimed nonconformity is received by Cree within [****] days of delivery thereof. C&C's sole and exclusive remedy, and Cree's sole obligation, with respect to properly rejected Products will be to return the rejected Products for rework or replacement thereof and delivery of corresponding reworked or replacement Products conforming to the Specifications by Cree as soon as reasonably possible (and Cree shall perform such rework or replacement as soon as reasonably possible) or, if such rework or replacement is not possible within a commercially reasonable time, to receive a refund of the purchase price paid by C&C for the rejected Products (or if not yet paid for, Cree will reduce the amount owed by C&C under the relevant invoice by the amount of the purchase price invoiced for such rejected Products and [****]). In order to claim the remedy in the foregoing sentence, C&C must request a return materials authorization (RMA) from Cree (which shall be provided by Cree promptly upon such request) and return the rejected Products to Cree, FOB Cree's manufacturing facility, within ten (10) business days after receipt of the RMA. Upon request, [****] will be [****] if C&C's rejection is appropriate (i.e., for Products not conforming to this Agreement and the Specifications).",
+      "text": "(b)    All Products delivered hereunder will be deemed accepted by C&C (without waiving any rights under the warranty provided in Paragraph 10(a)) as conforming to this Agreement and the Specifications, and C&C will have no right to revoke any acceptance, unless written notice of the claimed nonconformity is received by Cree within [****] days of delivery thereof. C&C's sole and exclusive remedy, and Cree's sole obligation, with respect to properly rejected Products will be to return the rejected Products for rework or replacement thereof and delivery of corresponding reworked or replacement Products conforming to the Specifications by Cree as soon as reasonably possible (and Cree shall perform such rework or replacement as soon as reasonably possible) or, if such rework or replacement is not possible within a commercially reasonable time, to receive a refund of the purchase price paid by C&C for the rejected Products (or if not yet paid for, Cree will reduce the amount owed by C&C under the relevant invoice by the amount of the purchase price invoiced for such rejected Products and [****]). In order to claim the remedy in the foregoing sentence, C&C must request a return materials authorization (RMA) from Cree (which shall be provided by Cree promptly upon such request) and return the rejected Products to Cree, FOB Cree's manufacturing facility, within ten (10) business days after receipt of the RMA. Upon request, [****] will be [****] if C&C's rejection is appropriate (i.e., for Products not conforming to this Agreement and the Specifications)."
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 42.74999821875,
+            "t": 563.8694479823321,
+            "r": 183.20705989381077,
+            "b": 558.8568103710336,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            26
+          ]
+        }
+      ],
+      "orig": "6.     PRICE/PAYMENT TERMS",
+      "text": "6.     PRICE/PAYMENT TERMS",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 33.74999859375,
+            "t": 539.869448982332,
+            "r": 568.2933110836108,
+            "b": 486.8568133710337,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            604
+          ]
+        }
+      ],
+      "orig": "(a)    Product prices shall be as set forth in Exhibit A and are subject to modification as otherwise provided in this Agreement. All applicable sales, use, excise or other taxes directly related to the sales of Products (other than taxes on Cree's net income) will be paid by C&C unless C&C provides Cree with appropriate tax exemption certificates. All reasonable, documented out-of-pocket shipping expenses incurred by Cree for independent transportation companies will be invoiced to and paid by C&C. All unit prices and price extensions are subject to correction for clerical or mathematical errors.",
+      "text": "(a)    Product prices shall be as set forth in Exhibit A and are subject to modification as otherwise provided in this Agreement. All applicable sales, use, excise or other taxes directly related to the sales of Products (other than taxes on Cree's net income) will be paid by C&C unless C&C provides Cree with appropriate tax exemption certificates. All reasonable, documented out-of-pocket shipping expenses incurred by Cree for independent transportation companies will be invoiced to and paid by C&C. All unit prices and price extensions are subject to correction for clerical or mathematical errors."
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 33.74999859375,
+            "t": 467.86945198233207,
+            "r": 575.9540962994728,
+            "b": 414.8568163710338,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            661
+          ]
+        }
+      ],
+      "orig": "(b)    Upon shipment of the Products, Cree will generate an invoice that will be promptly provided to C&C. Each shipment shall be considered a separate and independent transaction, and payment for each shipment shall be due accordingly. Unless otherwise agreed upon in writing, C&C shall pay Cree net [****] days following the invoice date. Cree reserves the right to revoke or modify these credit terms if C&C's credit rating significantly declines or its payments to Cree are repeatedly overdue. All payments will be made in US dollars to a bank account designated by Cree, with each Party being responsible for any fees or charges incurred from its own bank.",
+      "text": "(b)    Upon shipment of the Products, Cree will generate an invoice that will be promptly provided to C&C. Each shipment shall be considered a separate and independent transaction, and payment for each shipment shall be due accordingly. Unless otherwise agreed upon in writing, C&C shall pay Cree net [****] days following the invoice date. Cree reserves the right to revoke or modify these credit terms if C&C's credit rating significantly declines or its payments to Cree are repeatedly overdue. All payments will be made in US dollars to a bank account designated by Cree, with each Party being responsible for any fees or charges incurred from its own bank."
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 33.74999859375,
+            "t": 395.8694549823317,
+            "r": 574.0739192543396,
+            "b": 174.85682637103355,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2417
+          ]
+        }
+      ],
+      "orig": "(c)    Any portion of any invoice not paid by the applicable due date therefor will accrue interest until paid at the rate of [****] per month or, if less, the maximum rate permitted by law. Cree hereby reserves, and Obligors hereby grant to Cree, a security interest in all Collateral (as defined below) to secure any and all amounts due from C&C to Cree relating to the purchase of Products under this Agreement or any Sales Agreement created hereunder until all amounts due Cree therefor have been paid in full; provided that, except with respect to Cree Priority Collateral (as defined below), Cree agrees that its security interest in Collateral will be subordinate to Obligors' lender's security interest therein. Obligors agree upon Cree's request to sign appropriate financing statements evidencing Cree's security interest hereunder. Further, Obligors authorize Cree to execute and file a financing statement to perfect Cree's security interest hereunder in the Collateral. In the event of default in payment of any invoice, C&C agrees to pay Cree's reasonable, documented out-of-pocket expenses, including reasonable attorney's fees and expenses, incurred in enforcing payment thereof. The Parties acknowledge and agree that (x) with respect to any overdue unpaid amount under this Agreement, Cree may exercise its rights under its security interest in the Cree Priority Collateral beginning on the day following the day on which the unpaid amount was due, provided that, subject to and in accordance with the thirty (30)-day stand-by period set forth in Section 2.3(a) of the IC Agreement (defined below), Cree shall not take any remedial action against any Cree Priority Collateral (i.e., Cree shall not sell, lease, assign, transfer, remove or otherwise dispose of all or any portion of the Cree Priority Collateral) prior to the day following the expiration of such thirty (30)-day stand-by period and any of Obligors (or their lender) will be permitted to cure any late payment during that 30-day period , (y) neither Cree's exercise of such rights nor taking of any such remedial action shall itself be construed as a termination of this Agreement (under Section 14(a) or otherwise), and (z) Cree's rights with respect to Collateral are subject to that certain intercreditor agreement among Cree, C&C, and Wells Fargo Bank, National Association (the 'IC Agreement'). For purposes of this Section 6(c):",
+      "text": "(c)    Any portion of any invoice not paid by the applicable due date therefor will accrue interest until paid at the rate of [****] per month or, if less, the maximum rate permitted by law. Cree hereby reserves, and Obligors hereby grant to Cree, a security interest in all Collateral (as defined below) to secure any and all amounts due from C&C to Cree relating to the purchase of Products under this Agreement or any Sales Agreement created hereunder until all amounts due Cree therefor have been paid in full; provided that, except with respect to Cree Priority Collateral (as defined below), Cree agrees that its security interest in Collateral will be subordinate to Obligors' lender's security interest therein. Obligors agree upon Cree's request to sign appropriate financing statements evidencing Cree's security interest hereunder. Further, Obligors authorize Cree to execute and file a financing statement to perfect Cree's security interest hereunder in the Collateral. In the event of default in payment of any invoice, C&C agrees to pay Cree's reasonable, documented out-of-pocket expenses, including reasonable attorney's fees and expenses, incurred in enforcing payment thereof. The Parties acknowledge and agree that (x) with respect to any overdue unpaid amount under this Agreement, Cree may exercise its rights under its security interest in the Cree Priority Collateral beginning on the day following the day on which the unpaid amount was due, provided that, subject to and in accordance with the thirty (30)-day stand-by period set forth in Section 2.3(a) of the IC Agreement (defined below), Cree shall not take any remedial action against any Cree Priority Collateral (i.e., Cree shall not sell, lease, assign, transfer, remove or otherwise dispose of all or any portion of the Cree Priority Collateral) prior to the day following the expiration of such thirty (30)-day stand-by period and any of Obligors (or their lender) will be permitted to cure any late payment during that 30-day period , (y) neither Cree's exercise of such rights nor taking of any such remedial action shall itself be construed as a termination of this Agreement (under Section 14(a) or otherwise), and (z) Cree's rights with respect to Collateral are subject to that certain intercreditor agreement among Cree, C&C, and Wells Fargo Bank, National Association (the 'IC Agreement'). For purposes of this Section 6(c):"
+    },
+    {
+      "self_ref": "#/texts/35",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 33.74999859375,
+            "t": 155.86946498233192,
+            "r": 540.6732901695063,
+            "b": 138.8568278710336,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            204
+          ]
+        }
+      ],
+      "orig": "[****] Confidential treatment requested pursuant to a request for confidential treatment filed with the Securities and Exchange Commission. Omitted portions have been separately filed with the Commission.",
+      "text": "[****] Confidential treatment requested pursuant to a request for confidential treatment filed with the Securities and Exchange Commission. Omitted portions have been separately filed with the Commission."
+    },
+    {
+      "self_ref": "#/texts/36",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 303.4921748544922,
+            "t": 107.86946698233169,
+            "r": 308.49092460871094,
+            "b": 102.85682937103365,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "4",
+      "text": "4"
+    },
+    {
+      "self_ref": "#/texts/37",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 51.749997843749995,
+            "t": 719.8694414823321,
+            "r": 568.6187814450498,
+            "b": 702.8568043710338,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            189
+          ]
+        }
+      ],
+      "orig": "(I) the capitalized terms 'Accounts,' 'Deposit Accounts,' and 'Inventory' shall have the meanings ascribed to such terms in the Uniform Commercial Code as in effect in the State of Georgia;",
+      "text": "(I) the capitalized terms 'Accounts,' 'Deposit Accounts,' and 'Inventory' shall have the meanings ascribed to such terms in the Uniform Commercial Code as in effect in the State of Georgia;"
+    },
+    {
+      "self_ref": "#/texts/38",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 51.749997843749995,
+            "t": 683.8694429823317,
+            "r": 571.4435215624137,
+            "b": 606.8568083710338,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            868
+          ]
+        }
+      ],
+      "orig": "(II) 'Cree Priority Collateral' means all Collateral (as defined below) constituting (a) all raw SiC materials in boule form purchased by C&C from Cree from time to time and (b) SiC slabs created by cutting such raw materials purchased by C&C from Cree. For the avoidance of doubt, all finished goods Inventory of C&C, all Accounts, money and Deposit Accounts of C&C, all other proceeds of the items described in the foregoing clauses (a) and (b) (except proceeds arising from Cree's disposition of Cree Priority Collateral in accordance with the IC Agreement), and all assets of each of C&C Direct and Moissanite (except assets specifically described in the preceding sentence that are held by C&C Direct or Moissanite, and proceeds arising from Cree's disposition of such assets in accordance with the IC Agreement) shall not constitute Cree Priority Collateral; and",
+      "text": "(II) 'Cree Priority Collateral' means all Collateral (as defined below) constituting (a) all raw SiC materials in boule form purchased by C&C from Cree from time to time and (b) SiC slabs created by cutting such raw materials purchased by C&C from Cree. For the avoidance of doubt, all finished goods Inventory of C&C, all Accounts, money and Deposit Accounts of C&C, all other proceeds of the items described in the foregoing clauses (a) and (b) (except proceeds arising from Cree's disposition of Cree Priority Collateral in accordance with the IC Agreement), and all assets of each of C&C Direct and Moissanite (except assets specifically described in the preceding sentence that are held by C&C Direct or Moissanite, and proceeds arising from Cree's disposition of such assets in accordance with the IC Agreement) shall not constitute Cree Priority Collateral; and"
+    },
+    {
+      "self_ref": "#/texts/39",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 51.749997843749995,
+            "t": 587.8694469823322,
+            "r": 571.2547363039685,
+            "b": 558.8568103710336,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            273
+          ]
+        }
+      ],
+      "orig": "(III) 'Collateral' means any and all of the assets now owned or hereafter acquired by any Obligor, together with all proceeds, products, accessions and additions with respect to each of the foregoing from time to time, including, without limitation, any insurance proceeds.",
+      "text": "(III) 'Collateral' means any and all of the assets now owned or hereafter acquired by any Obligor, together with all proceeds, products, accessions and additions with respect to each of the foregoing from time to time, including, without limitation, any insurance proceeds."
+    },
+    {
+      "self_ref": "#/texts/40",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 42.74999821875,
+            "t": 539.8694489823324,
+            "r": 252.62455041847716,
+            "b": 534.8568113710339,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            36
+          ]
+        }
+      ],
+      "orig": "7.    BUYER'S EXCLUSIVITY COMMITMENT",
+      "text": "7.    BUYER'S EXCLUSIVITY COMMITMENT",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/41",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 33.74999859375,
+            "t": 515.8694499823323,
+            "r": 577.6171511051789,
+            "b": 330.8568198710336,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2058
+          ]
+        }
+      ],
+      "orig": "(a)    Subject to the terms and conditions in this Paragraph 7, C&C agrees to purchase from Cree in each Fiscal Quarter 100% of C&C's requirements for SiC materials for the production of gemstones. C&C shall not be in breach of this Paragraph 7(a) if purchases by C&C in a given Fiscal Quarter fall below such 100% due to Cree's failure to (i) deliver any Products within [****] days after the originally scheduled date for delivery due to no reason reasonably and directly attributable to C&C, provided that in such case, C&C shall only be permitted to purchase quantities equal or approximately equal to the quantities delayed, or (ii) accept Purchase Orders requesting delivery of any amount in the Fiscal Quarter, provided that C&C's Purchase Orders do not request delivery during the Fiscal Quarter for an aggregate quantity of Products [****] during the preceding Fiscal Quarter, [****] a commercially reasonable [****] not to exceed [****] and that C&C complies with the balance of this Paragraph 7(a). If C&C places a Purchase Order for a quantity (up to the above-described [****] limit) and delivery of the full order during the Fiscal Quarter is critical to C&C, C&C must advise Cree in writing at the time the Purchase Order is placed that C&C will need to purchase from another supplier if the full requirements cannot be met on the requested delivery schedule. If Cree is unable to accept such Purchase Order as requested by C&C within [****] days after the receipt thereof, C&C and Cree will work together in good faith to try to determine a mutually acceptable delivery schedule for the quantities and types of Products required by C&C. If the parties are unable to reach agreement within [****] business days, C&C may purchase any shortfall in its requirements for that Fiscal Quarter (i.e., the difference between the amount C&C requested to purchase and the amount Cree is able to supply) from a third party provided that it purchases during such Fiscal Quarter all of the Products Cree offered to supply to C&C that meet its requirements,",
+      "text": "(a)    Subject to the terms and conditions in this Paragraph 7, C&C agrees to purchase from Cree in each Fiscal Quarter 100% of C&C's requirements for SiC materials for the production of gemstones. C&C shall not be in breach of this Paragraph 7(a) if purchases by C&C in a given Fiscal Quarter fall below such 100% due to Cree's failure to (i) deliver any Products within [****] days after the originally scheduled date for delivery due to no reason reasonably and directly attributable to C&C, provided that in such case, C&C shall only be permitted to purchase quantities equal or approximately equal to the quantities delayed, or (ii) accept Purchase Orders requesting delivery of any amount in the Fiscal Quarter, provided that C&C's Purchase Orders do not request delivery during the Fiscal Quarter for an aggregate quantity of Products [****] during the preceding Fiscal Quarter, [****] a commercially reasonable [****] not to exceed [****] and that C&C complies with the balance of this Paragraph 7(a). If C&C places a Purchase Order for a quantity (up to the above-described [****] limit) and delivery of the full order during the Fiscal Quarter is critical to C&C, C&C must advise Cree in writing at the time the Purchase Order is placed that C&C will need to purchase from another supplier if the full requirements cannot be met on the requested delivery schedule. If Cree is unable to accept such Purchase Order as requested by C&C within [****] days after the receipt thereof, C&C and Cree will work together in good faith to try to determine a mutually acceptable delivery schedule for the quantities and types of Products required by C&C. If the parties are unable to reach agreement within [****] business days, C&C may purchase any shortfall in its requirements for that Fiscal Quarter (i.e., the difference between the amount C&C requested to purchase and the amount Cree is able to supply) from a third party provided that it purchases during such Fiscal Quarter all of the Products Cree offered to supply to C&C that meet its requirements,"
+    },
+    {
+      "self_ref": "#/texts/42",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 33.74999859375,
+            "t": 311.86945848233245,
+            "r": 540.6732901695063,
+            "b": 294.8568213710337,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            204
+          ]
+        }
+      ],
+      "orig": "[****] Confidential treatment requested pursuant to a request for confidential treatment filed with the Securities and Exchange Commission. Omitted portions have been separately filed with the Commission.",
+      "text": "[****] Confidential treatment requested pursuant to a request for confidential treatment filed with the Securities and Exchange Commission. Omitted portions have been separately filed with the Commission."
+    },
+    {
+      "self_ref": "#/texts/43",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 303.4921748544922,
+            "t": 263.8694604823322,
+            "r": 308.49092460871094,
+            "b": 258.8568228710337,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "5",
+      "text": "5"
+    },
+    {
+      "self_ref": "#/texts/44",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 33.74999859375,
+            "t": 719.8694414823326,
+            "r": 575.6693487512761,
+            "b": 570.8568098710339,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1729
+          ]
+        }
+      ],
+      "orig": "(b)    C&C shall only be obligated to purchase from Cree under this Agreement, and Cree shall only be obligated to sell to C&C, SiC material [****] following the Effective Date, from Cree. Should C&C require SiC material in [****], C&C will extend to Cree a right of first refusal with respect to the development, manufacture and sale of such material as provided in this Paragraph 7(b). C&C agrees that it will not purchase such material from, or otherwise enter into any agreement for the development, manufacture or sale of such material with, any person or entity other than Cree except in compliance with this Paragraph 7(b). C&C will give Cree written notice referencing this Paragraph 7(b) setting out the terms of the proposed transaction and extending an offer to contract with Cree on such terms. If Cree does not accept such offer by written notice given within [****] days after receipt of C&C's notice, C&C shall be free at any time within the next [****] months after expiration of the [****]-day period to conclude the transaction with any third party supplier, provided the [****]) thereof are not, taken as a whole, materially more favorable to the third party supplier than those described in C&C's notice to Cree. If Cree accepts any offer from C&C under this paragraph, then the terms described in such offer shall be binding on Cree and, in addition to such terms, all terms and provisions of this Agreement relating to the purchase of SiC material for the production of gemstones not inconsistent with such offer shall apply to the development, manufacture and sale of such material. The foregoing shall not be construed as an assignment or other transfer by Cree of any rights in any intellectual property.",
+      "text": "(b)    C&C shall only be obligated to purchase from Cree under this Agreement, and Cree shall only be obligated to sell to C&C, SiC material [****] following the Effective Date, from Cree. Should C&C require SiC material in [****], C&C will extend to Cree a right of first refusal with respect to the development, manufacture and sale of such material as provided in this Paragraph 7(b). C&C agrees that it will not purchase such material from, or otherwise enter into any agreement for the development, manufacture or sale of such material with, any person or entity other than Cree except in compliance with this Paragraph 7(b). C&C will give Cree written notice referencing this Paragraph 7(b) setting out the terms of the proposed transaction and extending an offer to contract with Cree on such terms. If Cree does not accept such offer by written notice given within [****] days after receipt of C&C's notice, C&C shall be free at any time within the next [****] months after expiration of the [****]-day period to conclude the transaction with any third party supplier, provided the [****]) thereof are not, taken as a whole, materially more favorable to the third party supplier than those described in C&C's notice to Cree. If Cree accepts any offer from C&C under this paragraph, then the terms described in such offer shall be binding on Cree and, in addition to such terms, all terms and provisions of this Agreement relating to the purchase of SiC material for the production of gemstones not inconsistent with such offer shall apply to the development, manufacture and sale of such material. The foregoing shall not be construed as an assignment or other transfer by Cree of any rights in any intellectual property."
+    },
+    {
+      "self_ref": "#/texts/45",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 33.74999859375,
+            "t": 551.8694484823322,
+            "r": 577.7538159964237,
+            "b": 414.8568163710338,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1505
+          ]
+        }
+      ],
+      "orig": "(c)    C&C's obligation to purchase 100% of its requirements for SiC materials from Cree is conditioned upon the Product prices offered by Cree [****] as determined in this Paragraph 7(c). Should C&C [****] of SiC materials, as reasonably demonstrated by C&C based upon [****], C&C will extend to Cree a right of first refusal as provided in this Paragraph 7(c) [****]. C&C agrees that, without limitation of C&C's rights under Paragraph 7(a) or 7(b), it will not purchase such material from, or otherwise enter into any agreement for the purchase of such material with, any person or entity other than Cree except in compliance with this Paragraph 7(c). C&C will give Cree written notice referencing this Paragraph 7(c) setting out the terms of the proposed transaction, providing [****], and extending an offer [****]. If Cree does not accept such offer by written notice given within [****] days after receipt of C&C's notice, C&C shall be free at any time within the next [****] months after expiration of the [****]-day period to conclude the transaction with any third party supplier, provided [****]) thereof are not, taken as a whole, materially more favorable to the third party supplier than those described in C&C's notice to Cree. C&C understands and acknowledges that Cree's [****] of SiC materials assumes C&C's [****] provided in Exhibit A. If C&C relies on this Paragraph 7(c) to purchase [****] of Product offered by Cree, Cree reserves the right to [****] of Product purchased from Cree.",
+      "text": "(c)    C&C's obligation to purchase 100% of its requirements for SiC materials from Cree is conditioned upon the Product prices offered by Cree [****] as determined in this Paragraph 7(c). Should C&C [****] of SiC materials, as reasonably demonstrated by C&C based upon [****], C&C will extend to Cree a right of first refusal as provided in this Paragraph 7(c) [****]. C&C agrees that, without limitation of C&C's rights under Paragraph 7(a) or 7(b), it will not purchase such material from, or otherwise enter into any agreement for the purchase of such material with, any person or entity other than Cree except in compliance with this Paragraph 7(c). C&C will give Cree written notice referencing this Paragraph 7(c) setting out the terms of the proposed transaction, providing [****], and extending an offer [****]. If Cree does not accept such offer by written notice given within [****] days after receipt of C&C's notice, C&C shall be free at any time within the next [****] months after expiration of the [****]-day period to conclude the transaction with any third party supplier, provided [****]) thereof are not, taken as a whole, materially more favorable to the third party supplier than those described in C&C's notice to Cree. C&C understands and acknowledges that Cree's [****] of SiC materials assumes C&C's [****] provided in Exhibit A. If C&C relies on this Paragraph 7(c) to purchase [****] of Product offered by Cree, Cree reserves the right to [****] of Product purchased from Cree."
+    },
+    {
+      "self_ref": "#/texts/46",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 33.74999859375,
+            "t": 395.8694549823326,
+            "r": 576.6115691550165,
+            "b": 270.85682237103356,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1421
+          ]
+        }
+      ],
+      "orig": "(d)    Notwithstanding anything to the contrary, C&C shall be free, without breach or default of this Paragraph 7 or any other provision of this Agreement, to purchase [****] of SiC materials from third parties in such amounts (collectively not to exceed in any Fiscal Quarter [****] percent ([****]%) of the Minimum Purchase Commitment applicable to that Fiscal Quarter) and in such [****] as may reasonably be necessary to enable C&C to compare such SiC materials to Products supplied under this Agreement and/or evaluate such SiC materials' ability to be used in the manufacture of gemstones, for purposes related to C&C's evaluation of whether or not to exercise its rights under Paragraph 2(b), 7(a), 7(b), or 7(c) or pursue discussions or negotiations with a third party with respect to circumstances which may lead to the exercise of C&C's rights under Paragraph 7(a), 7(b) or 7(c) or otherwise related to a potential manufacturing or supply relationship with such third party that would not reasonably be anticipated to result in a breach of this Agreement by C&C (e.g., a relationship that would go into effect after expiration or termination of this Agreement). The foregoing sentence is not intended to waive or release any breach or default of this Paragraph 7 or any other provision of this Agreement that otherwise results from C&C entering into a manufacturing or supply relationship with such third party.",
+      "text": "(d)    Notwithstanding anything to the contrary, C&C shall be free, without breach or default of this Paragraph 7 or any other provision of this Agreement, to purchase [****] of SiC materials from third parties in such amounts (collectively not to exceed in any Fiscal Quarter [****] percent ([****]%) of the Minimum Purchase Commitment applicable to that Fiscal Quarter) and in such [****] as may reasonably be necessary to enable C&C to compare such SiC materials to Products supplied under this Agreement and/or evaluate such SiC materials' ability to be used in the manufacture of gemstones, for purposes related to C&C's evaluation of whether or not to exercise its rights under Paragraph 2(b), 7(a), 7(b), or 7(c) or pursue discussions or negotiations with a third party with respect to circumstances which may lead to the exercise of C&C's rights under Paragraph 7(a), 7(b) or 7(c) or otherwise related to a potential manufacturing or supply relationship with such third party that would not reasonably be anticipated to result in a breach of this Agreement by C&C (e.g., a relationship that would go into effect after expiration or termination of this Agreement). The foregoing sentence is not intended to waive or release any breach or default of this Paragraph 7 or any other provision of this Agreement that otherwise results from C&C entering into a manufacturing or supply relationship with such third party."
+    },
+    {
+      "self_ref": "#/texts/47",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 33.74999859375,
+            "t": 251.86946098233238,
+            "r": 540.6732901695063,
+            "b": 234.85682387103407,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            204
+          ]
+        }
+      ],
+      "orig": "[****] Confidential treatment requested pursuant to a request for confidential treatment filed with the Securities and Exchange Commission. Omitted portions have been separately filed with the Commission.",
+      "text": "[****] Confidential treatment requested pursuant to a request for confidential treatment filed with the Securities and Exchange Commission. Omitted portions have been separately filed with the Commission."
+    },
+    {
+      "self_ref": "#/texts/48",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 303.4921748544922,
+            "t": 203.86946298233215,
+            "r": 308.49092460871094,
+            "b": 198.85682537103366,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "6",
+      "text": "6"
+    },
+    {
+      "self_ref": "#/texts/49",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 33.74999859375,
+            "t": 719.8694414823321,
+            "r": 575.7865363963934,
+            "b": 570.8568098710339,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1586
+          ]
+        }
+      ],
+      "orig": "(e)    C&C will give Cree written notice upon the purchase from anyone other than Cree any portion of its requirements of SiC material for the production of gemstones. Thereafter Cree shall have the right, [****], to have an independent public accounting firm reasonably acceptable to C&C audit C&C's purchases of SiC material for the production of gemstones. The audit shall be conducted during normal business hours and upon reasonable prior notice. The accounting firm conducting the audit shall be required to enter into a mutually acceptable nondisclosure agreement with C&C under which such firm will be obligated not to disclose any information obtained during the course of the audit, except that it may disclose to Cree its analysis of whether C&C has complied with its obligations under this Paragraph 7. The audit right under this paragraph may be exercised not more than [****] during any Fiscal Year of Cree and only with respect to Fiscal Quarters ended within [****] preceding the request for an audit. C&C shall provide reasonable assistance to the public accounting firm including, but not limited to, providing a schedule of purchases, supporting analyses and any supporting source documentation reasonably required by the public accounting firm. The accounting firm will audit and report to Cree its analysis of whether C&C has complied with its obligations under this Paragraph 7, but will not divulge to Cree any proprietary or confidential information (including but not limited to supporting schedules and source documentation) disclosed during the audit process.",
+      "text": "(e)    C&C will give Cree written notice upon the purchase from anyone other than Cree any portion of its requirements of SiC material for the production of gemstones. Thereafter Cree shall have the right, [****], to have an independent public accounting firm reasonably acceptable to C&C audit C&C's purchases of SiC material for the production of gemstones. The audit shall be conducted during normal business hours and upon reasonable prior notice. The accounting firm conducting the audit shall be required to enter into a mutually acceptable nondisclosure agreement with C&C under which such firm will be obligated not to disclose any information obtained during the course of the audit, except that it may disclose to Cree its analysis of whether C&C has complied with its obligations under this Paragraph 7. The audit right under this paragraph may be exercised not more than [****] during any Fiscal Year of Cree and only with respect to Fiscal Quarters ended within [****] preceding the request for an audit. C&C shall provide reasonable assistance to the public accounting firm including, but not limited to, providing a schedule of purchases, supporting analyses and any supporting source documentation reasonably required by the public accounting firm. The accounting firm will audit and report to Cree its analysis of whether C&C has complied with its obligations under this Paragraph 7, but will not divulge to Cree any proprietary or confidential information (including but not limited to supporting schedules and source documentation) disclosed during the audit process."
+    },
+    {
+      "self_ref": "#/texts/50",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 33.74999859375,
+            "t": 551.8694484823327,
+            "r": 555.1780166300816,
+            "b": 534.8568113710344,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            239
+          ]
+        }
+      ],
+      "orig": "(f)    Cree's sole and exclusive remedies for breach of this Paragraph 7 by C&C will be (i) to terminate the Parties' exclusivity obligations as provided in Paragraph 8(c) below or (ii) [****] for the [****] of Product purchased from Cree.",
+      "text": "(f)    Cree's sole and exclusive remedies for breach of this Paragraph 7 by C&C will be (i) to terminate the Parties' exclusivity obligations as provided in Paragraph 8(c) below or (ii) [****] for the [****] of Product purchased from Cree."
+    },
+    {
+      "self_ref": "#/texts/51",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 42.74999821875,
+            "t": 515.8694499823323,
+            "r": 257.0814173577744,
+            "b": 510.8568123710338,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            37
+          ]
+        }
+      ],
+      "orig": "8.    SELLER'S EXCLUSIVITY COMMITMENT",
+      "text": "8.    SELLER'S EXCLUSIVITY COMMITMENT",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/52",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 33.74999859375,
+            "t": 491.86945098233264,
+            "r": 577.6708163257946,
+            "b": 402.8568168710335,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            968
+          ]
+        }
+      ],
+      "orig": "(a)    Subject to the terms and conditions in this Paragraph 8, and except as permitted in Paragraphs 8(c) and (d), Cree agrees that during the Term of this Agreement (i) it will not sell SiC material or crystals in any form to any customer other than C&C if Cree knows or has reason to believe that such customer intends to use such material for the purpose of fabricating, distributing or selling gemstones (or enabling third parties to engage in such activities), (ii) it will use commercially reasonable efforts to contractually prohibit purchasers of its SiC material or crystals of a thickness that reasonably could be used for gemstone manufacture from fabricating, distributing or selling gemstones using such material or selling such materials to third parties if such customer knows or has reason to believe such third party intends to use the material for such purpose, and (iii) Cree will use commercially reasonable efforts to enforce any such provisions.",
+      "text": "(a)    Subject to the terms and conditions in this Paragraph 8, and except as permitted in Paragraphs 8(c) and (d), Cree agrees that during the Term of this Agreement (i) it will not sell SiC material or crystals in any form to any customer other than C&C if Cree knows or has reason to believe that such customer intends to use such material for the purpose of fabricating, distributing or selling gemstones (or enabling third parties to engage in such activities), (ii) it will use commercially reasonable efforts to contractually prohibit purchasers of its SiC material or crystals of a thickness that reasonably could be used for gemstone manufacture from fabricating, distributing or selling gemstones using such material or selling such materials to third parties if such customer knows or has reason to believe such third party intends to use the material for such purpose, and (iii) Cree will use commercially reasonable efforts to enforce any such provisions."
+    },
+    {
+      "self_ref": "#/texts/53",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 33.74999859375,
+            "t": 383.86945548233234,
+            "r": 577.6219756815042,
+            "b": 306.85682087103396,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            796
+          ]
+        }
+      ],
+      "orig": "(b)    Cree's obligations in Paragraph 8(a) are conditioned upon: (i) C&C's compliance with its exclusivity commitment in Paragraph 7; (ii) notwithstanding C&C's compliance with its exclusivity commitment in Paragraph 7, C&C's satisfaction of its Minimum Purchase Commitment for each Fiscal Quarter (including any permissible cure period) as provided in and determined by Paragraph 9 below; and (iii) C&C's timely payment of amounts due to Cree under this Agreement and any Sales Agreement created hereunder. With respect to item (iii), C&C will not be considered in violation of that condition if no more than [****] payments are past due during any [****]-month period and such past due amounts are paid within [****] days after written or verbal notice from Cree that the amounts are past due.",
+      "text": "(b)    Cree's obligations in Paragraph 8(a) are conditioned upon: (i) C&C's compliance with its exclusivity commitment in Paragraph 7; (ii) notwithstanding C&C's compliance with its exclusivity commitment in Paragraph 7, C&C's satisfaction of its Minimum Purchase Commitment for each Fiscal Quarter (including any permissible cure period) as provided in and determined by Paragraph 9 below; and (iii) C&C's timely payment of amounts due to Cree under this Agreement and any Sales Agreement created hereunder. With respect to item (iii), C&C will not be considered in violation of that condition if no more than [****] payments are past due during any [****]-month period and such past due amounts are paid within [****] days after written or verbal notice from Cree that the amounts are past due."
+    },
+    {
+      "self_ref": "#/texts/54",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 33.74999859375,
+            "t": 287.8694594823328,
+            "r": 575.3715458987458,
+            "b": 198.85682537103366,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1027
+          ]
+        }
+      ],
+      "orig": "(c)    If C&C fails to satisfy any condition in Paragraph 8(b), Cree, at its sole discretion, may terminate the Parties' respective exclusivity obligations by providing written notice of termination to C&C (the 'Exclusivity Termination Notice'). Following issuance of the Exclusivity Termination Notice by Cree, C&C shall be free to buy SiC materials from third party suppliers and Cree shall be free to sell SiC material to others for use in the fabrication of gemstones. For avoidance of doubt, except for the cure periods expressly provided in Paragraph 8(b) above for late payments and in Paragraph 9(b) below for satisfaction of C&C's Minimum Purchase Commitment, Cree shall not be required to give C&C any cure period prior to issuing an Exclusivity Termination Notice terminating the exclusivity provisions in this Agreement. Except for the exclusivity provisions in Paragraphs 7 and 8, the remainder of this Agreement will continue in full force and effect following any Exclusivity Termination Notice provided by Cree.",
+      "text": "(c)    If C&C fails to satisfy any condition in Paragraph 8(b), Cree, at its sole discretion, may terminate the Parties' respective exclusivity obligations by providing written notice of termination to C&C (the 'Exclusivity Termination Notice'). Following issuance of the Exclusivity Termination Notice by Cree, C&C shall be free to buy SiC materials from third party suppliers and Cree shall be free to sell SiC material to others for use in the fabrication of gemstones. For avoidance of doubt, except for the cure periods expressly provided in Paragraph 8(b) above for late payments and in Paragraph 9(b) below for satisfaction of C&C's Minimum Purchase Commitment, Cree shall not be required to give C&C any cure period prior to issuing an Exclusivity Termination Notice terminating the exclusivity provisions in this Agreement. Except for the exclusivity provisions in Paragraphs 7 and 8, the remainder of this Agreement will continue in full force and effect following any Exclusivity Termination Notice provided by Cree."
+    },
+    {
+      "self_ref": "#/texts/55",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 33.74999859375,
+            "t": 179.8694639823325,
+            "r": 540.6732901695063,
+            "b": 162.85682687103417,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            204
+          ]
+        }
+      ],
+      "orig": "[****] Confidential treatment requested pursuant to a request for confidential treatment filed with the Securities and Exchange Commission. Omitted portions have been separately filed with the Commission.",
+      "text": "[****] Confidential treatment requested pursuant to a request for confidential treatment filed with the Securities and Exchange Commission. Omitted portions have been separately filed with the Commission."
+    },
+    {
+      "self_ref": "#/texts/56",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 303.4921748544922,
+            "t": 131.86946598233226,
+            "r": 308.49092460871094,
+            "b": 126.85682837103377,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "7",
+      "text": "7"
+    },
+    {
+      "self_ref": "#/texts/57",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 33.74999859375,
+            "t": 719.8694414823331,
+            "r": 573.1846993548028,
+            "b": 594.8568088710344,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1420
+          ]
+        }
+      ],
+      "orig": "(d)    Notwithstanding anything to the contrary, Cree shall be free, without breach or default of this Paragraph 8 or any other provision of this Agreement, to sell [****] of SiC materials to third parties in such amounts (collectively not to exceed in any Fiscal Quarter [****] percent ([****]%) of the Minimum Purchase Commitment applicable to that Fiscal Quarter) and in such [****] as may reasonably be necessary to enable other potential customers to compare such SiC materials to materials they are buying from other sources and/or to evaluate Cree's SiC materials' ability to be used in the manufacture of gemstones, so that Cree is able to evaluate whether or not to exercise its rights under Paragraph 8(c) or 9 or pursue discussions or negotiations with a third party with respect to circumstances which may result from the exercise of Cree's rights under Paragraph 8(c) or 9 or otherwise related to a potential manufacturing or supply relationship with such third party that would not reasonably be anticipated to result in a breach of this Agreement by Cree (e.g., a relationship that would go into effect after expiration or termination of this Agreement). The foregoing sentence is not intended to waive or release any breach or default of this Paragraph 8 or any other provision of this Agreement that otherwise results from Cree entering into a manufacturing or supply relationship with such third party.",
+      "text": "(d)    Notwithstanding anything to the contrary, Cree shall be free, without breach or default of this Paragraph 8 or any other provision of this Agreement, to sell [****] of SiC materials to third parties in such amounts (collectively not to exceed in any Fiscal Quarter [****] percent ([****]%) of the Minimum Purchase Commitment applicable to that Fiscal Quarter) and in such [****] as may reasonably be necessary to enable other potential customers to compare such SiC materials to materials they are buying from other sources and/or to evaluate Cree's SiC materials' ability to be used in the manufacture of gemstones, so that Cree is able to evaluate whether or not to exercise its rights under Paragraph 8(c) or 9 or pursue discussions or negotiations with a third party with respect to circumstances which may result from the exercise of Cree's rights under Paragraph 8(c) or 9 or otherwise related to a potential manufacturing or supply relationship with such third party that would not reasonably be anticipated to result in a breach of this Agreement by Cree (e.g., a relationship that would go into effect after expiration or termination of this Agreement). The foregoing sentence is not intended to waive or release any breach or default of this Paragraph 8 or any other provision of this Agreement that otherwise results from Cree entering into a manufacturing or supply relationship with such third party."
+    },
+    {
+      "self_ref": "#/texts/58",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 42.74999821875,
+            "t": 575.8694474823324,
+            "r": 244.10131025655022,
+            "b": 570.8568098710339,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            34
+          ]
+        }
+      ],
+      "orig": "9.    BUYER'S PURCHASE COMMITMENTS",
+      "text": "9.    BUYER'S PURCHASE COMMITMENTS",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/59",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 33.74999859375,
+            "t": 551.8694484823327,
+            "r": 576.8019091781736,
+            "b": 330.8568198710336,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2350
+          ]
+        }
+      ],
+      "orig": "(a)    Each Fiscal Quarter, C&C agrees to purchase Products from Cree in quantities at or above the Minimum Purchase Commitment amount for such Fiscal Quarter. Failure to do so will, except as contemplated below, be considered a breach of the Agreement. The 'Minimum Purchase Commitment' for each Fiscal Quarter will be [****] (i) at least [****]% of C&C's requirements for SiC materials for the production of gemstones [****] from Cree, excluding from such calculation any SiC materials purchased from third parties as expressly permitted in Paragraph 7(a) (but including any SiC materials purchased from third parties as expressly permitted in Paragraph 7(b) or 7(c)), or (ii) (A) [****] kilograms in the [****] Quarter of [****]; (B) [****] kilograms in the [****] Quarter of [****]; (C) [****] kilograms in [****] Quarter of [****]; (D) [****] kilograms in [****] Quarter of [****]; and (E) [****] kilograms in [****] Quarter of [****]. If C&C exercises its Renewal Option or the parties otherwise agree to an extension of the Initial Term, no later than [****], the Parties will begin good faith discussions seeking to mutually agree upon the Minimum Purchase Commitment amounts for the Fiscal Quarters of the Renewal Term (or other mutually agreed-upon extension of the Initial Term), but in no event will the Minimum Purchase Commitment for any Fiscal Quarter during the Renewal Term (or other mutually agreed-upon extension of the Initial Term) be less than [****] kilograms. Notwithstanding any contrary language in the Agreement, if the Parties have not agreed in writing on the Minimum Purchase Commitment amounts by [****], or such later date as may be mutually agreed upon in writing by the Parties, (x) C&C shall have the right, by written notice given to Cree within [****] business days of [****] or such later agreed-upon date (if any), to have the Minimum Purchase Commitment amount for each Fiscal Quarter of the Renewal Term equal [****] kilograms for [****] Quarter of [****] and [****] kilograms for [****] Quarter of [****] (in which case the Renewal Term shall be effective), and (y) if C&C does not provide such written notice under the preceding clause (x), either Party, in its sole discretion, may terminate this Agreement as of the end of the Initial Term by providing the other Party notice of such termination decision.",
+      "text": "(a)    Each Fiscal Quarter, C&C agrees to purchase Products from Cree in quantities at or above the Minimum Purchase Commitment amount for such Fiscal Quarter. Failure to do so will, except as contemplated below, be considered a breach of the Agreement. The 'Minimum Purchase Commitment' for each Fiscal Quarter will be [****] (i) at least [****]% of C&C's requirements for SiC materials for the production of gemstones [****] from Cree, excluding from such calculation any SiC materials purchased from third parties as expressly permitted in Paragraph 7(a) (but including any SiC materials purchased from third parties as expressly permitted in Paragraph 7(b) or 7(c)), or (ii) (A) [****] kilograms in the [****] Quarter of [****]; (B) [****] kilograms in the [****] Quarter of [****]; (C) [****] kilograms in [****] Quarter of [****]; (D) [****] kilograms in [****] Quarter of [****]; and (E) [****] kilograms in [****] Quarter of [****]. If C&C exercises its Renewal Option or the parties otherwise agree to an extension of the Initial Term, no later than [****], the Parties will begin good faith discussions seeking to mutually agree upon the Minimum Purchase Commitment amounts for the Fiscal Quarters of the Renewal Term (or other mutually agreed-upon extension of the Initial Term), but in no event will the Minimum Purchase Commitment for any Fiscal Quarter during the Renewal Term (or other mutually agreed-upon extension of the Initial Term) be less than [****] kilograms. Notwithstanding any contrary language in the Agreement, if the Parties have not agreed in writing on the Minimum Purchase Commitment amounts by [****], or such later date as may be mutually agreed upon in writing by the Parties, (x) C&C shall have the right, by written notice given to Cree within [****] business days of [****] or such later agreed-upon date (if any), to have the Minimum Purchase Commitment amount for each Fiscal Quarter of the Renewal Term equal [****] kilograms for [****] Quarter of [****] and [****] kilograms for [****] Quarter of [****] (in which case the Renewal Term shall be effective), and (y) if C&C does not provide such written notice under the preceding clause (x), either Party, in its sole discretion, may terminate this Agreement as of the end of the Initial Term by providing the other Party notice of such termination decision."
+    },
+    {
+      "self_ref": "#/texts/60",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 33.74999859375,
+            "t": 312.6194584510822,
+            "r": 577.94421064949,
+            "b": 79.60683033978421,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2515
+          ]
+        }
+      ],
+      "orig": "(b)    To maintain Seller's exclusivity as provided in Paragraph 8 during the Term of this Agreement, C&C must, except to the extent otherwise provided herein, purchase Products from Cree in quantities at or above the applicable Minimum Purchase Commitment amount each Fiscal Quarter. If C&C fails to purchase Products from Cree in quantities at or above the applicable Minimum Purchase Commitment amount for a particular Fiscal Quarter, C&C will be permitted the opportunity to cure such shortfall by purchasing during the [****] an amount equal to the sum of the purchase shortfall from [****] and the Minimum Purchase Commitment for the new Fiscal Quarter. For example, if C&C only purchases [****] kilograms of Product during the [****] Quarter of [****], C&C may cure its purchase shortfall by purchasing at least [****] kilograms of Product during the [****] Quarter of [****], (The foregoing example assumes that [****]% of C&C's requirements for SiC materials for the production of gemstones [****] from Cree for both the [****] of [****] was less than [****] kilograms.) If C&C fails to cure the purchase shortfall in [****], Cree, at its sole discretion, may terminate the Parties' respective exclusivity obligations by providing an Exclusivity Termination Notice to C&C. If C&C fails to cure the purchase shortfall in the same manner by the [****] in quantities at or above the applicable Minimum Purchase Commitment amount, Cree, at its sole discretion, may terminate this Agreement by providing written notice of termination to C&C. For avoidance of doubt, unless otherwise agreed in writing by Cree, in order to cure a purchase shortfall for any Fiscal Quarter, C&C must purchase the aggregate amount of any prior shortfalls and the Minimum Purchase Commitment for the then-current Fiscal Quarter (i.e., the cure shall not be effective unless and until C&C has satisfied all Minimum Purchase Commitments for completed Fiscal Quarters). It will be C&C's responsibility to track its compliance with the Minimum Purchase Commitments and to be aware of any opportunities to cure any purchase shortfalls. Cree will have no obligation to give C&C written notice of any purchase shortfall. Upon Cree's written request, C&C will inform Cree in writing if [****]% of C&C's requirements for SiC materials for the production of gemstones [****] from Cree during any Fiscal Quarter was greater than the fixed quantity for such Fiscal Quarter set forth in clause (ii) of the first sentence of Paragraph 9(a) above.",
+      "text": "(b)    To maintain Seller's exclusivity as provided in Paragraph 8 during the Term of this Agreement, C&C must, except to the extent otherwise provided herein, purchase Products from Cree in quantities at or above the applicable Minimum Purchase Commitment amount each Fiscal Quarter. If C&C fails to purchase Products from Cree in quantities at or above the applicable Minimum Purchase Commitment amount for a particular Fiscal Quarter, C&C will be permitted the opportunity to cure such shortfall by purchasing during the [****] an amount equal to the sum of the purchase shortfall from [****] and the Minimum Purchase Commitment for the new Fiscal Quarter. For example, if C&C only purchases [****] kilograms of Product during the [****] Quarter of [****], C&C may cure its purchase shortfall by purchasing at least [****] kilograms of Product during the [****] Quarter of [****], (The foregoing example assumes that [****]% of C&C's requirements for SiC materials for the production of gemstones [****] from Cree for both the [****] of [****] was less than [****] kilograms.) If C&C fails to cure the purchase shortfall in [****], Cree, at its sole discretion, may terminate the Parties' respective exclusivity obligations by providing an Exclusivity Termination Notice to C&C. If C&C fails to cure the purchase shortfall in the same manner by the [****] in quantities at or above the applicable Minimum Purchase Commitment amount, Cree, at its sole discretion, may terminate this Agreement by providing written notice of termination to C&C. For avoidance of doubt, unless otherwise agreed in writing by Cree, in order to cure a purchase shortfall for any Fiscal Quarter, C&C must purchase the aggregate amount of any prior shortfalls and the Minimum Purchase Commitment for the then-current Fiscal Quarter (i.e., the cure shall not be effective unless and until C&C has satisfied all Minimum Purchase Commitments for completed Fiscal Quarters). It will be C&C's responsibility to track its compliance with the Minimum Purchase Commitments and to be aware of any opportunities to cure any purchase shortfalls. Cree will have no obligation to give C&C written notice of any purchase shortfall. Upon Cree's written request, C&C will inform Cree in writing if [****]% of C&C's requirements for SiC materials for the production of gemstones [****] from Cree during any Fiscal Quarter was greater than the fixed quantity for such Fiscal Quarter set forth in clause (ii) of the first sentence of Paragraph 9(a) above."
+    },
+    {
+      "self_ref": "#/texts/61",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 33.74999859375,
+            "t": 60.619468951083036,
+            "r": 540.6732901695063,
+            "b": 43.60683183978381,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            204
+          ]
+        }
+      ],
+      "orig": "[****] Confidential treatment requested pursuant to a request for confidential treatment filed with the Securities and Exchange Commission. Omitted portions have been separately filed with the Commission.",
+      "text": "[****] Confidential treatment requested pursuant to a request for confidential treatment filed with the Securities and Exchange Commission. Omitted portions have been separately filed with the Commission."
+    },
+    {
+      "self_ref": "#/texts/62",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 303.4921748544922,
+            "t": 737.8694407323328,
+            "r": 308.49092460871094,
+            "b": 732.8568031210343,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "8",
+      "text": "8"
+    },
+    {
+      "self_ref": "#/texts/63",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 33.74999859375,
+            "t": 719.8694414823321,
+            "r": 548.8763875792368,
+            "b": 702.8568043710347,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            127
+          ]
+        }
+      ],
+      "orig": "(c)    The following rules will apply in determining whether C&C has met its Minimum Purchase Commitment in any Fiscal Quarter:",
+      "text": "(c)    The following rules will apply in determining whether C&C has met its Minimum Purchase Commitment in any Fiscal Quarter:"
+    },
+    {
+      "self_ref": "#/texts/64",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 69.74999709375,
+            "t": 683.8694429823317,
+            "r": 576.198065804246,
+            "b": 594.8568088710354,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            884
+          ]
+        }
+      ],
+      "orig": "(i) If C&C orders Products for delivery in a particular Fiscal Quarter and Cree proposes delivery of any of the requested quantities in a later Fiscal Quarter, as provided in Paragraph 4, and any quantity of any deferred Products is needed in order for C&C to meet its Minimum Purchase Commitment for the Fiscal Quarter in which such Products were originally requested by C&C to be shipped, the needed quantity of deferred Products will be [****] in the Fiscal Quarter [****] to be shipped (rather than in the Fiscal Quarter [****]) solely for the purpose of determining whether the Minimum Purchase Commitment has been met, provided that C&C's orders do not request delivery during the Fiscal Quarter for an aggregate quantity of Products in excess of the quantity to be delivered during the preceding Fiscal Quarter, [****] a commercially reasonable [****] not to exceed [****]; and",
+      "text": "(i) If C&C orders Products for delivery in a particular Fiscal Quarter and Cree proposes delivery of any of the requested quantities in a later Fiscal Quarter, as provided in Paragraph 4, and any quantity of any deferred Products is needed in order for C&C to meet its Minimum Purchase Commitment for the Fiscal Quarter in which such Products were originally requested by C&C to be shipped, the needed quantity of deferred Products will be [****] in the Fiscal Quarter [****] to be shipped (rather than in the Fiscal Quarter [****]) solely for the purpose of determining whether the Minimum Purchase Commitment has been met, provided that C&C's orders do not request delivery during the Fiscal Quarter for an aggregate quantity of Products in excess of the quantity to be delivered during the preceding Fiscal Quarter, [****] a commercially reasonable [****] not to exceed [****]; and",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/65",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 69.74999709375,
+            "t": 575.8694474823324,
+            "r": 574.3919190475016,
+            "b": 498.8568128710349,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            796
+          ]
+        }
+      ],
+      "orig": "(ii) If Products ordered by C&C are not shipped by Cree in the Fiscal Quarter for which they were originally confirmed to be shipped by Cree, as provided in Paragraph 4, and the quantity of any delayed Products is needed in order for C&C to meet its Minimum Purchase Commitment for the Fiscal Quarter in which such Products were originally confirmed by Cree to be shipped, the needed quantity of delayed Products will be [****] in the Fiscal Quarter [****] to be shipped (rather than in the Fiscal Quarter [****]) solely for the purpose of determining whether the Minimum Purchase Commitment has been met, provided that shipment of such Products is not delayed to the Fiscal Quarter in which the delayed Products are later shipped due to any cause reasonably and directly attributable to C&C; and",
+      "text": "(ii) If Products ordered by C&C are not shipped by Cree in the Fiscal Quarter for which they were originally confirmed to be shipped by Cree, as provided in Paragraph 4, and the quantity of any delayed Products is needed in order for C&C to meet its Minimum Purchase Commitment for the Fiscal Quarter in which such Products were originally confirmed by Cree to be shipped, the needed quantity of delayed Products will be [****] in the Fiscal Quarter [****] to be shipped (rather than in the Fiscal Quarter [****]) solely for the purpose of determining whether the Minimum Purchase Commitment has been met, provided that shipment of such Products is not delayed to the Fiscal Quarter in which the delayed Products are later shipped due to any cause reasonably and directly attributable to C&C; and",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/66",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 69.74999709375,
+            "t": 480.61945145108257,
+            "r": 575.280440191568,
+            "b": 451.60681483978533,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            311
+          ]
+        }
+      ],
+      "orig": "(iii) If C&C purchases more that its Minimum Purchase Commitment in any Fiscal Quarter, it may apply the excess toward its Minimum Purchase Commitment in the [****], but only up to the amount needed to achieve the Minimum Purchase Commitment (i.e., application of the excess amount may not create a new excess).",
+      "text": "(iii) If C&C purchases more that its Minimum Purchase Commitment in any Fiscal Quarter, it may apply the excess toward its Minimum Purchase Commitment in the [****], but only up to the amount needed to achieve the Minimum Purchase Commitment (i.e., application of the excess amount may not create a new excess).",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/67",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 42.74999821875,
+            "t": 432.61945345108234,
+            "r": 170.88754603059772,
+            "b": 427.60681583978476,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            23
+          ]
+        }
+      ],
+      "orig": "10.    LIMITED WARRANTY",
+      "text": "10.    LIMITED WARRANTY",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/68",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 33.74999859375,
+            "t": 408.61945445108177,
+            "r": 577.7830906232647,
+            "b": 247.60682333978457,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1792
+          ]
+        }
+      ],
+      "orig": "(a)    Cree warrants to C&C that each Product shall conform strictly to and perform in accordance with the Specification for that Product (within the deviations specified in such Specifications, if any). All breach of warranty claims must be reported to Cree as soon as possible, but in any event not later than 90 days after shipment. If not so reported, such claims will be deemed waived. C&C must request a return materials authorization (RMA) from Cree and return the non-conforming Products to Cree, FOB Cree's manufacturing facility, within ten (10) days after receipt of the RMA, and Cree shall promptly provide an RMA upon C&C's request. Cree will have no liability under this warranty unless Cree is notified in writing promptly upon C&C's discovery of the defect and the alleged defective Products are returned to Cree as provided above. All breach of warranty claims are subject to verification by Cree, and both Parties must agree on the existence and extent of any claimed defect or failure to perform or, in the absence of such verification or agreement, the existence and extent of any claimed defect or failure to perform shall have been found to exist or occur pursuant to Paragraph 16(b). Cree's sole liability and obligation and C&C's sole and exclusive remedy under this warranty is limited to repair or replacement of items determined by Cree to be defective or, at Cree's sole option, refund of (or if not yet paid, reduce the amount owed by C&C under the relevant invoice by the amount of the purchase price invoiced for such defective Products [****]) the purchase price charged by Cree for the defective Products. ANY SCRAP MATERIAL OR NON-STANDARD PRODUCTS REQUESTED BY C&C AND SUPPLIED UNDER THIS AGREEMENT WILL BE SUPPLIED \"AS IS\" AND WITHOUT WARRANTY OF ANY KIND.",
+      "text": "(a)    Cree warrants to C&C that each Product shall conform strictly to and perform in accordance with the Specification for that Product (within the deviations specified in such Specifications, if any). All breach of warranty claims must be reported to Cree as soon as possible, but in any event not later than 90 days after shipment. If not so reported, such claims will be deemed waived. C&C must request a return materials authorization (RMA) from Cree and return the non-conforming Products to Cree, FOB Cree's manufacturing facility, within ten (10) days after receipt of the RMA, and Cree shall promptly provide an RMA upon C&C's request. Cree will have no liability under this warranty unless Cree is notified in writing promptly upon C&C's discovery of the defect and the alleged defective Products are returned to Cree as provided above. All breach of warranty claims are subject to verification by Cree, and both Parties must agree on the existence and extent of any claimed defect or failure to perform or, in the absence of such verification or agreement, the existence and extent of any claimed defect or failure to perform shall have been found to exist or occur pursuant to Paragraph 16(b). Cree's sole liability and obligation and C&C's sole and exclusive remedy under this warranty is limited to repair or replacement of items determined by Cree to be defective or, at Cree's sole option, refund of (or if not yet paid, reduce the amount owed by C&C under the relevant invoice by the amount of the purchase price invoiced for such defective Products [****]) the purchase price charged by Cree for the defective Products. ANY SCRAP MATERIAL OR NON-STANDARD PRODUCTS REQUESTED BY C&C AND SUPPLIED UNDER THIS AGREEMENT WILL BE SUPPLIED \"AS IS\" AND WITHOUT WARRANTY OF ANY KIND."
+    },
+    {
+      "self_ref": "#/texts/69",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 33.74999859375,
+            "t": 228.61946195108249,
+            "r": 540.6732901695063,
+            "b": 211.60682483978508,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            204
+          ]
+        }
+      ],
+      "orig": "[****] Confidential treatment requested pursuant to a request for confidential treatment filed with the Securities and Exchange Commission. Omitted portions have been separately filed with the Commission.",
+      "text": "[****] Confidential treatment requested pursuant to a request for confidential treatment filed with the Securities and Exchange Commission. Omitted portions have been separately filed with the Commission."
+    },
+    {
+      "self_ref": "#/texts/70",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 303.4921748544922,
+            "t": 180.61946395108225,
+            "r": 308.49092460871094,
+            "b": 175.60682633978467,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "9",
+      "text": "9"
+    },
+    {
+      "self_ref": "#/texts/71",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 33.74999859375,
+            "t": 719.8694414823312,
+            "r": 577.8758611843379,
+            "b": 630.8568073710339,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1025
+          ]
+        }
+      ],
+      "orig": "(b)    Cree's warranty will not apply to any defect or failure to perform resulting from misapplication, improper installation, improper operation, abuse, or contamination, whether internal or external, and Cree will have no liability of any kind for failures caused by services, materials and items not supplied by Cree. Remedies of C&C for any breach of warranty under Paragraph 10(a) are limited to those provided in Paragraph 10(a) to the exclusion of all other remedies, including, without limitation, loss of profits, production or revenue, business interruption or any consequential, incidental, special or punitive damages. No representation, warranty, affirmation or agreement of Cree varying or extending the foregoing warranty and limitation of remedy provisions may be relied upon unless it is in writing and signed by the President or a Vice President of Cree. C&C understands that, without limitation of the warranty provided in Paragraph 10(a), the Products may not conform to any model or sample shown to C&C.",
+      "text": "(b)    Cree's warranty will not apply to any defect or failure to perform resulting from misapplication, improper installation, improper operation, abuse, or contamination, whether internal or external, and Cree will have no liability of any kind for failures caused by services, materials and items not supplied by Cree. Remedies of C&C for any breach of warranty under Paragraph 10(a) are limited to those provided in Paragraph 10(a) to the exclusion of all other remedies, including, without limitation, loss of profits, production or revenue, business interruption or any consequential, incidental, special or punitive damages. No representation, warranty, affirmation or agreement of Cree varying or extending the foregoing warranty and limitation of remedy provisions may be relied upon unless it is in writing and signed by the President or a Vice President of Cree. C&C understands that, without limitation of the warranty provided in Paragraph 10(a), the Products may not conform to any model or sample shown to C&C."
+    },
+    {
+      "self_ref": "#/texts/72",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 51.749997843749995,
+            "t": 611.869445982331,
+            "r": 367.6519686802548,
+            "b": 606.8568083710343,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            83
+          ]
+        }
+      ],
+      "orig": "(c)    Each Party represents and warrants to the other that, as of the date hereof:",
+      "text": "(c)    Each Party represents and warrants to the other that, as of the date hereof:",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/73",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 87.74999634375,
+            "t": 587.8694469823313,
+            "r": 577.9310269250385,
+            "b": 570.8568098710339,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            207
+          ]
+        }
+      ],
+      "orig": "i. it is duly organized and validly existing under the laws of its jurisdiction of organization, and has full corporate power and authority to enter into this Agreement and to carry out the provisions hereof",
+      "text": "it is duly organized and validly existing under the laws of its jurisdiction of organization, and has full corporate power and authority to enter into this Agreement and to carry out the provisions hereof",
+      "enumerated": true,
+      "marker": "i."
+    },
+    {
+      "self_ref": "#/texts/74",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 87.74999634375,
+            "t": 551.8694484823318,
+            "r": 576.207867196837,
+            "b": 534.8568113710344,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            239
+          ]
+        }
+      ],
+      "orig": "ii. it is duly authorized to execute and deliver this Agreement and to perform its obligations hereunder, and the person or persons executing this Agreement on its behalf has been duly authorized to do so by all requisite corporate action;",
+      "text": "it is duly authorized to execute and deliver this Agreement and to perform its obligations hereunder, and the person or persons executing this Agreement on its behalf has been duly authorized to do so by all requisite corporate action;",
+      "enumerated": true,
+      "marker": "ii."
+    },
+    {
+      "self_ref": "#/texts/75",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 87.74999634375,
+            "t": 515.8694499823314,
+            "r": 566.1420973482446,
+            "b": 474.8568138710343,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            385
+          ]
+        }
+      ],
+      "orig": "iii. this Agreement is legally binding upon it and enforceable in accordance with its terms. The execution, delivery and performance of this Agreement by it does not conflict with any agreement, instrument or understanding, oral or written, to which it is a party or by which it may be bound, nor violate any law or regulation of any governmental authority having jurisdiction over it;",
+      "text": "this Agreement is legally binding upon it and enforceable in accordance with its terms. The execution, delivery and performance of this Agreement by it does not conflict with any agreement, instrument or understanding, oral or written, to which it is a party or by which it may be bound, nor violate any law or regulation of any governmental authority having jurisdiction over it;",
+      "enumerated": true,
+      "marker": "iii."
+    },
+    {
+      "self_ref": "#/texts/76",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 87.74999634375,
+            "t": 455.8694524823313,
+            "r": 576.9058967863405,
+            "b": 438.8568153710339,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            185
+          ]
+        }
+      ],
+      "orig": "iv. it is aware of no action, suit or inquiry or investigation instituted by any governmental agency or other third party that questions or threatens the validity of this Agreement; and",
+      "text": "it is aware of no action, suit or inquiry or investigation instituted by any governmental agency or other third party that questions or threatens the validity of this Agreement; and",
+      "enumerated": true,
+      "marker": "iv."
+    },
+    {
+      "self_ref": "#/texts/77",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 87.74999634375,
+            "t": 419.8694539823309,
+            "r": 568.5682445721552,
+            "b": 378.85681787103385,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            416
+          ]
+        }
+      ],
+      "orig": "v. all necessary consents, approvals and authorizations of all governmental authorities and third parties required to be obtained by such Party to enter into this Agreement and to perform under and pursuant to this Agreement have been obtained (provided, however, that the foregoing shall not be construed as a representation or warranty concerning non-infringement of intellectual property rights of Third Parties).",
+      "text": "all necessary consents, approvals and authorizations of all governmental authorities and third parties required to be obtained by such Party to enter into this Agreement and to perform under and pursuant to this Agreement have been obtained (provided, however, that the foregoing shall not be construed as a representation or warranty concerning non-infringement of intellectual property rights of Third Parties).",
+      "enumerated": true,
+      "marker": "v."
+    },
+    {
+      "self_ref": "#/texts/78",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 33.74999859375,
+            "t": 359.86945648233177,
+            "r": 573.5363180285649,
+            "b": 294.85682137103413,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            582
+          ]
+        }
+      ],
+      "orig": "(d) THE FOREGOING WARRANTY PROVISIONS ARE EXCLUSIVE AND ARE GIVEN AND ACCEPTED IN LIEU OF ANY AND ALL OTHER WARRANTIES, WHETHER EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION ANY WARRANTY AGAINST INFRINGEMENT OR ANY IMPLIED WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE. This Paragraph 10 (as limited by other applicable terms and conditions of this Agreement) shall survive with full force and effect after the termination or expiration of this Agreement with respect to Products that are included in a Sales Agreement prior to such termination or expiration.",
+      "text": "(d) THE FOREGOING WARRANTY PROVISIONS ARE EXCLUSIVE AND ARE GIVEN AND ACCEPTED IN LIEU OF ANY AND ALL OTHER WARRANTIES, WHETHER EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION ANY WARRANTY AGAINST INFRINGEMENT OR ANY IMPLIED WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE. This Paragraph 10 (as limited by other applicable terms and conditions of this Agreement) shall survive with full force and effect after the termination or expiration of this Agreement with respect to Products that are included in a Sales Agreement prior to such termination or expiration."
+    },
+    {
+      "self_ref": "#/texts/79",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 33.74999859375,
+            "t": 275.86945998233114,
+            "r": 578.2436014040765,
+            "b": 258.8568228710337,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            220
+          ]
+        }
+      ],
+      "orig": "[****]  Confidential  treatment  requested  pursuant  to  a  request  for  confidential  treatment  filed  with  the  Securities  and  Exchange Commission. Omitted portions have been separately filed with the Commission.",
+      "text": "[****]  Confidential  treatment  requested  pursuant  to  a  request  for  confidential  treatment  filed  with  the  Securities  and  Exchange Commission. Omitted portions have been separately filed with the Commission."
+    },
+    {
+      "self_ref": "#/texts/80",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 300.99608495849594,
+            "t": 227.8694619823309,
+            "r": 310.9935794794336,
+            "b": 222.85682437103424,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "10",
+      "text": "10"
+    }
+  ],
+  "pictures": [],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 2
+    },
+    "3": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 3
+    },
+    "4": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 4
+    },
+    "5": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 5
+    },
+    "6": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 6
+    },
+    "7": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 7
+    },
+    "8": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 8
+    },
+    "9": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 9
+    },
+    "10": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 10
+    },
+    "11": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 11
+    }
+  }
+}

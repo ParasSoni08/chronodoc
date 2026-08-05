@@ -1,0 +1,184 @@
+{
+  "doc_id": "charles-colvard-cree-esa-amendment2-2020",
+  "source_file": "charles_colvard_cree_esa_2nd_amendment_2020.pdf",
+  "doc_type": "contract",
+  "ingestion_date": "2026-08-05",
+  "effective_date": "June 30, 2020",
+  "vendor": {
+    "name": "CREE, INC.",
+    "normalized_name": "cree_inc"
+  },
+  "sections": [
+    {
+      "section_id": "s1",
+      "heading": "SECOND AMENDMENT TO EXCLUSIVE SUPPLY AGREEMENT",
+      "page_range": [
+        1,
+        1
+      ]
+    }
+  ],
+  "clauses": [
+    {
+      "clause_id": "c1",
+      "clause_type": "effective_date",
+      "text_summary": "June 30, 2020",
+      "page_ref": 1,
+      "bbox": [
+        33.74999859375,
+        635.1194450135819,
+        573.9707260220521,
+        570.1068099022839
+      ],
+      "confidence": 1.0
+    },
+    {
+      "clause_id": "c2",
+      "clause_type": "term",
+      "text_summary": "begin on the Effective Date and expire on June 29, 2025",
+      "page_ref": 1,
+      "bbox": [
+        51.749997843749995,
+        311.11945851358195,
+        458.6854119371944,
+        306.10682090228386
+      ],
+      "confidence": 1.0
+    },
+    {
+      "clause_id": "c3",
+      "clause_type": "price_payment_terms",
+      "text_summary": "[***] months prior to the expiration date of the Term, C&C will notify Cree in writing of C&C's desire to continue the business relationship after the expiration of the Term.",
+      "page_ref": 1,
+      "bbox": [
+        51.749997843749995,
+        311.11945851358195,
+        458.6854119371944,
+        306.10682090228386
+      ],
+      "confidence": 1.0
+    },
+    {
+      "clause_id": "c4",
+      "clause_type": "buyer_exclusivity_commitment",
+      "text_summary": "C&C has requested that Cree consider accepting Purchase Orders in excess of the agreed-upon Minimum Purchase Commitment for a particular quarter (such amounts, 'Upside').",
+      "page_ref": 2,
+      "bbox": [
+        51.749997843749995,
+        617.8694457323319,
+        452.3246946772244,
+        612.8568081210339
+      ],
+      "confidence": 1.0
+    },
+    {
+      "clause_id": "c5",
+      "clause_type": "seller_exclusivity_commitment",
+      "text_summary": "For the avoidance of doubt, C&C's timely adherence to the payment schedule set forth below for [***] shall [***].",
+      "page_ref": 2,
+      "bbox": [
+        51.749997843749995,
+        370.36945604483185,
+        281.0770978625414,
+        365.3568184335338
+      ],
+      "confidence": 1.0
+    },
+    {
+      "clause_id": "c6",
+      "clause_type": "buyer_purchase_commitments",
+      "text_summary": "Each Fiscal Quarter, C&C agrees to purchase Products from Cree in quantities at or above the Minimum Purchase Commitment amount for such Fiscal Quarter.",
+      "page_ref": 2,
+      "bbox": [
+        51.749997843749995,
+        179.8694639823318,
+        368.78452188306505,
+        174.85682637103378
+      ],
+      "confidence": 1.0
+    },
+    {
+      "clause_id": "c7",
+      "clause_type": "miscellaneous",
+      "text_summary": "All modifications and changes in this Second Amendment shall be effective as of the Second Amendment Effective Date, notwithstanding a later or earlier execution date.",
+      "page_ref": 4,
+      "bbox": [
+        69.74999709375,
+        422.8694538573318,
+        575.0722017191564,
+        309.85682074603346
+      ],
+      "confidence": 1.0
+    }
+  ],
+  "entities": [
+    {
+      "entity_id": "e1",
+      "entity_type": "party_name",
+      "value": "CHARLES & COLVARD, LTD.",
+      "unit": null,
+      "page_ref": 1,
+      "bbox": [
+        33.74999859375,
+        635.1194450135819,
+        573.9707260220521,
+        570.1068099022839
+      ],
+      "confidence": 1.0,
+      "linked_clause": null
+    },
+    {
+      "entity_id": "e2",
+      "entity_type": "party_name",
+      "value": "CREE, INC.",
+      "unit": null,
+      "page_ref": 1,
+      "bbox": [
+        33.74999859375,
+        635.1194450135819,
+        573.9707260220521,
+        570.1068099022839
+      ],
+      "confidence": 1.0,
+      "linked_clause": null
+    },
+    {
+      "entity_type": "date",
+      "value": "June 30, 2020",
+      "unit": null,
+      "page_ref": 1,
+      "bbox": [
+        33.74999859375,
+        635.1194450135819,
+        573.9707260220521,
+        570.1068099022839
+      ],
+      "confidence": 1.0,
+      "linked_clause": "c1",
+      "entity_id": "e3"
+    },
+    {
+      "entity_type": "date",
+      "value": "June 29, 2025",
+      "unit": null,
+      "page_ref": 1,
+      "bbox": [
+        51.749997843749995,
+        311.11945851358195,
+        458.6854119371944,
+        306.10682090228386
+      ],
+      "confidence": 0.95,
+      "linked_clause": "c2",
+      "entity_id": "e4"
+    }
+  ],
+  "visual_elements": [],
+  "cross_references": [
+    {
+      "from_clause": "c3",
+      "to": "Exhibit A",
+      "text": "The 'Pricing for [***] SiC [***] crystals (all prices are per gram) Meeting Forever One TM  Specifications' section in Exhibit A is hereby deleted in its entirety and replaced with the following:"
+    }
+  ]
+}
